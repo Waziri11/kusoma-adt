@@ -7,6 +7,13 @@
     "level": 1
   },
   {
+    "section_id": "pg002_sec001",
+    "href": "pg002_sec001.html",
+    "title": "Taarifa za uchapishaji",
+    "chapter_id": "pg002_n0001",
+    "level": 1
+  },
+  {
     "section_id": "pg003_sec001",
     "href": "pg003_sec001.html",
     "title": "Yaliyomo",
@@ -18,6 +25,13 @@
     "href": "pg004_sec001.html",
     "title": "Sura ya Nane",
     "chapter_id": "pg004_n0004",
+    "level": 1
+  },
+  {
+    "section_id": "pg005_sec001",
+    "href": "pg005_sec001.html",
+    "title": "Shukurani",
+    "chapter_id": "pg005_n0001",
     "level": 1
   },
   {
@@ -86,7 +100,7 @@
   {
     "section_id": "pg016_sec001",
     "href": "pg016_sec001.html",
-    "title": "Tazama picha hii.",
+    "title": "Chunguza picha hii.",
     "chapter_id": "pg016_n0003",
     "level": 2
   },
