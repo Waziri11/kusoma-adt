@@ -10,6 +10,20 @@
     <link href="./content/tailwind_output.css" rel="stylesheet">
     <link href="./assets/libs/fontawesome/css/all.min.css" rel="stylesheet">
     <link href="./assets/fonts.css" rel="stylesheet">
+    <style>
+      .pg026-picture-row img {
+        width: min(30%, 420px);
+        max-width: 100%;
+        height: auto;
+        object-fit: contain;
+      }
+
+      @media (max-width: 1024px) {
+        .pg026-picture-row img {
+          width: min(100%, 420px);
+        }
+      }
+    </style>
 </head>
 
 <body class="min-h-screen flex items-center justify-center">
@@ -23,10 +37,10 @@
       <h1 data-id="pg026_n0002" class="text-center text-4xl font-bold italic tracking-wide text-sky-500 max-lg:text-3xl max-sm:text-2xl">Taja majina ya picha hizi.</h1>
     </div>
 
-    <div class="relative z-10 mb-8 flex items-end justify-center gap-10 max-lg:flex-col max-lg:items-center max-lg:gap-6">
-      <img data-id="pg026_im001" src="images/pg026_im001.jpg" alt="Nazi nzima na vipande viwili vya nazi vilivyokatwa." class="h-52 w-auto object-contain max-lg:h-44 max-sm:h-36" style="max-width: 100%; height: auto;">
-      <img data-id="pg026_im003" src="images/pg026_im003.jpg" alt="Nesi mwenye sare nyeupe na stethoskopu, ameshika ubao wa kuandikia." class="h-56 w-auto object-contain max-lg:h-48 max-sm:h-40" style="max-width: 100%; height: auto;">
-      <img data-id="pg026_im002" src="images/pg026_im002.jpg" alt="Dirisha la mbao lenye sehemu mbili." class="h-52 w-auto object-contain max-lg:h-44 max-sm:h-36" style="max-width: 100%; height: auto;">
+    <div class="pg026-picture-row relative z-10 mb-8 flex items-end justify-center gap-10 max-lg:flex-col max-lg:items-center max-lg:gap-6">
+      <img data-id="pg026_im001" src="images/pg026_im001.jpg" alt="Nazi nzima na vipande viwili vya nazi vilivyokatwa.">
+      <img data-id="pg026_im003" src="images/pg026_im003.jpg" alt="Nesi mwenye sare nyeupe na stethoskopu, ameshika ubao wa kuandikia.">
+      <img data-id="pg026_im002" src="images/pg026_im002.jpg" alt="Dirisha la mbao lenye sehemu mbili.">
     </div>
 
     <div class="relative z-10 mb-10 ml-12 max-w-4xl space-y-2 text-2xl leading-relaxed text-zinc-800 max-lg:ml-0 max-lg:text-xl max-sm:text-lg">
