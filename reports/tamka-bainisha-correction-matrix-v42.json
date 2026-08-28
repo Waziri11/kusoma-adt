@@ -1,0 +1,1169 @@
+{
+  "version": 42,
+  "stable_base_id_count": 83,
+  "text_entry_count": 166,
+  "corrections": [
+    {
+      "base_id": "pg012_n0005",
+      "page": 12,
+      "normal": {
+        "text_id": "pg012_n0005",
+        "expected_old": "Tamka sauti au bainisha herufi za mwanzo za maneno uliyoyataja.",
+        "expected_new": "Tamka / bainisha herufi za mwanzo za maneno uliyoyataja."
+      },
+      "easy_read": {
+        "text_id": "pg012_n0005_easy_read",
+        "expected_old": "Tamka sauti au bainisha herufi za mwanzo za maneno uliyo yataja.",
+        "expected_new": "Tamka / bainisha herufi za mwanzo za maneno uliyo yataja."
+      }
+    },
+    {
+      "base_id": "pg013_n0008",
+      "page": 13,
+      "normal": {
+        "text_id": "pg013_n0008",
+        "expected_old": "Tamka sauti au bainisha herufi ya mwanzo ya maneno haya.",
+        "expected_new": "Tamka / bainisha herufi ya mwanzo ya maneno haya."
+      },
+      "easy_read": {
+        "text_id": "pg013_n0008_easy_read",
+        "expected_old": "Tamka sauti au bainisha herufi ya kwanza ya maneno haya.",
+        "expected_new": "Tamka / bainisha herufi ya kwanza ya maneno haya."
+      }
+    },
+    {
+      "base_id": "pg013_n0032",
+      "page": 13,
+      "normal": {
+        "text_id": "pg013_n0032",
+        "expected_old": "Tamka sauti au bainisha herufi ya mwanzo ya neno ulilolitaja.",
+        "expected_new": "Tamka / bainisha herufi ya mwanzo ya neno ulilolitaja."
+      },
+      "easy_read": {
+        "text_id": "pg013_n0032_easy_read",
+        "expected_old": "Tamka sauti au bainisha herufi ya kwanza ya neno ulilotaja.",
+        "expected_new": "Tamka / bainisha herufi ya kwanza ya neno ulilotaja."
+      }
+    },
+    {
+      "base_id": "pg013_n0040",
+      "page": 13,
+      "normal": {
+        "text_id": "pg013_n0040",
+        "expected_old": "Tamka sauti au bainisha herufi ya mwanzo ya maneno haya.",
+        "expected_new": "Tamka / bainisha herufi ya mwanzo ya maneno haya."
+      },
+      "easy_read": {
+        "text_id": "pg013_n0040_easy_read",
+        "expected_old": "Tamka sauti au bainisha herufi ya kwanza ya maneno haya.",
+        "expected_new": "Tamka / bainisha herufi ya kwanza ya maneno haya."
+      }
+    },
+    {
+      "base_id": "pg014_n0017",
+      "page": 14,
+      "normal": {
+        "text_id": "pg014_n0017",
+        "expected_old": "5. Tamka sauti au bainisha herufi ya mwanzo ya neno ulilolitaja.",
+        "expected_new": "5. Tamka / bainisha herufi ya mwanzo ya neno ulilolitaja."
+      },
+      "easy_read": {
+        "text_id": "pg014_n0017_easy_read",
+        "expected_old": "5. Tamka sauti au bainisha herufi ya kwanza ya neno ulilotaja.",
+        "expected_new": "5. Tamka / bainisha herufi ya kwanza ya neno ulilotaja."
+      }
+    },
+    {
+      "base_id": "pg014_n0025",
+      "page": 14,
+      "normal": {
+        "text_id": "pg014_n0025",
+        "expected_old": "Tamka sauti au bainisha herufi ya mwanzo ya maneno haya.",
+        "expected_new": "Tamka / bainisha herufi ya mwanzo ya maneno haya."
+      },
+      "easy_read": {
+        "text_id": "pg014_n0025_easy_read",
+        "expected_old": "Tamka sauti au bainisha herufi ya kwanza ya maneno haya.",
+        "expected_new": "Tamka / bainisha herufi ya kwanza ya maneno haya."
+      }
+    },
+    {
+      "base_id": "pg014_n0050",
+      "page": 14,
+      "normal": {
+        "text_id": "pg014_n0050",
+        "expected_old": "5. Tamka sauti au bainisha herufi ya mwanzo ya neno ulilolitaja.",
+        "expected_new": "5. Tamka / bainisha herufi ya mwanzo ya neno ulilolitaja."
+      },
+      "easy_read": {
+        "text_id": "pg014_n0050_easy_read",
+        "expected_old": "5. Tamka sauti au bainisha herufi ya kwanza ya neno ulilotaja.",
+        "expected_new": "5. Tamka / bainisha herufi ya kwanza ya neno ulilotaja."
+      }
+    },
+    {
+      "base_id": "pg015_n0008",
+      "page": 15,
+      "normal": {
+        "text_id": "pg015_n0008",
+        "expected_old": "Tamka sauti au bainisha herufi ya mwanzo ya maneno haya.",
+        "expected_new": "Tamka / bainisha herufi ya mwanzo ya maneno haya."
+      },
+      "easy_read": {
+        "text_id": "pg015_n0008_easy_read",
+        "expected_old": "Tamka sauti au bainisha herufi ya mwanzo ya maneno haya.",
+        "expected_new": "Tamka / bainisha herufi ya mwanzo ya maneno haya."
+      }
+    },
+    {
+      "base_id": "pg015_n0033",
+      "page": 15,
+      "normal": {
+        "text_id": "pg015_n0033",
+        "expected_old": "Tamka sauti au bainisha herufi ya mwanzo ya neno ulilolitaja.",
+        "expected_new": "Tamka / bainisha herufi ya mwanzo ya neno ulilolitaja."
+      },
+      "easy_read": {
+        "text_id": "pg015_n0033_easy_read",
+        "expected_old": "Tamka sauti au bainisha herufi ya mwanzo ya neno ulilotaja.",
+        "expected_new": "Tamka / bainisha herufi ya mwanzo ya neno ulilotaja."
+      }
+    },
+    {
+      "base_id": "pg015_n0041",
+      "page": 15,
+      "normal": {
+        "text_id": "pg015_n0041",
+        "expected_old": "Tamka sauti au bainisha herufi ya mwanzo ya maneno haya.",
+        "expected_new": "Tamka / bainisha herufi ya mwanzo ya maneno haya."
+      },
+      "easy_read": {
+        "text_id": "pg015_n0041_easy_read",
+        "expected_old": "Tamka sauti au bainisha herufi ya mwanzo ya maneno haya.",
+        "expected_new": "Tamka / bainisha herufi ya mwanzo ya maneno haya."
+      }
+    },
+    {
+      "base_id": "pg016_n0006",
+      "page": 16,
+      "normal": {
+        "text_id": "pg016_n0006",
+        "expected_old": "5. Tamka sauti au bainisha herufi ya mwanzo ya neno ulilolitaja.",
+        "expected_new": "5. Tamka / bainisha herufi ya mwanzo ya neno ulilolitaja."
+      },
+      "easy_read": {
+        "text_id": "pg016_n0006_easy_read",
+        "expected_old": "5. Tamka sauti au bainisha herufi ya kwanza ya neno ulilotaja.",
+        "expected_new": "5. Tamka / bainisha herufi ya kwanza ya neno ulilotaja."
+      }
+    },
+    {
+      "base_id": "pg016_n0011",
+      "page": 16,
+      "normal": {
+        "text_id": "pg016_n0011",
+        "expected_old": "Tamka sauti au bainisha herufi ya mwanzo ya maneno haya kwa kurudiarudia.",
+        "expected_new": "Tamka / bainisha herufi ya mwanzo ya maneno haya kwa kurudiarudia."
+      },
+      "easy_read": {
+        "text_id": "pg016_n0011_easy_read",
+        "expected_old": "Tamka sauti au bainisha herufi ya kwanza ya maneno haya.\nRudia tena na tena.",
+        "expected_new": "Tamka / bainisha herufi ya kwanza ya maneno haya.\nRudia tena na tena."
+      }
+    },
+    {
+      "base_id": "pg017_n0017",
+      "page": 17,
+      "normal": {
+        "text_id": "pg017_n0017",
+        "expected_old": "1. Tamka sauti au bainisha herufi ya mwanzo ya neno ulilolitaja.",
+        "expected_new": "1. Tamka / bainisha herufi ya mwanzo ya neno ulilolitaja."
+      },
+      "easy_read": {
+        "text_id": "pg017_n0017_easy_read",
+        "expected_old": "1. Tamka sauti au bainisha herufi ya mwanzo ya neno ulilotaja.",
+        "expected_new": "1. Tamka / bainisha herufi ya mwanzo ya neno ulilotaja."
+      }
+    },
+    {
+      "base_id": "pg017_n0023",
+      "page": 17,
+      "normal": {
+        "text_id": "pg017_n0023",
+        "expected_old": "1. Tamka sauti au bainisha herufi za mwanzo za maneno uliyoyataja.",
+        "expected_new": "1. Tamka / bainisha herufi za mwanzo za maneno uliyoyataja."
+      },
+      "easy_read": {
+        "text_id": "pg017_n0023_easy_read",
+        "expected_old": "1. Tamka sauti au bainisha herufi za mwanzo za maneno uliyotaja.",
+        "expected_new": "1. Tamka / bainisha herufi za mwanzo za maneno uliyotaja."
+      }
+    },
+    {
+      "base_id": "pg019_n0044",
+      "page": 19,
+      "normal": {
+        "text_id": "pg019_n0044",
+        "expected_old": "Tamka sauti au bainisha herufi ya mwanzo ya neno ulilolitaja.",
+        "expected_new": "Tamka / bainisha herufi ya mwanzo ya neno ulilolitaja."
+      },
+      "easy_read": {
+        "text_id": "pg019_n0044_easy_read",
+        "expected_old": "Tamka sauti au bainisha herufi ya kwanza ya neno ulilotaja.",
+        "expected_new": "Tamka / bainisha herufi ya kwanza ya neno ulilotaja."
+      }
+    },
+    {
+      "base_id": "pg019_n0050",
+      "page": 19,
+      "normal": {
+        "text_id": "pg019_n0050",
+        "expected_old": "Tamka sauti au bainisha herufi za mwanzo za maneno uliyoyataja.",
+        "expected_new": "Tamka / bainisha herufi za mwanzo za maneno uliyoyataja."
+      },
+      "easy_read": {
+        "text_id": "pg019_n0050_easy_read",
+        "expected_old": "Tamka sauti au bainisha herufi za kwanza za maneno uliyotaja.",
+        "expected_new": "Tamka / bainisha herufi za kwanza za maneno uliyotaja."
+      }
+    },
+    {
+      "base_id": "pg020_n0031",
+      "page": 20,
+      "normal": {
+        "text_id": "pg020_n0031",
+        "expected_old": "Tenganisha sauti za herufi zinazounda silabi na maneno na kisha tamka au bainisha sauti za herufi hizo.",
+        "expected_new": "Tenganisha sauti za herufi zinazounda silabi na maneno na kisha tamka / bainisha sauti za herufi hizo."
+      },
+      "easy_read": {
+        "text_id": "pg020_n0031_easy_read",
+        "expected_old": "Tenganisha sauti za herufi zinazounda silabi na maneno.\nKisha tamka au bainisha sauti za herufi hizo.",
+        "expected_new": "Tenganisha sauti za herufi zinazounda silabi na maneno.\nKisha tamka / bainisha sauti za herufi hizo."
+      }
+    },
+    {
+      "base_id": "pg021_n0019",
+      "page": 21,
+      "normal": {
+        "text_id": "pg021_n0019",
+        "expected_old": "1. Tamka sauti au bainisha herufi ya mwanzo ya neno ulilolitaja.",
+        "expected_new": "1. Tamka / bainisha herufi ya mwanzo ya neno ulilolitaja."
+      },
+      "easy_read": {
+        "text_id": "pg021_n0019_easy_read",
+        "expected_old": "1. Sema sauti au bainisha herufi ya kwanza ya neno ulilotaja.",
+        "expected_new": "1. Sema / bainisha herufi ya kwanza ya neno ulilotaja."
+      }
+    },
+    {
+      "base_id": "pg021_n0027",
+      "page": 21,
+      "normal": {
+        "text_id": "pg021_n0027",
+        "expected_old": "1. Tamka sauti au bainisha herufi za mwanzo za maneno uliyoyataja.",
+        "expected_new": "1. Tamka / bainisha herufi za mwanzo za maneno uliyoyataja."
+      },
+      "easy_read": {
+        "text_id": "pg021_n0027_easy_read",
+        "expected_old": "1. Sema sauti au bainisha herufi za kwanza za maneno uliyotaja.",
+        "expected_new": "1. Sema / bainisha herufi za kwanza za maneno uliyotaja."
+      }
+    },
+    {
+      "base_id": "pg022_n0035",
+      "page": 22,
+      "normal": {
+        "text_id": "pg022_n0035",
+        "expected_old": "Tamka au bainisha sauti za herufi zinazounda silabi na maneno.",
+        "expected_new": "Tamka / bainisha sauti za herufi zinazounda silabi na maneno."
+      },
+      "easy_read": {
+        "text_id": "pg022_n0035_easy_read",
+        "expected_old": "Tamka au bainisha sauti za herufi zinazounda silabi na maneno.",
+        "expected_new": "Tamka / bainisha sauti za herufi zinazounda silabi na maneno."
+      }
+    },
+    {
+      "base_id": "pg023_n0080",
+      "page": 23,
+      "normal": {
+        "text_id": "pg023_n0080",
+        "expected_old": "1. Tamka sauti au bainisha herufi ya mwanzo ya neno ulilolitaja.",
+        "expected_new": "1. Tamka / bainisha herufi ya mwanzo ya neno ulilolitaja."
+      },
+      "easy_read": {
+        "text_id": "pg023_n0080_easy_read",
+        "expected_old": "1. Tamka sauti au bainisha herufi ya mwanzo ya neno ulilotaja.",
+        "expected_new": "1. Tamka / bainisha herufi ya mwanzo ya neno ulilotaja."
+      }
+    },
+    {
+      "base_id": "pg024_n0003",
+      "page": 24,
+      "normal": {
+        "text_id": "pg024_n0003",
+        "expected_old": "Tamka sauti au bainisha herufi za mwanzo za maneno uliyoyataja.",
+        "expected_new": "Tamka / bainisha herufi za mwanzo za maneno uliyoyataja."
+      },
+      "easy_read": {
+        "text_id": "pg024_n0003_easy_read",
+        "expected_old": "Tamka sauti au bainisha herufi ya mwanzo ya kila neno ulilotaja.",
+        "expected_new": "Tamka / bainisha herufi ya mwanzo ya kila neno ulilotaja."
+      }
+    },
+    {
+      "base_id": "pg024_n0042",
+      "page": 24,
+      "normal": {
+        "text_id": "pg024_n0042",
+        "expected_old": "Tamka/ bainisha sauti za herufi zinazounda silabi na maneno.",
+        "expected_new": "Tamka / bainisha sauti za herufi zinazounda silabi na maneno."
+      },
+      "easy_read": {
+        "text_id": "pg024_n0042_easy_read",
+        "expected_old": "Tamka/ bainisha sauti za herufi zinazounda silabi na maneno.",
+        "expected_new": "Tamka / bainisha sauti za herufi zinazounda silabi na maneno."
+      }
+    },
+    {
+      "base_id": "pg025_n0083",
+      "page": 25,
+      "normal": {
+        "text_id": "pg025_n0083",
+        "expected_old": "1. Tamka sauti au bainisha herufi ya mwanzo ya neno ulilolitaja.",
+        "expected_new": "1. Tamka / bainisha herufi ya mwanzo ya neno ulilolitaja."
+      },
+      "easy_read": {
+        "text_id": "pg025_n0083_easy_read",
+        "expected_old": "1. Tamka sauti au bainisha herufi ya kwanza ya neno ulilotaja.",
+        "expected_new": "1. Tamka / bainisha herufi ya kwanza ya neno ulilotaja."
+      }
+    },
+    {
+      "base_id": "pg026_n0005",
+      "page": 26,
+      "normal": {
+        "text_id": "pg026_n0005",
+        "expected_old": "1. Tamka sauti au bainisha herufi ya mwanzo ya kila neno ulilolitaja.",
+        "expected_new": "1. Tamka / bainisha herufi ya mwanzo ya kila neno ulilolitaja."
+      },
+      "easy_read": {
+        "text_id": "pg026_n0005_easy_read",
+        "expected_old": "1. Tamka sauti au bainisha herufi ya kwanza ya kila neno ulilotaja.",
+        "expected_new": "1. Tamka / bainisha herufi ya kwanza ya kila neno ulilotaja."
+      }
+    },
+    {
+      "base_id": "pg027_n0009",
+      "page": 27,
+      "normal": {
+        "text_id": "pg027_n0009",
+        "expected_old": "Tamka/ bainisha sauti za herufi zinazounda silabi na maneno.",
+        "expected_new": "Tamka / bainisha sauti za herufi zinazounda silabi na maneno."
+      },
+      "easy_read": {
+        "text_id": "pg027_n0009_easy_read",
+        "expected_old": "Tamka/ bainisha sauti za herufi za silabi na maneno.",
+        "expected_new": "Tamka / bainisha sauti za herufi za silabi na maneno."
+      }
+    },
+    {
+      "base_id": "pg030_n0016",
+      "page": 30,
+      "normal": {
+        "text_id": "pg030_n0016",
+        "expected_old": "Tamka sauti au bainisha herufi ya mwanzo ya neno ulilolitaja.",
+        "expected_new": "Tamka / bainisha herufi ya mwanzo ya neno ulilolitaja."
+      },
+      "easy_read": {
+        "text_id": "pg030_n0016_easy_read",
+        "expected_old": "Tamka sauti au bainisha herufi ya mwanzo ya neno hilo.",
+        "expected_new": "Tamka / bainisha herufi ya mwanzo ya neno hilo."
+      }
+    },
+    {
+      "base_id": "pg030_n0023",
+      "page": 30,
+      "normal": {
+        "text_id": "pg030_n0023",
+        "expected_old": "Tamka sauti au bainisha herufi za mwanzo za majina ya picha hizi.",
+        "expected_new": "Tamka / bainisha herufi za mwanzo za majina ya picha hizi."
+      },
+      "easy_read": {
+        "text_id": "pg030_n0023_easy_read",
+        "expected_old": "Tamka sauti au bainisha herufi za mwanzo za majina ya picha hizi.",
+        "expected_new": "Tamka / bainisha herufi za mwanzo za majina ya picha hizi."
+      }
+    },
+    {
+      "base_id": "pg032_n0002",
+      "page": 32,
+      "normal": {
+        "text_id": "pg032_n0002",
+        "expected_old": "Tamka sauti au bainisha herufi za herufi zinazounda silabi na maneno.",
+        "expected_new": "Tamka / bainisha herufi za herufi zinazounda silabi na maneno."
+      },
+      "easy_read": {
+        "text_id": "pg032_n0002_easy_read",
+        "expected_old": "Tamka sauti au bainisha herufi za herufi za silabi na maneno.",
+        "expected_new": "Tamka / bainisha herufi za herufi za silabi na maneno."
+      }
+    },
+    {
+      "base_id": "pg032_n0084",
+      "page": 32,
+      "normal": {
+        "text_id": "pg032_n0084",
+        "expected_old": "1. Tamka sauti au bainisha herufi ya mwanzo ya neno ulilolitaja.",
+        "expected_new": "1. Tamka / bainisha herufi ya mwanzo ya neno ulilolitaja."
+      },
+      "easy_read": {
+        "text_id": "pg032_n0084_easy_read",
+        "expected_old": "1. Tamka sauti au bainisha herufi ya kwanza ya neno ulilotaja.",
+        "expected_new": "1. Tamka / bainisha herufi ya kwanza ya neno ulilotaja."
+      }
+    },
+    {
+      "base_id": "pg033_n0029",
+      "page": 33,
+      "normal": {
+        "text_id": "pg033_n0029",
+        "expected_old": "Tamka sauti au bainisha herufi za herufi zinazounda silabi na maneno.",
+        "expected_new": "Tamka / bainisha herufi za herufi zinazounda silabi na maneno."
+      },
+      "easy_read": {
+        "text_id": "pg033_n0029_easy_read",
+        "expected_old": "Tamka sauti au bainisha herufi za herufi zinazounda silabi na maneno.",
+        "expected_new": "Tamka / bainisha herufi za herufi zinazounda silabi na maneno."
+      }
+    },
+    {
+      "base_id": "pg035_n0010",
+      "page": 35,
+      "normal": {
+        "text_id": "pg035_n0010",
+        "expected_old": "Tamka sauti au bainisha herufi ya mwanzo ya neno ulilolitaja.",
+        "expected_new": "Tamka / bainisha herufi ya mwanzo ya neno ulilolitaja."
+      },
+      "easy_read": {
+        "text_id": "pg035_n0010_easy_read",
+        "expected_old": "Sema sauti au bainisha herufi ya kwanza ya neno ulilotaja.",
+        "expected_new": "Sema / bainisha herufi ya kwanza ya neno ulilotaja."
+      }
+    },
+    {
+      "base_id": "pg036_n0027",
+      "page": 36,
+      "normal": {
+        "text_id": "pg036_n0027",
+        "expected_old": "Kisha tamka sauti au bainisha herufi za herufi zinazounda silabi na maneno.",
+        "expected_new": "Kisha tamka / bainisha herufi za herufi zinazounda silabi na maneno."
+      },
+      "easy_read": {
+        "text_id": "pg036_n0027_easy_read",
+        "expected_old": "Kisha tamka sauti au bainisha herufi za herufi zinazounda silabi na maneno.",
+        "expected_new": "Kisha tamka / bainisha herufi za herufi zinazounda silabi na maneno."
+      }
+    },
+    {
+      "base_id": "pg038_n0006",
+      "page": 38,
+      "normal": {
+        "text_id": "pg038_n0006",
+        "expected_old": "1. Tamka sauti au bainisha herufi ya mwanzo ya neno ulilolitaja.",
+        "expected_new": "1. Tamka / bainisha herufi ya mwanzo ya neno ulilolitaja."
+      },
+      "easy_read": {
+        "text_id": "pg038_n0006_easy_read",
+        "expected_old": "1. Tamka sauti au bainisha herufi ya kwanza ya neno ulilotaja.",
+        "expected_new": "1. Tamka / bainisha herufi ya kwanza ya neno ulilotaja."
+      }
+    },
+    {
+      "base_id": "pg039_n0012",
+      "page": 39,
+      "normal": {
+        "text_id": "pg039_n0012",
+        "expected_old": "Tamka sauti au bainisha herufi za herufi zinazounda silabi na maneno.",
+        "expected_new": "Tamka / bainisha herufi za herufi zinazounda silabi na maneno."
+      },
+      "easy_read": {
+        "text_id": "pg039_n0012_easy_read",
+        "expected_old": "Tamka sauti au bainisha herufi za herufi zinazotengeneza silabi na maneno.",
+        "expected_new": "Tamka / bainisha herufi za herufi zinazotengeneza silabi na maneno."
+      }
+    },
+    {
+      "base_id": "pg041_n0015",
+      "page": 41,
+      "normal": {
+        "text_id": "pg041_n0015",
+        "expected_old": "Tamka sauti au bainisha herufi ya mwanzo ya neno ulilolitamka.",
+        "expected_new": "Tamka / bainisha herufi ya mwanzo ya neno ulilolitamka."
+      },
+      "easy_read": {
+        "text_id": "pg041_n0015_easy_read",
+        "expected_old": "Tamka sauti au bainisha herufi ya mwanzo ya neno ulilotamka.",
+        "expected_new": "Tamka / bainisha herufi ya mwanzo ya neno ulilotamka."
+      }
+    },
+    {
+      "base_id": "pg041_n0020",
+      "page": 41,
+      "normal": {
+        "text_id": "pg041_n0020",
+        "expected_old": "Tamka sauti au bainisha herufi za mwanzo za majina ya picha hizi.",
+        "expected_new": "Tamka / bainisha herufi za mwanzo za majina ya picha hizi."
+      },
+      "easy_read": {
+        "text_id": "pg041_n0020_easy_read",
+        "expected_old": "Tamka sauti au bainisha herufi za mwanzo za majina ya picha hizi.",
+        "expected_new": "Tamka / bainisha herufi za mwanzo za majina ya picha hizi."
+      }
+    },
+    {
+      "base_id": "pg042_n0003",
+      "page": 42,
+      "normal": {
+        "text_id": "pg042_n0003",
+        "expected_old": "Tamka sauti au bainisha herufi ya herufi hii.",
+        "expected_new": "Tamka / bainisha herufi ya herufi hii."
+      },
+      "easy_read": {
+        "text_id": "pg042_n0003_easy_read",
+        "expected_old": "Tamka sauti au bainisha herufi ya herufi hii.",
+        "expected_new": "Tamka / bainisha herufi ya herufi hii."
+      }
+    },
+    {
+      "base_id": "pg042_n0009",
+      "page": 42,
+      "normal": {
+        "text_id": "pg042_n0009",
+        "expected_old": "Onesha na tamka sauti au bainisha herufi ya herufi g.",
+        "expected_new": "Onesha na tamka / bainisha herufi ya herufi g."
+      },
+      "easy_read": {
+        "text_id": "pg042_n0009_easy_read",
+        "expected_old": "Onesha herufi g.\nKisha tamka sauti au bainisha herufi yake.",
+        "expected_new": "Onesha herufi g.\nKisha tamka / bainisha herufi yake."
+      }
+    },
+    {
+      "base_id": "pg043_n0003",
+      "page": 43,
+      "normal": {
+        "text_id": "pg043_n0003",
+        "expected_old": "Tamka sauti au bainisha herufi za herufi zinazounda silabi na maneno.",
+        "expected_new": "Tamka / bainisha herufi za herufi zinazounda silabi na maneno."
+      },
+      "easy_read": {
+        "text_id": "pg043_n0003_easy_read",
+        "expected_old": "Tamka sauti au bainisha herufi za herufi za silabi na maneno.",
+        "expected_new": "Tamka / bainisha herufi za herufi za silabi na maneno."
+      }
+    },
+    {
+      "base_id": "pg045_n0008",
+      "page": 45,
+      "normal": {
+        "text_id": "pg045_n0008",
+        "expected_old": "Tamka sauti au bainisha herufi ya mwanzo ya neno ulilolitamka.",
+        "expected_new": "Tamka / bainisha herufi ya mwanzo ya neno ulilolitamka."
+      },
+      "easy_read": {
+        "text_id": "pg045_n0008_easy_read",
+        "expected_old": "Sema sauti au bainisha herufi ya kwanza ya neno ulilosema.",
+        "expected_new": "Sema / bainisha herufi ya kwanza ya neno ulilosema."
+      }
+    },
+    {
+      "base_id": "pg046_n0003",
+      "page": 46,
+      "normal": {
+        "text_id": "pg046_n0003",
+        "expected_old": "Tamka sauti au bainisha herufi ya herufi hii.",
+        "expected_new": "Tamka / bainisha herufi ya herufi hii."
+      },
+      "easy_read": {
+        "text_id": "pg046_n0003_easy_read",
+        "expected_old": "Tamka sauti au bainisha herufi ya herufi hii.",
+        "expected_new": "Tamka / bainisha herufi ya herufi hii."
+      }
+    },
+    {
+      "base_id": "pg047_n0003",
+      "page": 47,
+      "normal": {
+        "text_id": "pg047_n0003",
+        "expected_old": "Tamka sauti au bainisha herufi za herufi zinazounda silabi na maneno.",
+        "expected_new": "Tamka / bainisha herufi za herufi zinazounda silabi na maneno."
+      },
+      "easy_read": {
+        "text_id": "pg047_n0003_easy_read",
+        "expected_old": "Tamka sauti au bainisha herufi za herufi za silabi na maneno.",
+        "expected_new": "Tamka / bainisha herufi za herufi za silabi na maneno."
+      }
+    },
+    {
+      "base_id": "pg048_n0008",
+      "page": 48,
+      "normal": {
+        "text_id": "pg048_n0008",
+        "expected_old": "Tamka sauti au bainisha herufi ya mwanzo ya neno ulilolitaja.",
+        "expected_new": "Tamka / bainisha herufi ya mwanzo ya neno ulilolitaja."
+      },
+      "easy_read": {
+        "text_id": "pg048_n0008_easy_read",
+        "expected_old": "Sema sauti au bainisha herufi ya kwanza ya neno ulilotaja.",
+        "expected_new": "Sema / bainisha herufi ya kwanza ya neno ulilotaja."
+      }
+    },
+    {
+      "base_id": "pg049_n0003",
+      "page": 49,
+      "normal": {
+        "text_id": "pg049_n0003",
+        "expected_old": "Tamka sauti au bainisha herufi ya herufi hii.",
+        "expected_new": "Tamka / bainisha herufi ya herufi hii."
+      },
+      "easy_read": {
+        "text_id": "pg049_n0003_easy_read",
+        "expected_old": "Tamka sauti au bainisha herufi ya herufi hii.",
+        "expected_new": "Tamka / bainisha herufi ya herufi hii."
+      }
+    },
+    {
+      "base_id": "pg050_n0005",
+      "page": 50,
+      "normal": {
+        "text_id": "pg050_n0005",
+        "expected_old": "Tamka sauti au bainisha herufi za herufi zinazounda silabi na maneno.",
+        "expected_new": "Tamka / bainisha herufi za herufi zinazounda silabi na maneno."
+      },
+      "easy_read": {
+        "text_id": "pg050_n0005_easy_read",
+        "expected_old": "Tamka sauti au bainisha herufi za herufi zinazounda silabi na maneno.",
+        "expected_new": "Tamka / bainisha herufi za herufi zinazounda silabi na maneno."
+      }
+    },
+    {
+      "base_id": "pg051_n0014",
+      "page": 51,
+      "normal": {
+        "text_id": "pg051_n0014",
+        "expected_old": "Tamka sauti au bainisha herufi ya mwanzo ya neno ulilolitaja.",
+        "expected_new": "Tamka / bainisha herufi ya mwanzo ya neno ulilolitaja."
+      },
+      "easy_read": {
+        "text_id": "pg051_n0014_easy_read",
+        "expected_old": "Sema sauti au bainisha herufi ya kwanza ya neno ulilotaja.",
+        "expected_new": "Sema / bainisha herufi ya kwanza ya neno ulilotaja."
+      }
+    },
+    {
+      "base_id": "pg052_n0010",
+      "page": 52,
+      "normal": {
+        "text_id": "pg052_n0010",
+        "expected_old": "Tamka sauti au bainisha herufi ya herufi hii.",
+        "expected_new": "Tamka / bainisha herufi ya herufi hii."
+      },
+      "easy_read": {
+        "text_id": "pg052_n0010_easy_read",
+        "expected_old": "Tamka sauti au bainisha herufi ya herufi hii.",
+        "expected_new": "Tamka / bainisha herufi ya herufi hii."
+      }
+    },
+    {
+      "base_id": "pg053_n0019",
+      "page": 53,
+      "normal": {
+        "text_id": "pg053_n0019",
+        "expected_old": "Tamka sauti au bainisha herufi za herufi zinazounda silabi na maneno.",
+        "expected_new": "Tamka / bainisha herufi za herufi zinazounda silabi na maneno."
+      },
+      "easy_read": {
+        "text_id": "pg053_n0019_easy_read",
+        "expected_old": "Tamka sauti au bainisha herufi za herufi zinazounda silabi na maneno.",
+        "expected_new": "Tamka / bainisha herufi za herufi zinazounda silabi na maneno."
+      }
+    },
+    {
+      "base_id": "pg055_n0016",
+      "page": 55,
+      "normal": {
+        "text_id": "pg055_n0016",
+        "expected_old": "Tamka sauti au bainisha herufi ya mwanzo ya neno ulilolitaja.",
+        "expected_new": "Tamka / bainisha herufi ya mwanzo ya neno ulilolitaja."
+      },
+      "easy_read": {
+        "text_id": "pg055_n0016_easy_read",
+        "expected_old": "Tamka sauti au bainisha herufi ya mwanzo ya neno hilo.",
+        "expected_new": "Tamka / bainisha herufi ya mwanzo ya neno hilo."
+      }
+    },
+    {
+      "base_id": "pg055_n0022",
+      "page": 55,
+      "normal": {
+        "text_id": "pg055_n0022",
+        "expected_old": "Tamka sauti au bainisha herufi za mwanzo za majina ya picha hizi.",
+        "expected_new": "Tamka / bainisha herufi za mwanzo za majina ya picha hizi."
+      },
+      "easy_read": {
+        "text_id": "pg055_n0022_easy_read",
+        "expected_old": "Tamka sauti au bainisha herufi za mwanzo za majina ya picha hizi.",
+        "expected_new": "Tamka / bainisha herufi za mwanzo za majina ya picha hizi."
+      }
+    },
+    {
+      "base_id": "pg056_n0003",
+      "page": 56,
+      "normal": {
+        "text_id": "pg056_n0003",
+        "expected_old": "Tamka sauti au bainisha herufi ya herufi hii.",
+        "expected_new": "Tamka / bainisha herufi ya herufi hii."
+      },
+      "easy_read": {
+        "text_id": "pg056_n0003_easy_read",
+        "expected_old": "Tamka sauti au bainisha herufi ya herufi hii.",
+        "expected_new": "Tamka / bainisha herufi ya herufi hii."
+      }
+    },
+    {
+      "base_id": "pg057_n0003",
+      "page": 57,
+      "normal": {
+        "text_id": "pg057_n0003",
+        "expected_old": "Tamka sauti au bainisha herufi za herufi zinazounda silabi na maneno.",
+        "expected_new": "Tamka / bainisha herufi za herufi zinazounda silabi na maneno."
+      },
+      "easy_read": {
+        "text_id": "pg057_n0003_easy_read",
+        "expected_old": "Tamka sauti au bainisha herufi za herufi za silabi na maneno.",
+        "expected_new": "Tamka / bainisha herufi za herufi za silabi na maneno."
+      }
+    },
+    {
+      "base_id": "pg058_n0014",
+      "page": 58,
+      "normal": {
+        "text_id": "pg058_n0014",
+        "expected_old": "1. Tamka sauti au bainisha herufi ya mwanzo ya neno ulilolitaja.",
+        "expected_new": "1. Tamka / bainisha herufi ya mwanzo ya neno ulilolitaja."
+      },
+      "easy_read": {
+        "text_id": "pg058_n0014_easy_read",
+        "expected_old": "1. Sema sauti au bainisha herufi ya kwanza ya neno ulilotaja.",
+        "expected_new": "1. Sema / bainisha herufi ya kwanza ya neno ulilotaja."
+      }
+    },
+    {
+      "base_id": "pg059_n0012",
+      "page": 59,
+      "normal": {
+        "text_id": "pg059_n0012",
+        "expected_old": "Tamka sauti au bainisha herufi ya herufi hii.",
+        "expected_new": "Tamka / bainisha herufi ya herufi hii."
+      },
+      "easy_read": {
+        "text_id": "pg059_n0012_easy_read",
+        "expected_old": "Tamka sauti au bainisha herufi ya herufi hii.",
+        "expected_new": "Tamka / bainisha herufi ya herufi hii."
+      }
+    },
+    {
+      "base_id": "pg060_n0017",
+      "page": 60,
+      "normal": {
+        "text_id": "pg060_n0017",
+        "expected_old": "Tamka sauti au bainisha herufi za herufi zinazounda silabi na maneno.",
+        "expected_new": "Tamka / bainisha herufi za herufi zinazounda silabi na maneno."
+      },
+      "easy_read": {
+        "text_id": "pg060_n0017_easy_read",
+        "expected_old": "Tamka sauti au bainisha herufi za herufi za silabi na maneno.",
+        "expected_new": "Tamka / bainisha herufi za herufi za silabi na maneno."
+      }
+    },
+    {
+      "base_id": "pg062_n0002",
+      "page": 62,
+      "normal": {
+        "text_id": "pg062_n0002",
+        "expected_old": "1. Tamka sauti au bainisha herufi ya mwanzo ya neno ulilolitaja.",
+        "expected_new": "1. Tamka / bainisha herufi ya mwanzo ya neno ulilolitaja."
+      },
+      "easy_read": {
+        "text_id": "pg062_n0002_easy_read",
+        "expected_old": "1. Tamka sauti au bainisha herufi ya kwanza ya neno ulilotaja.",
+        "expected_new": "1. Tamka / bainisha herufi ya kwanza ya neno ulilotaja."
+      }
+    },
+    {
+      "base_id": "pg062_n0011",
+      "page": 62,
+      "normal": {
+        "text_id": "pg062_n0011",
+        "expected_old": "Tamka sauti au bainisha herufi ya herufi hii.",
+        "expected_new": "Tamka / bainisha herufi ya herufi hii."
+      },
+      "easy_read": {
+        "text_id": "pg062_n0011_easy_read",
+        "expected_old": "Tamka sauti au bainisha herufi ya herufi hii.",
+        "expected_new": "Tamka / bainisha herufi ya herufi hii."
+      }
+    },
+    {
+      "base_id": "pg063_n0017",
+      "page": 63,
+      "normal": {
+        "text_id": "pg063_n0017",
+        "expected_old": "Tamka sauti au bainisha herufi za herufi zinazounda silabi na maneno.",
+        "expected_new": "Tamka / bainisha herufi za herufi zinazounda silabi na maneno."
+      },
+      "easy_read": {
+        "text_id": "pg063_n0017_easy_read",
+        "expected_old": "Tamka sauti au bainisha herufi za herufi zinazounda silabi na maneno.",
+        "expected_new": "Tamka / bainisha herufi za herufi zinazounda silabi na maneno."
+      }
+    },
+    {
+      "base_id": "pg065_n0007",
+      "page": 65,
+      "normal": {
+        "text_id": "pg065_n0007",
+        "expected_old": "Tamka sauti au bainisha herufi ya mwanzo ya neno ulilolitaja.",
+        "expected_new": "Tamka / bainisha herufi ya mwanzo ya neno ulilolitaja."
+      },
+      "easy_read": {
+        "text_id": "pg065_n0007_easy_read",
+        "expected_old": "Sema sauti au bainisha herufi ya mwanzo ya neno ulilotaja.",
+        "expected_new": "Sema / bainisha herufi ya mwanzo ya neno ulilotaja."
+      }
+    },
+    {
+      "base_id": "pg065_n0019",
+      "page": 65,
+      "normal": {
+        "text_id": "pg065_n0019",
+        "expected_old": "Tamka sauti au bainisha herufi ya herufi hizi.",
+        "expected_new": "Tamka / bainisha herufi ya herufi hizi."
+      },
+      "easy_read": {
+        "text_id": "pg065_n0019_easy_read",
+        "expected_old": "Sema sauti au bainisha herufi ya herufi hizi.",
+        "expected_new": "Sema / bainisha herufi ya herufi hizi."
+      }
+    },
+    {
+      "base_id": "pg066_n0032",
+      "page": 66,
+      "normal": {
+        "text_id": "pg066_n0032",
+        "expected_old": "Tamka sauti au bainisha herufi za herufi zinazounda silabi na maneno.",
+        "expected_new": "Tamka / bainisha herufi za herufi zinazounda silabi na maneno."
+      },
+      "easy_read": {
+        "text_id": "pg066_n0032_easy_read",
+        "expected_old": "Tamka sauti au bainisha herufi za herufi zinazounda silabi na maneno.",
+        "expected_new": "Tamka / bainisha herufi za herufi zinazounda silabi na maneno."
+      }
+    },
+    {
+      "base_id": "pg067_n0016",
+      "page": 67,
+      "normal": {
+        "text_id": "pg067_n0016",
+        "expected_old": "Tamka sauti au bainisha herufi ya mwanzo ya neno ulilolitaja.",
+        "expected_new": "Tamka / bainisha herufi ya mwanzo ya neno ulilolitaja."
+      },
+      "easy_read": {
+        "text_id": "pg067_n0016_easy_read",
+        "expected_old": "Tamka sauti au bainisha herufi ya mwanzo ya neno ulilotaja.",
+        "expected_new": "Tamka / bainisha herufi ya mwanzo ya neno ulilotaja."
+      }
+    },
+    {
+      "base_id": "pg067_n0023",
+      "page": 67,
+      "normal": {
+        "text_id": "pg067_n0023",
+        "expected_old": "Tamka sauti au bainisha herufi za mwanzo za majina ya picha hizi.",
+        "expected_new": "Tamka / bainisha herufi za mwanzo za majina ya picha hizi."
+      },
+      "easy_read": {
+        "text_id": "pg067_n0023_easy_read",
+        "expected_old": "Tamka sauti au bainisha herufi za mwanzo za majina ya picha hizi.",
+        "expected_new": "Tamka / bainisha herufi za mwanzo za majina ya picha hizi."
+      }
+    },
+    {
+      "base_id": "pg068_n0020",
+      "page": 68,
+      "normal": {
+        "text_id": "pg068_n0020",
+        "expected_old": "Tamka sauti au bainisha herufi za herufi zinazounda silabi na maneno.",
+        "expected_new": "Tamka / bainisha herufi za herufi zinazounda silabi na maneno."
+      },
+      "easy_read": {
+        "text_id": "pg068_n0020_easy_read",
+        "expected_old": "Tamka sauti au bainisha herufi za herufi zinazounda silabi na maneno.",
+        "expected_new": "Tamka / bainisha herufi za herufi zinazounda silabi na maneno."
+      }
+    },
+    {
+      "base_id": "pg069_n0068",
+      "page": 69,
+      "normal": {
+        "text_id": "pg069_n0068",
+        "expected_old": "1. Tamka sauti au bainisha herufi ya mwanzo ya namba uliyotaja.",
+        "expected_new": "1. Tamka / bainisha herufi ya mwanzo ya namba uliyotaja."
+      },
+      "easy_read": {
+        "text_id": "pg069_n0068_easy_read",
+        "expected_old": "1. Tamka sauti au bainisha herufi ya kwanza ya namba uliyotaja.",
+        "expected_new": "1. Tamka / bainisha herufi ya kwanza ya namba uliyotaja."
+      }
+    },
+    {
+      "base_id": "pg070_n0022",
+      "page": 70,
+      "normal": {
+        "text_id": "pg070_n0022",
+        "expected_old": "Tamka sauti au bainisha herufi za herufi zinazounda silabi na maneno.",
+        "expected_new": "Tamka / bainisha herufi za herufi zinazounda silabi na maneno."
+      },
+      "easy_read": {
+        "text_id": "pg070_n0022_easy_read",
+        "expected_old": "Tamka sauti au bainisha herufi za herufi zinazounda silabi na maneno.",
+        "expected_new": "Tamka / bainisha herufi za herufi zinazounda silabi na maneno."
+      }
+    },
+    {
+      "base_id": "pg071_n0029",
+      "page": 71,
+      "normal": {
+        "text_id": "pg071_n0029",
+        "expected_old": "1. Tamka sauti au bainisha herufi ya mwanzo ya neno ulilolitaja.",
+        "expected_new": "1. Tamka / bainisha herufi ya mwanzo ya neno ulilolitaja."
+      },
+      "easy_read": {
+        "text_id": "pg071_n0029_easy_read",
+        "expected_old": "1. Tamka sauti au bainisha herufi ya kwanza ya neno ulilotaja.",
+        "expected_new": "1. Tamka / bainisha herufi ya kwanza ya neno ulilotaja."
+      }
+    },
+    {
+      "base_id": "pg072_n0003",
+      "page": 72,
+      "normal": {
+        "text_id": "pg072_n0003",
+        "expected_old": "1. Tamka sauti au bainisha herufi za mwanzo ya majina ya picha hizi.",
+        "expected_new": "1. Tamka / bainisha herufi za mwanzo ya majina ya picha hizi."
+      },
+      "easy_read": {
+        "text_id": "pg072_n0003_easy_read",
+        "expected_old": "1. Tamka sauti au bainisha herufi ya mwanzo ya majina ya picha hizi.",
+        "expected_new": "1. Tamka / bainisha herufi ya mwanzo ya majina ya picha hizi."
+      }
+    },
+    {
+      "base_id": "pg072_n0024",
+      "page": 72,
+      "normal": {
+        "text_id": "pg072_n0024",
+        "expected_old": "Tamka sauti au bainisha herufi za herufi zinazounda silabi na maneno.",
+        "expected_new": "Tamka / bainisha herufi za herufi zinazounda silabi na maneno."
+      },
+      "easy_read": {
+        "text_id": "pg072_n0024_easy_read",
+        "expected_old": "Tamka sauti au bainisha herufi za herufi zinazounda silabi na maneno.",
+        "expected_new": "Tamka / bainisha herufi za herufi zinazounda silabi na maneno."
+      }
+    },
+    {
+      "base_id": "pg074_n0011",
+      "page": 74,
+      "normal": {
+        "text_id": "pg074_n0011",
+        "expected_old": "Tamka sauti au bainisha herufi ya mwanzo ya neno ulilolitaja.",
+        "expected_new": "Tamka / bainisha herufi ya mwanzo ya neno ulilolitaja."
+      },
+      "easy_read": {
+        "text_id": "pg074_n0011_easy_read",
+        "expected_old": "Tamka sauti au bainisha herufi ya kwanza ya neno ulilotaja.",
+        "expected_new": "Tamka / bainisha herufi ya kwanza ya neno ulilotaja."
+      }
+    },
+    {
+      "base_id": "pg074_n0020",
+      "page": 74,
+      "normal": {
+        "text_id": "pg074_n0020",
+        "expected_old": "Tamka sauti au bainisha herufi za mwanzo ya majina ya picha hizi.",
+        "expected_new": "Tamka / bainisha herufi za mwanzo ya majina ya picha hizi."
+      },
+      "easy_read": {
+        "text_id": "pg074_n0020_easy_read",
+        "expected_old": "Tamka sauti au bainisha herufi za kwanza za majina ya picha hizi.",
+        "expected_new": "Tamka / bainisha herufi za kwanza za majina ya picha hizi."
+      }
+    },
+    {
+      "base_id": "pg075_n0027",
+      "page": 75,
+      "normal": {
+        "text_id": "pg075_n0027",
+        "expected_old": "Tamka sauti au bainisha herufi za herufi zinazounda silabi na maneno.",
+        "expected_new": "Tamka / bainisha herufi za herufi zinazounda silabi na maneno."
+      },
+      "easy_read": {
+        "text_id": "pg075_n0027_easy_read",
+        "expected_old": "Tamka sauti au bainisha herufi za herufi zinazounda silabi na maneno.",
+        "expected_new": "Tamka / bainisha herufi za herufi zinazounda silabi na maneno."
+      }
+    },
+    {
+      "base_id": "pg077_n0009",
+      "page": 77,
+      "normal": {
+        "text_id": "pg077_n0009",
+        "expected_old": "1. Tamka sauti au bainisha herufi ya mwanzo ya neno ulilolitaja.",
+        "expected_new": "1. Tamka / bainisha herufi ya mwanzo ya neno ulilolitaja."
+      },
+      "easy_read": {
+        "text_id": "pg077_n0009_easy_read",
+        "expected_old": "Tamka sauti au bainisha herufi ya kwanza ya neno ulilotaja.",
+        "expected_new": "Tamka / bainisha herufi ya kwanza ya neno ulilotaja."
+      }
+    },
+    {
+      "base_id": "pg077_n0016",
+      "page": 77,
+      "normal": {
+        "text_id": "pg077_n0016",
+        "expected_old": "1. Tamka sauti au bainisha herufi ya mwanzo ya majina ya picha hizi.",
+        "expected_new": "1. Tamka / bainisha herufi ya mwanzo ya majina ya picha hizi."
+      },
+      "easy_read": {
+        "text_id": "pg077_n0016_easy_read",
+        "expected_old": "Tamka sauti au bainisha herufi ya kwanza ya majina ya picha hizi.",
+        "expected_new": "Tamka / bainisha herufi ya kwanza ya majina ya picha hizi."
+      }
+    },
+    {
+      "base_id": "pg078_n0032",
+      "page": 78,
+      "normal": {
+        "text_id": "pg078_n0032",
+        "expected_old": "Tamka sauti au bainisha herufi za herufi zinazounda silabi na maneno.",
+        "expected_new": "Tamka / bainisha herufi za herufi zinazounda silabi na maneno."
+      },
+      "easy_read": {
+        "text_id": "pg078_n0032_easy_read",
+        "expected_old": "Tamka sauti au bainisha herufi za herufi zinazounda silabi na maneno.",
+        "expected_new": "Tamka / bainisha herufi za herufi zinazounda silabi na maneno."
+      }
+    },
+    {
+      "base_id": "pg079_n0065",
+      "page": 79,
+      "normal": {
+        "text_id": "pg079_n0065",
+        "expected_old": "1. Tamka sauti au bainisha herufi ya mwanzo ya neno ulilolitaja.",
+        "expected_new": "1. Tamka / bainisha herufi ya mwanzo ya neno ulilolitaja."
+      },
+      "easy_read": {
+        "text_id": "pg079_n0065_easy_read",
+        "expected_old": "1. Tamka sauti au bainisha herufi ya kwanza ya neno ulilotaja.",
+        "expected_new": "1. Tamka / bainisha herufi ya kwanza ya neno ulilotaja."
+      }
+    },
+    {
+      "base_id": "pg080_n0005",
+      "page": 80,
+      "normal": {
+        "text_id": "pg080_n0005",
+        "expected_old": "Tamka sauti au bainisha herufi za mwanzo ya majina ya picha hizi.",
+        "expected_new": "Tamka / bainisha herufi za mwanzo ya majina ya picha hizi."
+      },
+      "easy_read": {
+        "text_id": "pg080_n0005_easy_read",
+        "expected_old": "Tamka sauti au bainisha herufi ya mwanzo ya majina ya picha hizi.",
+        "expected_new": "Tamka / bainisha herufi ya mwanzo ya majina ya picha hizi."
+      }
+    },
+    {
+      "base_id": "pg081_n0003",
+      "page": 81,
+      "normal": {
+        "text_id": "pg081_n0003",
+        "expected_old": "Tamka sauti au bainisha herufi za herufi zinazounda silabi na maneno.",
+        "expected_new": "Tamka / bainisha herufi za herufi zinazounda silabi na maneno."
+      },
+      "easy_read": {
+        "text_id": "pg081_n0003_easy_read",
+        "expected_old": "Tamka sauti au bainisha herufi za herufi.\nSauti hizi zinaunda silabi na maneno.",
+        "expected_new": "Tamka / bainisha herufi za herufi.\nSauti hizi zinaunda silabi na maneno."
+      }
+    },
+    {
+      "base_id": "pg082_n0006",
+      "page": 82,
+      "normal": {
+        "text_id": "pg082_n0006",
+        "expected_old": "Tamka sauti au bainisha herufi ya mwanzo ya neno ulilolitaja.",
+        "expected_new": "Tamka / bainisha herufi ya mwanzo ya neno ulilolitaja."
+      },
+      "easy_read": {
+        "text_id": "pg082_n0006_easy_read",
+        "expected_old": "Sema sauti au bainisha herufi ya mwanzo ya neno ulilotaja.",
+        "expected_new": "Sema / bainisha herufi ya mwanzo ya neno ulilotaja."
+      }
+    },
+    {
+      "base_id": "pg082_n0012",
+      "page": 82,
+      "normal": {
+        "text_id": "pg082_n0012",
+        "expected_old": "Tamka sauti au bainisha herufi za mwanzo za majina ya picha hizi.",
+        "expected_new": "Tamka / bainisha herufi za mwanzo za majina ya picha hizi."
+      },
+      "easy_read": {
+        "text_id": "pg082_n0012_easy_read",
+        "expected_old": "Tamka sauti au bainisha herufi za mwanzo za majina ya picha hizi.",
+        "expected_new": "Tamka / bainisha herufi za mwanzo za majina ya picha hizi."
+      }
+    },
+    {
+      "base_id": "pg083_n0021",
+      "page": 83,
+      "normal": {
+        "text_id": "pg083_n0021",
+        "expected_old": "Tamka sauti au bainisha herufi za herufi zinazounda silabi na maneno.",
+        "expected_new": "Tamka / bainisha herufi za herufi zinazounda silabi na maneno."
+      },
+      "easy_read": {
+        "text_id": "pg083_n0021_easy_read",
+        "expected_old": "Tamka sauti au bainisha herufi za herufi zinazounda silabi na maneno.",
+        "expected_new": "Tamka / bainisha herufi za herufi zinazounda silabi na maneno."
+      }
+    },
+    {
+      "base_id": "pg090_n0035",
+      "page": 90,
+      "normal": {
+        "text_id": "pg090_n0035",
+        "expected_old": "2. Tamka au bainisha silabi za mwisho zinazounda maneno hayo.",
+        "expected_new": "2. Tamka / bainisha silabi za mwisho zinazounda maneno hayo."
+      },
+      "easy_read": {
+        "text_id": "pg090_n0035_easy_read",
+        "expected_old": "2. Tamka au bainisha silabi za mwisho za maneno hayo.",
+        "expected_new": "2. Tamka / bainisha silabi za mwisho za maneno hayo."
+      }
+    }
+  ]
+}

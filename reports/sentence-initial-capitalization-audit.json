@@ -1,0 +1,4497 @@
+{
+  "standard_count": 34,
+  "easy_read_count": 20,
+  "total_count": 54,
+  "pages": [
+    "pg012",
+    "pg017",
+    "pg019",
+    "pg021",
+    "pg026",
+    "pg030",
+    "pg033",
+    "pg036",
+    "pg038",
+    "pg041",
+    "pg052",
+    "pg055",
+    "pg059",
+    "pg062",
+    "pg067",
+    "pg074",
+    "pg077",
+    "pg080",
+    "pg082"
+  ],
+  "changes": [
+    {
+      "text_id": "pg012_n0008",
+      "old_text": "sauti au herufi za mwanzo za maneno yapi zinafanana?",
+      "new_text": "Sauti au herufi za mwanzo za maneno yapi zinafanana?",
+      "audio": "pg012_n0008_feedback_v28.mp3",
+      "audio_unchanged": true
+    },
+    {
+      "text_id": "pg012_n0011",
+      "old_text": "sauti au herufi ya mwanzo ya neno lipi haifanani na mengine?",
+      "new_text": "Sauti au herufi ya mwanzo ya neno lipi haifanani na mengine?",
+      "audio": "pg012_n0011_feedback_v28.mp3",
+      "audio_unchanged": true
+    },
+    {
+      "text_id": "pg017_n0025",
+      "old_text": "2. sauti au herufi za mwanzo za majina yapi zinafanana?",
+      "new_text": "2. Sauti au herufi za mwanzo za majina yapi zinafanana?",
+      "audio": "pg017_n0025_feedback_v28.mp3",
+      "audio_unchanged": true
+    },
+    {
+      "text_id": "pg017_n0025_easy_read",
+      "old_text": "2. sauti au herufi za mwanzo za majina yapi zinafanana?",
+      "new_text": "2. Sauti au herufi za mwanzo za majina yapi zinafanana?",
+      "audio": "pg017_n0025_easy_read_feedback_v28.mp3",
+      "audio_unchanged": true
+    },
+    {
+      "text_id": "pg017_n0027",
+      "old_text": "3. sauti au herufi ya mwanzo ya jina lipi haifanani na mengine?",
+      "new_text": "3. Sauti au herufi ya mwanzo ya jina lipi haifanani na mengine?",
+      "audio": "pg017_n0027_feedback_v28.mp3",
+      "audio_unchanged": true
+    },
+    {
+      "text_id": "pg017_n0027_easy_read",
+      "old_text": "3. sauti au herufi ya mwanzo ya jina lipi haitofautiani na mengine?",
+      "new_text": "3. Sauti au herufi ya mwanzo ya jina lipi haitofautiani na mengine?",
+      "audio": "pg017_n0027_easy_read_feedback_v28.mp3",
+      "audio_unchanged": true
+    },
+    {
+      "text_id": "pg019_n0052",
+      "old_text": "sauti au herufi za mwanzo za majina yapi zinafanana?",
+      "new_text": "Sauti au herufi za mwanzo za majina yapi zinafanana?",
+      "audio": "pg019_n0052_feedback_v28.mp3",
+      "audio_unchanged": true
+    },
+    {
+      "text_id": "pg019_n0052_easy_read",
+      "old_text": "sauti au herufi za kwanza za majina yapi zinafanana?",
+      "new_text": "Sauti au herufi za kwanza za majina yapi zinafanana?",
+      "audio": "pg019_n0052_easy_read_feedback_v28.mp3",
+      "audio_unchanged": true
+    },
+    {
+      "text_id": "pg019_n0054",
+      "old_text": "sauti au herufi ya mwanzo ya jina lipi haifanani na mengine?",
+      "new_text": "Sauti au herufi ya mwanzo ya jina lipi haifanani na mengine?",
+      "audio": "pg019_n0054_feedback_v28.mp3",
+      "audio_unchanged": true
+    },
+    {
+      "text_id": "pg019_n0054_easy_read",
+      "old_text": "sauti au herufi ya kwanza ya jina gani haifanani na mengine?",
+      "new_text": "Sauti au herufi ya kwanza ya jina gani haifanani na mengine?",
+      "audio": "pg019_n0054_easy_read_feedback_v28.mp3",
+      "audio_unchanged": true
+    },
+    {
+      "text_id": "pg021_n0029",
+      "old_text": "2. sauti au herufi za mwanzo za majina yapi zinafanana?",
+      "new_text": "2. Sauti au herufi za mwanzo za majina yapi zinafanana?",
+      "audio": "pg021_n0029_feedback_v28.mp3",
+      "audio_unchanged": true
+    },
+    {
+      "text_id": "pg021_n0029_easy_read",
+      "old_text": "2. sauti au herufi za kwanza za majina gani zinafanana?",
+      "new_text": "2. Sauti au herufi za kwanza za majina gani zinafanana?",
+      "audio": "pg021_n0029_easy_read_feedback_v28.mp3",
+      "audio_unchanged": true
+    },
+    {
+      "text_id": "pg021_n0031",
+      "old_text": "3. sauti au herufi ya mwanzo ya jina lipi haifanani na mengine?",
+      "new_text": "3. Sauti au herufi ya mwanzo ya jina lipi haifanani na mengine?",
+      "audio": "pg021_n0031_feedback_v28.mp3",
+      "audio_unchanged": true
+    },
+    {
+      "text_id": "pg021_n0031_easy_read",
+      "old_text": "3. sauti au herufi ya kwanza ya jina gani haifanani na mengine?",
+      "new_text": "3. Sauti au herufi ya kwanza ya jina gani haifanani na mengine?",
+      "audio": "pg021_n0031_easy_read_feedback_v28.mp3",
+      "audio_unchanged": true
+    },
+    {
+      "text_id": "pg026_n0007",
+      "old_text": "2. sauti au herufi za mwanzo za majina yapi zinafanana?",
+      "new_text": "2. Sauti au herufi za mwanzo za majina yapi zinafanana?",
+      "audio": "pg026_n0007_feedback_v28.mp3",
+      "audio_unchanged": true
+    },
+    {
+      "text_id": "pg026_n0009",
+      "old_text": "3. sauti au herufi ya mwanzo ya jina lipi haifanani na mengine?",
+      "new_text": "3. Sauti au herufi ya mwanzo ya jina lipi haifanani na mengine?",
+      "audio": "pg026_n0009_feedback_v28.mp3",
+      "audio_unchanged": true
+    },
+    {
+      "text_id": "pg030_n0027",
+      "old_text": "sauti au herufi ya mwanzo ya jina lipi haifanani na mengine?",
+      "new_text": "Sauti au herufi ya mwanzo ya jina lipi haifanani na mengine?",
+      "audio": "pg030_n0027_feedback_v28.mp3",
+      "audio_unchanged": true
+    },
+    {
+      "text_id": "pg030_n0027_easy_read",
+      "old_text": "sauti au herufi ya mwanzo ya jina lipi haifanani na sauti za mwanzo za majina mengine?",
+      "new_text": "Sauti au herufi ya mwanzo ya jina lipi haifanani na sauti za mwanzo za majina mengine?",
+      "audio": "pg030_n0027_easy_read_feedback_v28.mp3",
+      "audio_unchanged": true
+    },
+    {
+      "text_id": "pg033_n0005",
+      "old_text": "sauti au herufi za mwanzo za majina yapi zinafanana?",
+      "new_text": "Sauti au herufi za mwanzo za majina yapi zinafanana?",
+      "audio": "pg033_n0005_feedback_v28.mp3",
+      "audio_unchanged": true
+    },
+    {
+      "text_id": "pg033_n0007",
+      "old_text": "sauti au herufi ya mwanzo ya jina lipi halifanani na mengine?",
+      "new_text": "Sauti au herufi ya mwanzo ya jina lipi halifanani na mengine?",
+      "audio": "pg033_n0007_feedback_v28.mp3",
+      "audio_unchanged": true
+    },
+    {
+      "text_id": "pg036_n0004",
+      "old_text": "sauti au herufi za mwanzo za majina yapi zinafanana?",
+      "new_text": "Sauti au herufi za mwanzo za majina yapi zinafanana?",
+      "audio": "pg036_n0004_feedback_v28.mp3",
+      "audio_unchanged": true
+    },
+    {
+      "text_id": "pg036_n0007",
+      "old_text": "sauti au herufi ya mwanzo ya jina lipi haifanani na mengine?",
+      "new_text": "Sauti au herufi ya mwanzo ya jina lipi haifanani na mengine?",
+      "audio": "pg036_n0007_feedback_v28.mp3",
+      "audio_unchanged": true
+    },
+    {
+      "text_id": "pg038_n0012",
+      "old_text": "1. sauti au herufi za mwanzo za majina yapi zinafanana?",
+      "new_text": "1. Sauti au herufi za mwanzo za majina yapi zinafanana?",
+      "audio": "pg038_n0012_feedback_v28.mp3",
+      "audio_unchanged": true
+    },
+    {
+      "text_id": "pg038_n0012_easy_read",
+      "old_text": "1. sauti au herufi za kwanza za majina gani zinafanana?",
+      "new_text": "1. Sauti au herufi za kwanza za majina gani zinafanana?",
+      "audio": "pg038_n0012_easy_read_feedback_v28.mp3",
+      "audio_unchanged": true
+    },
+    {
+      "text_id": "pg038_n0014",
+      "old_text": "2. sauti au herufi ya mwanzo ya jina lipi haifanani na mengine?",
+      "new_text": "2. Sauti au herufi ya mwanzo ya jina lipi haifanani na mengine?",
+      "audio": "pg038_n0014_feedback_v28.mp3",
+      "audio_unchanged": true
+    },
+    {
+      "text_id": "pg038_n0014_easy_read",
+      "old_text": "2. sauti au herufi ya kwanza ya jina gani haifanani na mengine?",
+      "new_text": "2. Sauti au herufi ya kwanza ya jina gani haifanani na mengine?",
+      "audio": "pg038_n0014_easy_read_feedback_v28.mp3",
+      "audio_unchanged": true
+    },
+    {
+      "text_id": "pg041_n0022",
+      "old_text": "sauti au herufi za mwanzo za majina yapi zinafanana?",
+      "new_text": "Sauti au herufi za mwanzo za majina yapi zinafanana?",
+      "audio": "pg041_n0022_feedback_v28.mp3",
+      "audio_unchanged": true
+    },
+    {
+      "text_id": "pg041_n0022_easy_read",
+      "old_text": "sauti au herufi za mwanzo za majina yapi zinafanana?",
+      "new_text": "Sauti au herufi za mwanzo za majina yapi zinafanana?",
+      "audio": "pg041_n0022_easy_read_feedback_v28.mp3",
+      "audio_unchanged": true
+    },
+    {
+      "text_id": "pg041_n0024",
+      "old_text": "sauti au herufi ya mwanzo ya jina lipi haifanani na mengine?",
+      "new_text": "Sauti au herufi ya mwanzo ya jina lipi haifanani na mengine?",
+      "audio": "pg041_n0024_feedback_v28.mp3",
+      "audio_unchanged": true
+    },
+    {
+      "text_id": "pg041_n0024_easy_read",
+      "old_text": "sauti au herufi ya mwanzo ya jina lipi haitofautiani na mengine?",
+      "new_text": "Sauti au herufi ya mwanzo ya jina lipi haitofautiani na mengine?",
+      "audio": "pg041_n0024_easy_read_feedback_v28.mp3",
+      "audio_unchanged": true
+    },
+    {
+      "text_id": "pg052_n0004",
+      "old_text": "sauti au herufi za mwanzo za majina yapi zinafanana?",
+      "new_text": "Sauti au herufi za mwanzo za majina yapi zinafanana?",
+      "audio": "pg052_n0004_feedback_v28.mp3",
+      "audio_unchanged": true
+    },
+    {
+      "text_id": "pg052_n0007",
+      "old_text": "sauti au herufi ya mwanzo ya jina lipi haifanani na mengine?",
+      "new_text": "Sauti au herufi ya mwanzo ya jina lipi haifanani na mengine?",
+      "audio": "pg052_n0007_feedback_v28.mp3",
+      "audio_unchanged": true
+    },
+    {
+      "text_id": "pg055_n0024",
+      "old_text": "sauti au herufi za mwanzo za majina yapi zinafanana?",
+      "new_text": "Sauti au herufi za mwanzo za majina yapi zinafanana?",
+      "audio": "pg055_n0024_feedback_v28.mp3",
+      "audio_unchanged": true
+    },
+    {
+      "text_id": "pg055_n0024_easy_read",
+      "old_text": "sauti au herufi za mwanzo za majina yapi zinafanana?",
+      "new_text": "Sauti au herufi za mwanzo za majina yapi zinafanana?",
+      "audio": "pg055_n0024_easy_read_feedback_v28.mp3",
+      "audio_unchanged": true
+    },
+    {
+      "text_id": "pg055_n0026",
+      "old_text": "sauti au herufi ya mwanzo ya jina lipi haifanani na mengine?",
+      "new_text": "Sauti au herufi ya mwanzo ya jina lipi haifanani na mengine?",
+      "audio": "pg055_n0026_feedback_v28.mp3",
+      "audio_unchanged": true
+    },
+    {
+      "text_id": "pg055_n0026_easy_read",
+      "old_text": "sauti au herufi ya mwanzo ya jina lipi haifanani na mengine?",
+      "new_text": "Sauti au herufi ya mwanzo ya jina lipi haifanani na mengine?",
+      "audio": "pg055_n0026_easy_read_feedback_v28.mp3",
+      "audio_unchanged": true
+    },
+    {
+      "text_id": "pg059_n0006",
+      "old_text": "sauti au herufi za mwanzo za majina yapi zinafanana?",
+      "new_text": "Sauti au herufi za mwanzo za majina yapi zinafanana?",
+      "audio": "pg059_n0006_feedback_v28.mp3",
+      "audio_unchanged": true
+    },
+    {
+      "text_id": "pg059_n0009",
+      "old_text": "sauti au herufi ya mwanzo ya jina lipi haifanani na mengine?",
+      "new_text": "Sauti au herufi ya mwanzo ya jina lipi haifanani na mengine?",
+      "audio": "pg059_n0009_feedback_v28.mp3",
+      "audio_unchanged": true
+    },
+    {
+      "text_id": "pg062_n0007",
+      "old_text": "1. sauti au herufi za mwanzo za majina yapi zinafanana?",
+      "new_text": "1. Sauti au herufi za mwanzo za majina yapi zinafanana?",
+      "audio": "pg062_n0007_feedback_v28.mp3",
+      "audio_unchanged": true
+    },
+    {
+      "text_id": "pg062_n0008",
+      "old_text": "2. sauti au herufi ya mwanzo ya jina lipi haifanani na mengine?",
+      "new_text": "2. Sauti au herufi ya mwanzo ya jina lipi haifanani na mengine?",
+      "audio": "pg062_n0008_feedback_v28.mp3",
+      "audio_unchanged": true
+    },
+    {
+      "text_id": "pg067_n0025",
+      "old_text": "sauti au herufi za mwanzo za majina yapi zinafanana?",
+      "new_text": "Sauti au herufi za mwanzo za majina yapi zinafanana?",
+      "audio": "pg067_n0025_feedback_v28.mp3",
+      "audio_unchanged": true
+    },
+    {
+      "text_id": "pg067_n0025_easy_read",
+      "old_text": "sauti au herufi za mwanzo za majina yapi zinafanana?",
+      "new_text": "Sauti au herufi za mwanzo za majina yapi zinafanana?",
+      "audio": "pg067_n0025_easy_read_feedback_v28.mp3",
+      "audio_unchanged": true
+    },
+    {
+      "text_id": "pg067_n0027",
+      "old_text": "sauti au herufi ya mwanzo ya jina lipi haifanani na mengine?",
+      "new_text": "Sauti au herufi ya mwanzo ya jina lipi haifanani na mengine?",
+      "audio": "pg067_n0027_feedback_v28.mp3",
+      "audio_unchanged": true
+    },
+    {
+      "text_id": "pg067_n0027_easy_read",
+      "old_text": "sauti au herufi ya mwanzo ya jina gani haifanani na mengine?",
+      "new_text": "Sauti au herufi ya mwanzo ya jina gani haifanani na mengine?",
+      "audio": "pg067_n0027_easy_read_feedback_v28.mp3",
+      "audio_unchanged": true
+    },
+    {
+      "text_id": "pg074_n0024",
+      "old_text": "sauti au herufi ya mwanzo ya picha ipi haifanani na zingine?",
+      "new_text": "Sauti au herufi ya mwanzo ya picha ipi haifanani na zingine?",
+      "audio": "pg074_n0024_feedback_v28.mp3",
+      "audio_unchanged": true
+    },
+    {
+      "text_id": "pg074_n0024_easy_read",
+      "old_text": "sauti au herufi ya kwanza ya picha ipi haitofautiani na zingine?",
+      "new_text": "Sauti au herufi ya kwanza ya picha ipi haitofautiani na zingine?",
+      "audio": "pg074_n0024_easy_read_feedback_v28.mp3",
+      "audio_unchanged": true
+    },
+    {
+      "text_id": "pg077_n0018",
+      "old_text": "3. sauti au herufi ya mwanzo ya jina lipi haifanani na mengine?",
+      "new_text": "3. Sauti au herufi ya mwanzo ya jina lipi haifanani na mengine?",
+      "audio": "pg077_n0018_feedback_v28.mp3",
+      "audio_unchanged": true
+    },
+    {
+      "text_id": "pg077_n0018_easy_read",
+      "old_text": "sauti au herufi ya kwanza ya jina lipi haifanani na mengine?",
+      "new_text": "Sauti au herufi ya kwanza ya jina lipi haifanani na mengine?",
+      "audio": "pg077_n0018_easy_read_feedback_v28.mp3",
+      "audio_unchanged": true
+    },
+    {
+      "text_id": "pg080_n0009",
+      "old_text": "sauti au herufi ya mwanzo ya jina lipi haifanani na mengine?",
+      "new_text": "Sauti au herufi ya mwanzo ya jina lipi haifanani na mengine?",
+      "audio": "pg080_n0009_feedback_v28.mp3",
+      "audio_unchanged": true
+    },
+    {
+      "text_id": "pg080_n0009_easy_read",
+      "old_text": "sauti au herufi ya mwanzo ya jina gani haifanani na nyingine?",
+      "new_text": "Sauti au herufi ya mwanzo ya jina gani haifanani na nyingine?",
+      "audio": "pg080_n0009_easy_read_feedback_v28.mp3",
+      "audio_unchanged": true
+    },
+    {
+      "text_id": "pg082_n0014",
+      "old_text": "sauti au herufi za mwanzo za majina yapi zinafanana?",
+      "new_text": "Sauti au herufi za mwanzo za majina yapi zinafanana?",
+      "audio": "pg082_n0014_feedback_v28.mp3",
+      "audio_unchanged": true
+    },
+    {
+      "text_id": "pg082_n0014_easy_read",
+      "old_text": "sauti au herufi za mwanzo za majina yapi zinafanana?",
+      "new_text": "Sauti au herufi za mwanzo za majina yapi zinafanana?",
+      "audio": "pg082_n0014_easy_read_feedback_v28.mp3",
+      "audio_unchanged": true
+    },
+    {
+      "text_id": "pg082_n0016",
+      "old_text": "sauti au herufi ya mwanzo ya jina lipi haifanani na mengine?",
+      "new_text": "Sauti au herufi ya mwanzo ya jina lipi haifanani na mengine?",
+      "audio": "pg082_n0016_feedback_v28.mp3",
+      "audio_unchanged": true
+    },
+    {
+      "text_id": "pg082_n0016_easy_read",
+      "old_text": "sauti au herufi ya mwanzo ya jina gani haifanani na mengine?",
+      "new_text": "Sauti au herufi ya mwanzo ya jina gani haifanani na mengine?",
+      "audio": "pg082_n0016_easy_read_feedback_v28.mp3",
+      "audio_unchanged": true
+    }
+  ],
+  "reviewed_exclusions": {
+    "continued_sentences": [
+      "pg001_n0018",
+      "pg001_n0020",
+      "pg001_n0021",
+      "pg103_n0002"
+    ],
+    "placeholder_dialogue": [
+      "pg008_n0007"
+    ],
+    "phonics_letters_syllables_words_and_blanks": true,
+    "matching_table_terms_and_definition_fragments": true,
+    "glossary_definition_fragments": true,
+    "activity_answer_values_and_technical_metadata": true
+  },
+  "audio_policy": "Existing RehemaNeural mappings are retained because changing only the first letter case does not alter the spoken wording.",
+  "complete_lowercase_audit": {
+    "method": "Reviewed every texts.json value whose first alphabetic character is lowercase, every short lowercase value ending in sentence punctuation, and every lowercase token following sentence punctuation or a newline. Confirmed sentence starts were corrected; the remaining exact candidates below are non-sentence structures.",
+    "reviewed_lowercase_multiword_candidates": [
+      {
+        "text_id": "pg001_n0012",
+        "text": "namba mia tano na ishirini na saba",
+        "reason": "continuation of a sentence split across data IDs or pages"
+      },
+      {
+        "text_id": "pg001_n0018",
+        "text": "tarehe 13 Juni 2021 kuwa Kitabu cha Kiada kwa ajili ya",
+        "reason": "continuation of a sentence split across data IDs or pages"
+      },
+      {
+        "text_id": "pg001_n0020",
+        "text": "ngazi ya Elimu ya Msingi nchini Tanzania kulingana na Muhtasari wa",
+        "reason": "continuation of a sentence split across data IDs or pages"
+      },
+      {
+        "text_id": "pg003_n0029",
+        "text": "sh, th, mb, ny, ng nd na kw",
+        "reason": "phonics letter, syllable, word, blank pattern, or teaching list, not a sentence"
+      },
+      {
+        "text_id": "pg008_n0007",
+        "text": "................. (jina) unatoka wapi?",
+        "reason": "name placeholder followed by the continuation of a dialogue question"
+      },
+      {
+        "text_id": "pg018_im003_crop1_crop1",
+        "text": "a, b, o, d, b, p, i, b",
+        "reason": "phonics letter, syllable, word, blank pattern, or teaching list, not a sentence"
+      },
+      {
+        "text_id": "pg027_n0100",
+        "text": "dashi, u, dashi, u.",
+        "reason": "phonics letter, syllable, word, blank pattern, or teaching list, not a sentence"
+      },
+      {
+        "text_id": "pg027_n0102",
+        "text": "k, dashi, k, dashi.",
+        "reason": "phonics letter, syllable, word, blank pattern, or teaching list, not a sentence"
+      },
+      {
+        "text_id": "pg028_n0004",
+        "text": "k, dashi, k, dashi.",
+        "reason": "phonics letter, syllable, word, blank pattern, or teaching list, not a sentence"
+      },
+      {
+        "text_id": "pg028_n0007",
+        "text": "dashi, a, b, dashi.",
+        "reason": "phonics letter, syllable, word, blank pattern, or teaching list, not a sentence"
+      },
+      {
+        "text_id": "pg028_n0010",
+        "text": "dashi, a, dashi, a, dashi, i.",
+        "reason": "phonics letter, syllable, word, blank pattern, or teaching list, not a sentence"
+      },
+      {
+        "text_id": "pg028_n0013",
+        "text": "dashi, a, k, dashi.",
+        "reason": "phonics letter, syllable, word, blank pattern, or teaching list, not a sentence"
+      },
+      {
+        "text_id": "pg028_n0016",
+        "text": "d, dashi, k, dashi.",
+        "reason": "phonics letter, syllable, word, blank pattern, or teaching list, not a sentence"
+      },
+      {
+        "text_id": "pg028_n0019",
+        "text": "m, dashi, m, dashi.",
+        "reason": "phonics letter, syllable, word, blank pattern, or teaching list, not a sentence"
+      },
+      {
+        "text_id": "pg028_n0025",
+        "text": "dashi, i, dashi, i.",
+        "reason": "phonics letter, syllable, word, blank pattern, or teaching list, not a sentence"
+      },
+      {
+        "text_id": "pg036_n0038",
+        "text": "po pa pu pe pi",
+        "reason": "phonics letter, syllable, word, blank pattern, or teaching list, not a sentence"
+      },
+      {
+        "text_id": "pg036_n0039",
+        "text": "poa pia pua paa",
+        "reason": "phonics letter, syllable, word, blank pattern, or teaching list, not a sentence"
+      },
+      {
+        "text_id": "pg039_n0022",
+        "text": "so su sa si se",
+        "reason": "phonics letter, syllable, word, blank pattern, or teaching list, not a sentence"
+      },
+      {
+        "text_id": "pg039_n0023",
+        "text": "saa suka nusa uso upesi",
+        "reason": "phonics letter, syllable, word, blank pattern, or teaching list, not a sentence"
+      },
+      {
+        "text_id": "pg039_n0026",
+        "text": "sema soko soma samaki leso kesi",
+        "reason": "phonics letter, syllable, word, blank pattern, or teaching list, not a sentence"
+      },
+      {
+        "text_id": "pg039_n0027",
+        "text": "sumu sukuma susa basi sisi sokoni",
+        "reason": "phonics letter, syllable, word, blank pattern, or teaching list, not a sentence"
+      },
+      {
+        "text_id": "pg039_n0028",
+        "text": "sasa nusu pasi sumaku",
+        "reason": "phonics letter, syllable, word, blank pattern, or teaching list, not a sentence"
+      },
+      {
+        "text_id": "pg039_n0031",
+        "text": "pesa leso nusu nusa",
+        "reason": "phonics letter, syllable, word, blank pattern, or teaching list, not a sentence"
+      },
+      {
+        "text_id": "pg039_n0032",
+        "text": "sebule sukuma saa uso",
+        "reason": "phonics letter, syllable, word, blank pattern, or teaching list, not a sentence"
+      },
+      {
+        "text_id": "pg042_im006",
+        "text": "g, d, d, g, p, b, g, p",
+        "reason": "phonics letter, syllable, word, blank pattern, or teaching list, not a sentence"
+      },
+      {
+        "text_id": "pg046_im003",
+        "text": "u, y, j, g, y, g, y, p",
+        "reason": "phonics letter, syllable, word, blank pattern, or teaching list, not a sentence"
+      },
+      {
+        "text_id": "pg049_im004",
+        "text": "z, m, k, z, b, z, p, u",
+        "reason": "phonics letter, syllable, word, blank pattern, or teaching list, not a sentence"
+      },
+      {
+        "text_id": "pg056_im005_crop_v1",
+        "text": "r, h, e, r, l, r, i, k",
+        "reason": "phonics letter, syllable, word, blank pattern, or teaching list, not a sentence"
+      },
+      {
+        "text_id": "pg059_im008_crop_v1",
+        "text": "u, w, m, w, a, m, n",
+        "reason": "phonics letter, syllable, word, blank pattern, or teaching list, not a sentence"
+      },
+      {
+        "text_id": "pg062_im010_crop1",
+        "text": "v, w, n, v, u, v, w, u",
+        "reason": "phonics letter, syllable, word, blank pattern, or teaching list, not a sentence"
+      },
+      {
+        "text_id": "pg066_im004",
+        "text": "ch, m, h, c, ch, h, c, ch, n, u",
+        "reason": "phonics letter, syllable, word, blank pattern, or teaching list, not a sentence"
+      },
+      {
+        "text_id": "pg068_im004",
+        "text": "ch, ng, sh, ch, sh, ch, ng, sh",
+        "reason": "phonics letter, syllable, word, blank pattern, or teaching list, not a sentence"
+      },
+      {
+        "text_id": "pg068_n0031",
+        "text": "shu she shi sha sho",
+        "reason": "phonics letter, syllable, word, blank pattern, or teaching list, not a sentence"
+      },
+      {
+        "text_id": "pg068_n0032",
+        "text": "osha washa isha kesho rusha shusha",
+        "reason": "phonics letter, syllable, word, blank pattern, or teaching list, not a sentence"
+      },
+      {
+        "text_id": "pg070_im003_crop1",
+        "text": "kw, th, mb, nd, th, kw, ng, th",
+        "reason": "phonics letter, syllable, word, blank pattern, or teaching list, not a sentence"
+      },
+      {
+        "text_id": "pg072_im004",
+        "text": "sh, ng, mb, nd, mb, nd, sh, mb",
+        "reason": "phonics letter, syllable, word, blank pattern, or teaching list, not a sentence"
+      },
+      {
+        "text_id": "pg078_im004",
+        "text": "nd, ng, ny, sh, mb, ng, sh, ng",
+        "reason": "phonics letter, syllable, word, blank pattern, or teaching list, not a sentence"
+      },
+      {
+        "text_id": "pg080_im007",
+        "text": "nd, ny, ng, nd, ng, nd, ny, mb",
+        "reason": "phonics letter, syllable, word, blank pattern, or teaching list, not a sentence"
+      },
+      {
+        "text_id": "pg081_n0013",
+        "text": "ndo ndu nda ndi nde",
+        "reason": "phonics letter, syllable, word, blank pattern, or teaching list, not a sentence"
+      },
+      {
+        "text_id": "pg081_n0014",
+        "text": "ndio ndoo andaa ondoa",
+        "reason": "phonics letter, syllable, word, blank pattern, or teaching list, not a sentence"
+      },
+      {
+        "text_id": "pg081_n0017",
+        "text": "ndama ndimi ndimu ndiyo",
+        "reason": "phonics letter, syllable, word, blank pattern, or teaching list, not a sentence"
+      },
+      {
+        "text_id": "pg081_n0018",
+        "text": "ndiye ndege ndugu ndizi",
+        "reason": "phonics letter, syllable, word, blank pattern, or teaching list, not a sentence"
+      },
+      {
+        "text_id": "pg081_n0019",
+        "text": "ndani ndoto ndefu pinda",
+        "reason": "phonics letter, syllable, word, blank pattern, or teaching list, not a sentence"
+      },
+      {
+        "text_id": "pg081_n0020",
+        "text": "pendo punda pindo ponda",
+        "reason": "phonics letter, syllable, word, blank pattern, or teaching list, not a sentence"
+      },
+      {
+        "text_id": "pg081_n0023",
+        "text": "mende andaa ondoa ndama",
+        "reason": "phonics letter, syllable, word, blank pattern, or teaching list, not a sentence"
+      },
+      {
+        "text_id": "pg081_n0024",
+        "text": "ndege ndimu ndoto punda",
+        "reason": "phonics letter, syllable, word, blank pattern, or teaching list, not a sentence"
+      },
+      {
+        "text_id": "pg083_im003_crop1",
+        "text": "nd, kw, mb, nd, kw, mb, nd, ng",
+        "reason": "phonics letter, syllable, word, blank pattern, or teaching list, not a sentence"
+      },
+      {
+        "text_id": "pg084_n0059",
+        "text": "ngamia, kwao, simba, nyama, choo, ndama.",
+        "reason": "phonics letter, syllable, word, blank pattern, or teaching list, not a sentence"
+      },
+      {
+        "text_id": "pg086_n0019",
+        "text": "dh a dha",
+        "reason": "phonics letter, syllable, word, blank pattern, or teaching list, not a sentence"
+      },
+      {
+        "text_id": "pg086_n0020",
+        "text": "th, dashi, dashi.",
+        "reason": "phonics letter, syllable, word, blank pattern, or teaching list, not a sentence"
+      },
+      {
+        "text_id": "pg086_n0021",
+        "text": "ng’, dashi, dashi, dashi.",
+        "reason": "phonics letter, syllable, word, blank pattern, or teaching list, not a sentence"
+      },
+      {
+        "text_id": "pg087_n0007",
+        "text": "ng’a thi ra dha dhi the",
+        "reason": "phonics letter, syllable, word, blank pattern, or teaching list, not a sentence"
+      },
+      {
+        "text_id": "pg087_n0018",
+        "text": "ng’arisha ng’a ri sha",
+        "reason": "phonics letter, syllable, word, blank pattern, or teaching list, not a sentence"
+      },
+      {
+        "text_id": "pg087_n0038",
+        "text": "ubora wa kitu au gharama yake",
+        "reason": "matching-activity term or definition fragment, not a sentence start"
+      },
+      {
+        "text_id": "pg087_n0043",
+        "text": "vitu vinavyoweza kuuzwa au kununuliwa",
+        "reason": "matching-activity term or definition fragment, not a sentence start"
+      },
+      {
+        "text_id": "pg087_n0048",
+        "text": "fanya kitu kimeremete ili kipendeze.",
+        "reason": "matching-activity term or definition fragment, not a sentence start"
+      },
+      {
+        "text_id": "pg088_n0027",
+        "text": "vifaa vya thamani",
+        "reason": "matching-activity term or definition fragment, not a sentence start"
+      },
+      {
+        "text_id": "pg091_n0009",
+        "text": "mbw e mbwe",
+        "reason": "phonics letter, syllable, word, blank pattern, or teaching list, not a sentence"
+      },
+      {
+        "text_id": "pg091_n0010",
+        "text": "ngw a ngwa",
+        "reason": "phonics letter, syllable, word, blank pattern, or teaching list, not a sentence"
+      },
+      {
+        "text_id": "pg091_n0018",
+        "text": "chwi chw i",
+        "reason": "phonics letter, syllable, word, blank pattern, or teaching list, not a sentence"
+      },
+      {
+        "text_id": "pg091_n0036",
+        "text": "nywele nywe le",
+        "reason": "phonics letter, syllable, word, blank pattern, or teaching list, not a sentence"
+      },
+      {
+        "text_id": "pg092_n0046",
+        "text": "mnyama wa porini",
+        "reason": "matching-activity term or definition fragment, not a sentence start"
+      },
+      {
+        "text_id": "pg092_n0047",
+        "text": "sehemu ya mwili",
+        "reason": "matching-activity term or definition fragment, not a sentence start"
+      },
+      {
+        "text_id": "pg097_n0030",
+        "text": "2. kuwa makini",
+        "reason": "matching-activity term or definition fragment, not a sentence start"
+      },
+      {
+        "text_id": "pg097_n0031",
+        "text": "3. usalama barabarani",
+        "reason": "matching-activity term or definition fragment, not a sentence start"
+      },
+      {
+        "text_id": "pg097_n0032",
+        "text": "4. alama za milia",
+        "reason": "matching-activity term or definition fragment, not a sentence start"
+      },
+      {
+        "text_id": "pg097_n0036",
+        "text": "kuzingatia taratibu za kutembea na kuvuka barabara",
+        "reason": "matching-activity term or definition fragment, not a sentence start"
+      },
+      {
+        "text_id": "pg097_n0038",
+        "text": "mtu anayelinda watu na mali zao",
+        "reason": "matching-activity term or definition fragment, not a sentence start"
+      },
+      {
+        "text_id": "pg097_n0040",
+        "text": "mistari mieupe inayochorwa kwenye barabara za lami.",
+        "reason": "matching-activity term or definition fragment, not a sentence start"
+      },
+      {
+        "text_id": "pg097_n0043",
+        "text": "hali ya kuwa mwangalifu",
+        "reason": "matching-activity term or definition fragment, not a sentence start"
+      },
+      {
+        "text_id": "pg097_n0045",
+        "text": "mtu anayefundisha shuleni",
+        "reason": "matching-activity term or definition fragment, not a sentence start"
+      },
+      {
+        "text_id": "pg098_im004",
+        "text": "a, y, w, v, u, t, s, r, g, h, p, m, z, b, e, f, d, a, ch, d, n, w, m, e, n, ch, k, u, j, b, g, n, i, l, d, b, p, d, o, v, w, r, n, l, j, y, p, y, a, ch, h, t, u, e, o, k, h, z, h, j, m, a, g, l, i, v, t, r, s, d, k, r, b, ch, v, p, h, r, j, ch, f, s, a, t, y, g, v, j, w, l, o, k, g, l, s, p, o, i, t, f, h, r, l, z, b, j, ch, f, z, d, o, j",
+        "reason": "phonics letter, syllable, word, blank pattern, or teaching list, not a sentence"
+      },
+      {
+        "text_id": "pg103_n0002",
+        "text": "kusoma kama sisi.",
+        "reason": "continuation of a sentence split across data IDs or pages"
+      },
+      {
+        "text_id": "pg001_n0012_easy_read",
+        "text": "namba mia tano na ishirini na saba",
+        "reason": "continuation of a sentence split across data IDs or pages"
+      },
+      {
+        "text_id": "pg001_n0018_easy_read",
+        "text": "tarehe 13 Juni 2021 kuwa kitabu cha kiada kwa ajili ya",
+        "reason": "continuation of a sentence split across data IDs or pages"
+      },
+      {
+        "text_id": "pg001_n0019_easy_read",
+        "text": "mwanafunzi wa Kundirika la Kwanza Mwaka wa Kwanza katika",
+        "reason": "continuation of a sentence split across data IDs or pages"
+      },
+      {
+        "text_id": "pg001_n0020_easy_read",
+        "text": "ngazi ya Elimu ya Msingi nchini Tanzania, kulingana na Muhtasari wa",
+        "reason": "continuation of a sentence split across data IDs or pages"
+      },
+      {
+        "text_id": "pg008_n0007_easy_read",
+        "text": "(jina), unatoka wapi?",
+        "reason": "name placeholder followed by the continuation of a dialogue question"
+      },
+      {
+        "text_id": "pg028_n0004_easy_read",
+        "text": "k ______ ______ u",
+        "reason": "phonics letter, syllable, word, blank pattern, or teaching list, not a sentence"
+      },
+      {
+        "text_id": "pg028_n0007_easy_read",
+        "text": "______ ______ ab ______ ______",
+        "reason": "phonics letter, syllable, word, blank pattern, or teaching list, not a sentence"
+      },
+      {
+        "text_id": "pg028_n0010_easy_read",
+        "text": "______ ______ a ______ ______ a ______ ______ i",
+        "reason": "phonics letter, syllable, word, blank pattern, or teaching list, not a sentence"
+      },
+      {
+        "text_id": "pg028_n0013_easy_read",
+        "text": "______ ______ ak ______ ______",
+        "reason": "phonics letter, syllable, word, blank pattern, or teaching list, not a sentence"
+      },
+      {
+        "text_id": "pg028_n0016_easy_read",
+        "text": "d ______ ______ k ______ ______",
+        "reason": "phonics letter, syllable, word, blank pattern, or teaching list, not a sentence"
+      },
+      {
+        "text_id": "pg028_n0019_easy_read",
+        "text": "m ______ ______ m ______",
+        "reason": "phonics letter, syllable, word, blank pattern, or teaching list, not a sentence"
+      },
+      {
+        "text_id": "pg028_n0022_easy_read",
+        "text": "______ ______ a",
+        "reason": "phonics letter, syllable, word, blank pattern, or teaching list, not a sentence"
+      },
+      {
+        "text_id": "pg028_n0025_easy_read",
+        "text": "______ ______ i ______ ______ i",
+        "reason": "phonics letter, syllable, word, blank pattern, or teaching list, not a sentence"
+      },
+      {
+        "text_id": "pg036_n0038_easy_read",
+        "text": "po pa pu pe pi",
+        "reason": "phonics letter, syllable, word, blank pattern, or teaching list, not a sentence"
+      },
+      {
+        "text_id": "pg036_n0039_easy_read",
+        "text": "poa pia pua paa",
+        "reason": "phonics letter, syllable, word, blank pattern, or teaching list, not a sentence"
+      },
+      {
+        "text_id": "pg039_n0022_easy_read",
+        "text": "so su sa si se",
+        "reason": "phonics letter, syllable, word, blank pattern, or teaching list, not a sentence"
+      },
+      {
+        "text_id": "pg039_n0023_easy_read",
+        "text": "saa suka nusa uso upesi",
+        "reason": "phonics letter, syllable, word, blank pattern, or teaching list, not a sentence"
+      },
+      {
+        "text_id": "pg039_n0026_easy_read",
+        "text": "sema soko soma samaki leso kesi",
+        "reason": "phonics letter, syllable, word, blank pattern, or teaching list, not a sentence"
+      },
+      {
+        "text_id": "pg039_n0027_easy_read",
+        "text": "sumu sukuma susa basi sisi sokoni",
+        "reason": "phonics letter, syllable, word, blank pattern, or teaching list, not a sentence"
+      },
+      {
+        "text_id": "pg039_n0028_easy_read",
+        "text": "sasa nusu pasi sumaku",
+        "reason": "phonics letter, syllable, word, blank pattern, or teaching list, not a sentence"
+      },
+      {
+        "text_id": "pg039_n0031_easy_read",
+        "text": "pesa leso nusu nusa",
+        "reason": "phonics letter, syllable, word, blank pattern, or teaching list, not a sentence"
+      },
+      {
+        "text_id": "pg039_n0032_easy_read",
+        "text": "sebule sukuma saa uso",
+        "reason": "phonics letter, syllable, word, blank pattern, or teaching list, not a sentence"
+      },
+      {
+        "text_id": "pg068_n0031_easy_read",
+        "text": "shu she shi sha sho",
+        "reason": "phonics letter, syllable, word, blank pattern, or teaching list, not a sentence"
+      },
+      {
+        "text_id": "pg068_n0032_easy_read",
+        "text": "osha washa isha kesho rusha shusha",
+        "reason": "phonics letter, syllable, word, blank pattern, or teaching list, not a sentence"
+      },
+      {
+        "text_id": "pg081_n0013_easy_read",
+        "text": "ndo ndu nda ndi nde",
+        "reason": "phonics letter, syllable, word, blank pattern, or teaching list, not a sentence"
+      },
+      {
+        "text_id": "pg081_n0014_easy_read",
+        "text": "ndio ndoo andaa ondoa",
+        "reason": "phonics letter, syllable, word, blank pattern, or teaching list, not a sentence"
+      },
+      {
+        "text_id": "pg081_n0017_easy_read",
+        "text": "ndama ndimi ndimu ndiyo",
+        "reason": "phonics letter, syllable, word, blank pattern, or teaching list, not a sentence"
+      },
+      {
+        "text_id": "pg081_n0018_easy_read",
+        "text": "ndiye ndege ndugu ndizi",
+        "reason": "phonics letter, syllable, word, blank pattern, or teaching list, not a sentence"
+      },
+      {
+        "text_id": "pg081_n0019_easy_read",
+        "text": "ndani ndoto ndefu pinda",
+        "reason": "phonics letter, syllable, word, blank pattern, or teaching list, not a sentence"
+      },
+      {
+        "text_id": "pg081_n0020_easy_read",
+        "text": "pendo punda pindo ponda",
+        "reason": "phonics letter, syllable, word, blank pattern, or teaching list, not a sentence"
+      },
+      {
+        "text_id": "pg081_n0023_easy_read",
+        "text": "mende andaa ondoa ndama",
+        "reason": "phonics letter, syllable, word, blank pattern, or teaching list, not a sentence"
+      },
+      {
+        "text_id": "pg081_n0024_easy_read",
+        "text": "ndege ndimu ndoto punda",
+        "reason": "phonics letter, syllable, word, blank pattern, or teaching list, not a sentence"
+      },
+      {
+        "text_id": "pg086_n0019_easy_read",
+        "text": "dh a dha",
+        "reason": "phonics letter, syllable, word, blank pattern, or teaching list, not a sentence"
+      },
+      {
+        "text_id": "pg086_n0020_easy_read",
+        "text": "th, dashi, dashi.",
+        "reason": "phonics letter, syllable, word, blank pattern, or teaching list, not a sentence"
+      },
+      {
+        "text_id": "pg086_n0021_easy_read",
+        "text": "ng’, dashi, dashi, dashi.",
+        "reason": "phonics letter, syllable, word, blank pattern, or teaching list, not a sentence"
+      },
+      {
+        "text_id": "pg087_n0007_easy_read",
+        "text": "ng’a thi ra dha dhi the",
+        "reason": "phonics letter, syllable, word, blank pattern, or teaching list, not a sentence"
+      },
+      {
+        "text_id": "pg087_n0009_easy_read",
+        "text": "habu = dhahabu",
+        "reason": "phonics letter, syllable, word, blank pattern, or teaching list, not a sentence"
+      },
+      {
+        "text_id": "pg087_n0018_easy_read",
+        "text": "ng’arisha = ng’a ri sha",
+        "reason": "phonics letter, syllable, word, blank pattern, or teaching list, not a sentence"
+      },
+      {
+        "text_id": "pg087_n0038_easy_read",
+        "text": "ubora wa kitu au gharama yake",
+        "reason": "matching-activity term or definition fragment, not a sentence start"
+      },
+      {
+        "text_id": "pg087_n0043_easy_read",
+        "text": "vitu vinavyoweza kuuzwa au kununuliwa",
+        "reason": "matching-activity term or definition fragment, not a sentence start"
+      },
+      {
+        "text_id": "pg088_n0027_easy_read",
+        "text": "vifaa vya thamani",
+        "reason": "matching-activity term or definition fragment, not a sentence start"
+      },
+      {
+        "text_id": "pg091_n0009_easy_read",
+        "text": "mbw e mbwe",
+        "reason": "phonics letter, syllable, word, blank pattern, or teaching list, not a sentence"
+      },
+      {
+        "text_id": "pg091_n0010_easy_read",
+        "text": "ngw a ngwa",
+        "reason": "phonics letter, syllable, word, blank pattern, or teaching list, not a sentence"
+      },
+      {
+        "text_id": "pg091_n0018_easy_read",
+        "text": "chwi chw i",
+        "reason": "phonics letter, syllable, word, blank pattern, or teaching list, not a sentence"
+      },
+      {
+        "text_id": "pg091_n0036_easy_read",
+        "text": "nywele nywe le",
+        "reason": "phonics letter, syllable, word, blank pattern, or teaching list, not a sentence"
+      },
+      {
+        "text_id": "pg092_n0022_easy_read",
+        "text": "hambwe → mbweha",
+        "reason": "phonics letter, syllable, word, blank pattern, or teaching list, not a sentence"
+      },
+      {
+        "text_id": "pg092_n0046_easy_read",
+        "text": "mnyama wa porini",
+        "reason": "matching-activity term or definition fragment, not a sentence start"
+      },
+      {
+        "text_id": "pg092_n0047_easy_read",
+        "text": "sehemu ya mwili",
+        "reason": "matching-activity term or definition fragment, not a sentence start"
+      },
+      {
+        "text_id": "pg103_n0002_easy_read",
+        "text": "kusoma kama sisi.",
+        "reason": "continuation of a sentence split across data IDs or pages"
+      }
+    ],
+    "reviewed_short_terminal_candidates": [
+      {
+        "text_id": "pg001_n0021",
+        "text": "mwaka 2021.",
+        "reason": "continuation of a sentence split across data IDs or pages"
+      },
+      {
+        "text_id": "pg028_n0022",
+        "text": "dashi, a.",
+        "reason": "phonics letter, syllable, word, blank pattern, or teaching list, not a sentence"
+      },
+      {
+        "text_id": "pg001_n0021_easy_read",
+        "text": "mwaka 2021.",
+        "reason": "continuation of a sentence split across data IDs or pages"
+      }
+    ],
+    "reviewed_internal_or_newline_candidates": [
+      {
+        "text_id": "pg008_n0006",
+        "text": "Ninaitwa ...................... (jina).",
+        "reason": "phonics letter, syllable, word, blank pattern, or teaching list, not a sentence"
+      },
+      {
+        "text_id": "pg008_n0007",
+        "text": "................. (jina) unatoka wapi?",
+        "reason": "name placeholder followed by the continuation of a dialogue question"
+      },
+      {
+        "text_id": "pg008_n0008",
+        "text": "Ninatoka .................... (mahali).",
+        "reason": "phonics letter, syllable, word, blank pattern, or teaching list, not a sentence"
+      },
+      {
+        "text_id": "pg087_n0013",
+        "text": "......... rau",
+        "reason": "phonics letter, syllable, word, blank pattern, or teaching list, not a sentence"
+      },
+      {
+        "text_id": "pg087_n0036",
+        "text": "1. bidhaa",
+        "reason": "phonics letter, syllable, word, blank pattern, or teaching list, not a sentence"
+      },
+      {
+        "text_id": "pg087_n0041",
+        "text": "2. thamani",
+        "reason": "phonics letter, syllable, word, blank pattern, or teaching list, not a sentence"
+      },
+      {
+        "text_id": "pg087_n0046",
+        "text": "3. ng’arisha",
+        "reason": "phonics letter, syllable, word, blank pattern, or teaching list, not a sentence"
+      },
+      {
+        "text_id": "pg097_n0029",
+        "text": "1. askari",
+        "reason": "matching-activity term or definition fragment, not a sentence start"
+      },
+      {
+        "text_id": "pg097_n0030",
+        "text": "2. kuwa makini",
+        "reason": "matching-activity term or definition fragment, not a sentence start"
+      },
+      {
+        "text_id": "pg097_n0031",
+        "text": "3. usalama barabarani",
+        "reason": "matching-activity term or definition fragment, not a sentence start"
+      },
+      {
+        "text_id": "pg097_n0032",
+        "text": "4. alama za milia",
+        "reason": "matching-activity term or definition fragment, not a sentence start"
+      },
+      {
+        "text_id": "pg003_n0013_easy_read",
+        "text": "Kutambua sauti za herufi:\n- a\n- e\n- i\n- o\n- u",
+        "reason": "phonics letter, syllable, word, blank pattern, or teaching list, not a sentence"
+      },
+      {
+        "text_id": "pg003_n0016_easy_read",
+        "text": "Kutambua sauti za herufi:\n- b\n- m\n- k\n- d\n- n",
+        "reason": "phonics letter, syllable, word, blank pattern, or teaching list, not a sentence"
+      },
+      {
+        "text_id": "pg003_n0019_easy_read",
+        "text": "Kutambua sauti za herufi:\n- l\n- t\n- p\n- s\n- f\n- j",
+        "reason": "phonics letter, syllable, word, blank pattern, or teaching list, not a sentence"
+      },
+      {
+        "text_id": "pg003_n0022_easy_read",
+        "text": "Kutambua sauti za herufi:\n- g\n- y\n- z\n- h",
+        "reason": "phonics letter, syllable, word, blank pattern, or teaching list, not a sentence"
+      },
+      {
+        "text_id": "pg003_n0025_easy_read",
+        "text": "Kutambua sauti za herufi:\n- r\n- w\n- v\n- ch",
+        "reason": "phonics letter, syllable, word, blank pattern, or teaching list, not a sentence"
+      },
+      {
+        "text_id": "pg003_n0029_easy_read",
+        "text": "Herufi mwambatano ni:\n- sh\n- th\n- mb\n- ny\n- ng\n- nd\n- kw",
+        "reason": "phonics letter, syllable, word, blank pattern, or teaching list, not a sentence"
+      },
+      {
+        "text_id": "pg004_n0009_easy_read",
+        "text": "Tambua sauti za herufi hizi:\n- ngw\n- nyw\n- mbw\n- chw\n- ndw",
+        "reason": "phonics letter, syllable, word, blank pattern, or teaching list, not a sentence"
+      },
+      {
+        "text_id": "pg006_n0015_easy_read",
+        "text": "Sura hizo zimejengwa kwa maudhui yaliyowasilishwa kwa njia hizi:\n- matini\n- picha\n- nyimbo",
+        "reason": "phonics letter, syllable, word, blank pattern, or teaching list, not a sentence"
+      },
+      {
+        "text_id": "pg006_n0016_easy_read",
+        "text": "Pia, maudhui mengine yamewasilishwa kwa njia hizi:\n- hadithi\n- maswali",
+        "reason": "phonics letter, syllable, word, blank pattern, or teaching list, not a sentence"
+      },
+      {
+        "text_id": "pg018_n0007_easy_read",
+        "text": "Unda silabi.\nUnganisha sauti ya herufi b na hizi herufi:\n- a\n- e\n- i\n- o\n- u",
+        "reason": "phonics letter, syllable, word, blank pattern, or teaching list, not a sentence"
+      },
+      {
+        "text_id": "pg026_n0022_easy_read",
+        "text": "2. Unda silabi kwa kuunganisha sauti ya herufi n na herufi hizi:\n- a\n- e\n- i\n- o\n- u",
+        "reason": "phonics letter, syllable, word, blank pattern, or teaching list, not a sentence"
+      },
+      {
+        "text_id": "pg026_n0030_easy_read",
+        "text": "3. Unda silabi kwa kuunganisha sauti za herufi hizi:\n- b\n- m\n- k\n- d\nna herufi hizi:\n- a\n- e\n- i\n- o\n- u",
+        "reason": "phonics letter, syllable, word, blank pattern, or teaching list, not a sentence"
+      },
+      {
+        "text_id": "pg033_n0012_easy_read",
+        "text": "Unda silabi.\nUnganisha sauti za herufi hizi:\n- t\n- b\n- m\n- k\n- d\n- n\n- l\nna vokali hizi:\n- a\n- e\n- i\n- o\n- u",
+        "reason": "phonics letter, syllable, word, blank pattern, or teaching list, not a sentence"
+      },
+      {
+        "text_id": "pg036_n0012_easy_read",
+        "text": "Unda silabi kwa kuunganisha sauti za herufi hizi:\n- p\n- b\n- m\n- k\n- d\n- l\n- t\n- n\nna herufi hizi:\n- a\n- e\n- i\n- o\n- u",
+        "reason": "phonics letter, syllable, word, blank pattern, or teaching list, not a sentence"
+      },
+      {
+        "text_id": "pg038_n0017_easy_read",
+        "text": "1. Unda silabi kwa kuunganisha sauti za herufi hizi:\n- s\n- b\n- m\n- k\n- d\n- n\n- l\n- t\n- p\nna herufi hizi:\n- a\n- e\n- i\n- o\n- u",
+        "reason": "phonics letter, syllable, word, blank pattern, or teaching list, not a sentence"
+      },
+      {
+        "text_id": "pg046_n0019_easy_read",
+        "text": "2. Unda silabi kwa kuunganisha sauti za herufi hizi:\n- y\n- b\n- m\n- k\n- d\n- n\n- l\n- t\n- p\n- s\n- f\n- j\n- g\nna herufi hizi:\n- a\n- e\n- i\n- o\n- u",
+        "reason": "phonics letter, syllable, word, blank pattern, or teaching list, not a sentence"
+      },
+      {
+        "text_id": "pg049_n0009_easy_read",
+        "text": "Unda silabi.\nUnganisha sauti za herufi hizi:\n- z\n- b\n- m\n- k\n- d\n- n\n- l\n- t\n- p\n- s\n- f\n- j\n- g\n- y\nna sauti za herufi hizi:\n- a\n- e\n- i\n- o\n- u",
+        "reason": "phonics letter, syllable, word, blank pattern, or teaching list, not a sentence"
+      },
+      {
+        "text_id": "pg053_n0003_easy_read",
+        "text": "Unda silabi kwa kuunganisha sauti za herufi hizi:\n- h\n- b\n- m\n- k\n- d\n- n\n- l\n- t\n- p\n- s\n- f\n- j\n- g\n- y\n- z\nna vokali hizi:\n- a\n- e\n- i\n- o\n- u",
+        "reason": "phonics letter, syllable, word, blank pattern, or teaching list, not a sentence"
+      },
+      {
+        "text_id": "pg056_n0019_easy_read",
+        "text": "2. Unda silabi kwa kuunganisha sauti za herufi hizi:\n- r\n- b\n- m\n- k\n- d\n- n\n- l\n- t\n- p\n- s\n- f\n- j\n- g\n- y\n- z\n- h\nna sauti za herufi hizi:\n- a\n- e\n- i\n- o\n- u",
+        "reason": "phonics letter, syllable, word, blank pattern, or teaching list, not a sentence"
+      },
+      {
+        "text_id": "pg059_n0019_easy_read",
+        "text": "2. Unda silabi.\nUnganisha sauti za herufi hizi:\n- w\n- b\n- m\n- k\n- d\n- n\n- l\n- t\n- p\n- s\n- f\n- j\n- g\n- y\n- z\n- h\n- r\nna herufi hizi:\n- a\n- e\n- i\n- o\n- u",
+        "reason": "phonics letter, syllable, word, blank pattern, or teaching list, not a sentence"
+      },
+      {
+        "text_id": "pg063_n0002_easy_read",
+        "text": "2. Unda silabi kwa kuunganisha sauti za herufi hizi:\n- v\n- b\n- m\n- k\n- d\n- n\n- l\n- t\n- p\n- s\n- f\n- j\n- g\n- y\n- z\n- h\n- r\n- w\nna herufi hizi:\n- a\n- e\n- i\n- o\n- u",
+        "reason": "phonics letter, syllable, word, blank pattern, or teaching list, not a sentence"
+      },
+      {
+        "text_id": "pg066_n0016_easy_read",
+        "text": "Unda silabi kwa kuunganisha sauti za herufi hizi:\n- ch\n- b\n- m\n- k\n- d\n- n\n- l\n- t\n- p\n- s\n- f\n- j\n- g\n- y\n- z\n- h\n- r\n- w\n- v\nna:\n- a\n- e\n- i\n- o\n- u",
+        "reason": "phonics letter, syllable, word, blank pattern, or teaching list, not a sentence"
+      },
+      {
+        "text_id": "pg067_n0008_easy_read",
+        "text": "Katika sura hii, utajifunza sauti za herufi mwambatano:\n- sh\n- th\n- mb\n- ny\n- ng\n- nd\n- kw",
+        "reason": "phonics letter, syllable, word, blank pattern, or teaching list, not a sentence"
+      },
+      {
+        "text_id": "pg070_n0019_easy_read",
+        "text": "Silabi hizi zinaunda neno thelathini:\n- the\n- la\n- thi\n- ni",
+        "reason": "phonics letter, syllable, word, blank pattern, or teaching list, not a sentence"
+      },
+      {
+        "text_id": "pg081_n0007_easy_read",
+        "text": "Sauti za herufi zinazounda silabi nda ni:\n- nd\n- a",
+        "reason": "phonics letter, syllable, word, blank pattern, or teaching list, not a sentence"
+      },
+      {
+        "text_id": "pg081_n0008_easy_read",
+        "text": "Sauti za herufi zinazounda neno ndama ni:\n- nd\n- a\n- m\n- a",
+        "reason": "phonics letter, syllable, word, blank pattern, or teaching list, not a sentence"
+      },
+      {
+        "text_id": "pg081_n0009_easy_read",
+        "text": "Sauti za herufi zinazounda neno ndiyo ni:\n- nd\n- i\n- y\n- o",
+        "reason": "phonics letter, syllable, word, blank pattern, or teaching list, not a sentence"
+      },
+      {
+        "text_id": "pg081_n0010_easy_read",
+        "text": "Sauti za herufi zinazounda neno ndege ni:\n- nd\n- e\n- g\n- e",
+        "reason": "phonics letter, syllable, word, blank pattern, or teaching list, not a sentence"
+      },
+      {
+        "text_id": "pg084_n0059_easy_read",
+        "text": "Maneno ni:\n- ngamia\n- kwao\n- simba\n- nyama\n- choo\n- ndama",
+        "reason": "phonics letter, syllable, word, blank pattern, or teaching list, not a sentence"
+      },
+      {
+        "text_id": "pg087_n0036_easy_read",
+        "text": "1. bidhaa",
+        "reason": "phonics letter, syllable, word, blank pattern, or teaching list, not a sentence"
+      },
+      {
+        "text_id": "pg087_n0041_easy_read",
+        "text": "2. thamani",
+        "reason": "phonics letter, syllable, word, blank pattern, or teaching list, not a sentence"
+      },
+      {
+        "text_id": "pg087_n0046_easy_read",
+        "text": "3. ng’arisha",
+        "reason": "phonics letter, syllable, word, blank pattern, or teaching list, not a sentence"
+      },
+      {
+        "text_id": "pg091_n0005_easy_read",
+        "text": "Unganisha sauti za herufi hizi na a, e, i, o, u ili kuunda silabi:\n- mbw\n- ngw\n- chw\n- nyw\n- ndw",
+        "reason": "phonics letter, syllable, word, blank pattern, or teaching list, not a sentence"
+      },
+      {
+        "text_id": "pg098_n0007_easy_read",
+        "text": "Katika sura hii, utajifunza kusoma kwa ufasaha:\n- herufi\n- silabi\n- maneno\n- sentensi\n- hadithi",
+        "reason": "phonics letter, syllable, word, blank pattern, or teaching list, not a sentence"
+      },
+      {
+        "text_id": "pg098_n0008_easy_read",
+        "text": "Kwa hiyo, sura hii itakusaidia kujenga uwezo wa:\n- kutamka maneno kwa usahihi\n- kutamka maneno kwa ufasaha\n- kuongeza kasi ya usomaji wako",
+        "reason": "phonics letter, syllable, word, blank pattern, or teaching list, not a sentence"
+      },
+      {
+        "text_id": "pg100_n0016_easy_read",
+        "text": "Bustani ina maua:\n- meupe\n- mekundu\n- ya kijani",
+        "reason": "phonics letter, syllable, word, blank pattern, or teaching list, not a sentence"
+      },
+      {
+        "text_id": "pg101_n0013_easy_read",
+        "text": "Waliwaona wanyama kama:\n- tembo\n- twiga\n- pundamilia\n- swala",
+        "reason": "phonics letter, syllable, word, blank pattern, or teaching list, not a sentence"
+      },
+      {
+        "text_id": "pg103_n0019_easy_read",
+        "text": "Tuna haki ya:\n- kuishi\n- kupendwa\n- kupatiwa elimu",
+        "reason": "phonics letter, syllable, word, blank pattern, or teaching list, not a sentence"
+      }
+    ],
+    "glossary_headwords_and_definition_fragments": [
+      {
+        "text_id": "gl001",
+        "text": "adabu",
+        "reason": "glossary headword or definition fragment, not page-sentence prose"
+      },
+      {
+        "text_id": "gl002",
+        "text": "aibu",
+        "reason": "glossary headword or definition fragment, not page-sentence prose"
+      },
+      {
+        "text_id": "gl002_def",
+        "text": "hali ya kuona haya au fedheha kwa jambo fulani.",
+        "reason": "glossary headword or definition fragment, not page-sentence prose"
+      },
+      {
+        "text_id": "gl003",
+        "text": "alama za milia",
+        "reason": "glossary headword or definition fragment, not page-sentence prose"
+      },
+      {
+        "text_id": "gl003_def",
+        "text": "mistari mieupe iliyochorwa barabarani kwa ajili ya kuwasaidia watu kuvuka.",
+        "reason": "glossary headword or definition fragment, not page-sentence prose"
+      },
+      {
+        "text_id": "gl004",
+        "text": "alama za uandishi",
+        "reason": "glossary headword or definition fragment, not page-sentence prose"
+      },
+      {
+        "text_id": "gl004_def",
+        "text": "ishara zinazotumika katika maandishi ili kusaidia kusoma vizuri, kama nukta na alama ya kuuliza.",
+        "reason": "glossary headword or definition fragment, not page-sentence prose"
+      },
+      {
+        "text_id": "gl005",
+        "text": "andazi",
+        "reason": "glossary headword or definition fragment, not page-sentence prose"
+      },
+      {
+        "text_id": "gl005_def",
+        "text": "chakula cha unga kinachokaangwa kwenye mafuta.",
+        "reason": "glossary headword or definition fragment, not page-sentence prose"
+      },
+      {
+        "text_id": "gl006",
+        "text": "anga",
+        "reason": "glossary headword or definition fragment, not page-sentence prose"
+      },
+      {
+        "text_id": "gl006_def",
+        "text": "eneo la juu tunakoona mawingu, jua, na nyota.",
+        "reason": "glossary headword or definition fragment, not page-sentence prose"
+      },
+      {
+        "text_id": "gl007",
+        "text": "anza",
+        "reason": "glossary headword or definition fragment, not page-sentence prose"
+      },
+      {
+        "text_id": "gl007_def",
+        "text": "fanya jambo kwa mara ya kwanza au kulianzisha.",
+        "reason": "glossary headword or definition fragment, not page-sentence prose"
+      },
+      {
+        "text_id": "gl008",
+        "text": "asali",
+        "reason": "glossary headword or definition fragment, not page-sentence prose"
+      },
+      {
+        "text_id": "gl009",
+        "text": "askari",
+        "reason": "glossary headword or definition fragment, not page-sentence prose"
+      },
+      {
+        "text_id": "gl009_def",
+        "text": "mtu anayelinda watu na mali.",
+        "reason": "glossary headword or definition fragment, not page-sentence prose"
+      },
+      {
+        "text_id": "gl010",
+        "text": "baba",
+        "reason": "glossary headword or definition fragment, not page-sentence prose"
+      },
+      {
+        "text_id": "gl010_def",
+        "text": "mzazi wa kiume wa mtoto.",
+        "reason": "glossary headword or definition fragment, not page-sentence prose"
+      },
+      {
+        "text_id": "gl011",
+        "text": "babu",
+        "reason": "glossary headword or definition fragment, not page-sentence prose"
+      },
+      {
+        "text_id": "gl011_def",
+        "text": "baba wa baba au mama yako.",
+        "reason": "glossary headword or definition fragment, not page-sentence prose"
+      },
+      {
+        "text_id": "gl012",
+        "text": "bahari",
+        "reason": "glossary headword or definition fragment, not page-sentence prose"
+      },
+      {
+        "text_id": "gl012_def",
+        "text": "maji mengi sana ya chumvi.",
+        "reason": "glossary headword or definition fragment, not page-sentence prose"
+      },
+      {
+        "text_id": "gl013",
+        "text": "bamia",
+        "reason": "glossary headword or definition fragment, not page-sentence prose"
+      },
+      {
+        "text_id": "gl013_def",
+        "text": "mboga ya kijani yenye ute inapopikwa.",
+        "reason": "glossary headword or definition fragment, not page-sentence prose"
+      },
+      {
+        "text_id": "gl014",
+        "text": "bata",
+        "reason": "glossary headword or definition fragment, not page-sentence prose"
+      },
+      {
+        "text_id": "gl015",
+        "text": "beba",
+        "reason": "glossary headword or definition fragment, not page-sentence prose"
+      },
+      {
+        "text_id": "gl015_def",
+        "text": "chukua kitu na kukisafirisha kwa mikono, mgongoni, au kichwani.",
+        "reason": "glossary headword or definition fragment, not page-sentence prose"
+      },
+      {
+        "text_id": "gl016",
+        "text": "bibi",
+        "reason": "glossary headword or definition fragment, not page-sentence prose"
+      },
+      {
+        "text_id": "gl016_def",
+        "text": "mama wa baba au mama yako; nyanya.",
+        "reason": "glossary headword or definition fragment, not page-sentence prose"
+      },
+      {
+        "text_id": "gl017",
+        "text": "bidhaa",
+        "reason": "glossary headword or definition fragment, not page-sentence prose"
+      },
+      {
+        "text_id": "gl017_def",
+        "text": "vitu vinavyoweza kuuzwa au kununuliwa.",
+        "reason": "glossary headword or definition fragment, not page-sentence prose"
+      },
+      {
+        "text_id": "gl018",
+        "text": "bidii",
+        "reason": "glossary headword or definition fragment, not page-sentence prose"
+      },
+      {
+        "text_id": "gl018_def",
+        "text": "juhudi kubwa katika kufanya kazi au kusoma.",
+        "reason": "glossary headword or definition fragment, not page-sentence prose"
+      },
+      {
+        "text_id": "gl019",
+        "text": "binadamu",
+        "reason": "glossary headword or definition fragment, not page-sentence prose"
+      },
+      {
+        "text_id": "gl019_def",
+        "text": "mtu.",
+        "reason": "glossary headword or definition fragment, not page-sentence prose"
+      },
+      {
+        "text_id": "gl020",
+        "text": "boga",
+        "reason": "glossary headword or definition fragment, not page-sentence prose"
+      },
+      {
+        "text_id": "gl020_def",
+        "text": "tunda au mboga inayoliwa kama chakula.",
+        "reason": "glossary headword or definition fragment, not page-sentence prose"
+      },
+      {
+        "text_id": "gl021",
+        "text": "boma",
+        "reason": "glossary headword or definition fragment, not page-sentence prose"
+      },
+      {
+        "text_id": "gl021_def",
+        "text": "eneo au makazi yaliyowekwa uzio au mpaka.",
+        "reason": "glossary headword or definition fragment, not page-sentence prose"
+      },
+      {
+        "text_id": "gl022",
+        "text": "bomoa",
+        "reason": "glossary headword or definition fragment, not page-sentence prose"
+      },
+      {
+        "text_id": "gl022_def",
+        "text": "vunja jengo au kitu kilichojengwa.",
+        "reason": "glossary headword or definition fragment, not page-sentence prose"
+      },
+      {
+        "text_id": "gl023",
+        "text": "bomu",
+        "reason": "glossary headword or definition fragment, not page-sentence prose"
+      },
+      {
+        "text_id": "gl023_def",
+        "text": "kitu kinacholipuka kwa nguvu.",
+        "reason": "glossary headword or definition fragment, not page-sentence prose"
+      },
+      {
+        "text_id": "gl024",
+        "text": "boya",
+        "reason": "glossary headword or definition fragment, not page-sentence prose"
+      },
+      {
+        "text_id": "gl024_def",
+        "text": "kitu kinachoelea juu ya maji au kifaa cha kuokolea majini.",
+        "reason": "glossary headword or definition fragment, not page-sentence prose"
+      },
+      {
+        "text_id": "gl025",
+        "text": "bustani",
+        "reason": "glossary headword or definition fragment, not page-sentence prose"
+      },
+      {
+        "text_id": "gl025_def",
+        "text": "eneo lililopandwa maua au mimea.",
+        "reason": "glossary headword or definition fragment, not page-sentence prose"
+      },
+      {
+        "text_id": "gl026",
+        "text": "chati",
+        "reason": "glossary headword or definition fragment, not page-sentence prose"
+      },
+      {
+        "text_id": "gl026_def",
+        "text": "karatasi au mchoro wenye taarifa au picha za kufundishia.",
+        "reason": "glossary headword or definition fragment, not page-sentence prose"
+      },
+      {
+        "text_id": "gl027",
+        "text": "chuma",
+        "reason": "glossary headword or definition fragment, not page-sentence prose"
+      },
+      {
+        "text_id": "gl027_def",
+        "text": "kitu kigumu cha metali kinachotumika kutengeneza vifaa mbalimbali.",
+        "reason": "glossary headword or definition fragment, not page-sentence prose"
+      },
+      {
+        "text_id": "gl028",
+        "text": "chungwa",
+        "reason": "glossary headword or definition fragment, not page-sentence prose"
+      },
+      {
+        "text_id": "gl028_def",
+        "text": "tunda la mviringo lenye ladha tamu au chachu kidogo.",
+        "reason": "glossary headword or definition fragment, not page-sentence prose"
+      },
+      {
+        "text_id": "gl029",
+        "text": "dada",
+        "reason": "glossary headword or definition fragment, not page-sentence prose"
+      },
+      {
+        "text_id": "gl030",
+        "text": "damu",
+        "reason": "glossary headword or definition fragment, not page-sentence prose"
+      },
+      {
+        "text_id": "gl031",
+        "text": "darasani",
+        "reason": "glossary headword or definition fragment, not page-sentence prose"
+      },
+      {
+        "text_id": "gl031_def",
+        "text": "mahali ambapo wanafunzi hujifunza pamoja na mwalimu.",
+        "reason": "glossary headword or definition fragment, not page-sentence prose"
+      },
+      {
+        "text_id": "gl032",
+        "text": "dari",
+        "reason": "glossary headword or definition fragment, not page-sentence prose"
+      },
+      {
+        "text_id": "gl032_def",
+        "text": "sehemu ya juu ndani ya nyumba au chumba.",
+        "reason": "glossary headword or definition fragment, not page-sentence prose"
+      },
+      {
+        "text_id": "gl033",
+        "text": "debe",
+        "reason": "glossary headword or definition fragment, not page-sentence prose"
+      },
+      {
+        "text_id": "gl034",
+        "text": "deki",
+        "reason": "glossary headword or definition fragment, not page-sentence prose"
+      },
+      {
+        "text_id": "gl035",
+        "text": "dhahabu",
+        "reason": "glossary headword or definition fragment, not page-sentence prose"
+      },
+      {
+        "text_id": "gl035_def",
+        "text": "madini ya thamani yenye rangi ya njano yanayotumika kutengeneza vitu vya thamani.",
+        "reason": "glossary headword or definition fragment, not page-sentence prose"
+      },
+      {
+        "text_id": "gl036",
+        "text": "dhaifu",
+        "reason": "glossary headword or definition fragment, not page-sentence prose"
+      },
+      {
+        "text_id": "gl036_def",
+        "text": "asiye na nguvu au kitu kisicho imara.",
+        "reason": "glossary headword or definition fragment, not page-sentence prose"
+      },
+      {
+        "text_id": "gl037",
+        "text": "dobi",
+        "reason": "glossary headword or definition fragment, not page-sentence prose"
+      },
+      {
+        "text_id": "gl038",
+        "text": "dogo",
+        "reason": "glossary headword or definition fragment, not page-sentence prose"
+      },
+      {
+        "text_id": "gl038_def",
+        "text": "kitu chenye ukubwa mdogo; si kikubwa.",
+        "reason": "glossary headword or definition fragment, not page-sentence prose"
+      },
+      {
+        "text_id": "gl039",
+        "text": "duka",
+        "reason": "glossary headword or definition fragment, not page-sentence prose"
+      },
+      {
+        "text_id": "gl040",
+        "text": "duma",
+        "reason": "glossary headword or definition fragment, not page-sentence prose"
+      },
+      {
+        "text_id": "gl041",
+        "text": "elfu",
+        "reason": "glossary headword or definition fragment, not page-sentence prose"
+      },
+      {
+        "text_id": "gl041_def",
+        "text": "idadi ya mia kumi; 1000.",
+        "reason": "glossary headword or definition fragment, not page-sentence prose"
+      },
+      {
+        "text_id": "gl042",
+        "text": "elimu",
+        "reason": "glossary headword or definition fragment, not page-sentence prose"
+      },
+      {
+        "text_id": "gl042_def",
+        "text": "maarifa na ujuzi anaoupata mtu kwa kusoma na kufundishwa.",
+        "reason": "glossary headword or definition fragment, not page-sentence prose"
+      },
+      {
+        "text_id": "gl043",
+        "text": "embe",
+        "reason": "glossary headword or definition fragment, not page-sentence prose"
+      },
+      {
+        "text_id": "gl043_def",
+        "text": "tunda tamu lenye mbegu kubwa katikati.",
+        "reason": "glossary headword or definition fragment, not page-sentence prose"
+      },
+      {
+        "text_id": "gl044",
+        "text": "endesha",
+        "reason": "glossary headword or definition fragment, not page-sentence prose"
+      },
+      {
+        "text_id": "gl044_def",
+        "text": "ongoza chombo au shughuli ili isonge mbele.",
+        "reason": "glossary headword or definition fragment, not page-sentence prose"
+      },
+      {
+        "text_id": "gl045",
+        "text": "fedha",
+        "reason": "glossary headword or definition fragment, not page-sentence prose"
+      },
+      {
+        "text_id": "gl045_def",
+        "text": "pesa au mali ya kununulia vitu.",
+        "reason": "glossary headword or definition fragment, not page-sentence prose"
+      },
+      {
+        "text_id": "gl046",
+        "text": "fuga",
+        "reason": "glossary headword or definition fragment, not page-sentence prose"
+      },
+      {
+        "text_id": "gl046_def",
+        "text": "kutunza wanyama au ndege nyumbani au shambani.",
+        "reason": "glossary headword or definition fragment, not page-sentence prose"
+      },
+      {
+        "text_id": "gl047",
+        "text": "furaha",
+        "reason": "glossary headword or definition fragment, not page-sentence prose"
+      },
+      {
+        "text_id": "gl047_def",
+        "text": "hali ya kuwa na moyo wa shangwe na kufurahi.",
+        "reason": "glossary headword or definition fragment, not page-sentence prose"
+      },
+      {
+        "text_id": "gl048",
+        "text": "gauni",
+        "reason": "glossary headword or definition fragment, not page-sentence prose"
+      },
+      {
+        "text_id": "gl048_def",
+        "text": "nguo ya mwanamke au msichana inayovaliwa mwilini.",
+        "reason": "glossary headword or definition fragment, not page-sentence prose"
+      },
+      {
+        "text_id": "gl049",
+        "text": "gogo",
+        "reason": "glossary headword or definition fragment, not page-sentence prose"
+      },
+      {
+        "text_id": "gl049_def",
+        "text": "kipande kikubwa cha mti uliokatwa au kuanguka.",
+        "reason": "glossary headword or definition fragment, not page-sentence prose"
+      },
+      {
+        "text_id": "gl050",
+        "text": "goli",
+        "reason": "glossary headword or definition fragment, not page-sentence prose"
+      },
+      {
+        "text_id": "gl050_def",
+        "text": "bao linalopatikana katika mchezo wakati mpira unaingia langoni.",
+        "reason": "glossary headword or definition fragment, not page-sentence prose"
+      },
+      {
+        "text_id": "gl051",
+        "text": "gololi",
+        "reason": "glossary headword or definition fragment, not page-sentence prose"
+      },
+      {
+        "text_id": "gl051_def",
+        "text": "kijikitu kidogo cha mviringo kinachotumika kuchezea.",
+        "reason": "glossary headword or definition fragment, not page-sentence prose"
+      },
+      {
+        "text_id": "gl052",
+        "text": "gunia",
+        "reason": "glossary headword or definition fragment, not page-sentence prose"
+      },
+      {
+        "text_id": "gl052_def",
+        "text": "mfuko mkubwa wa kuhifadhia au kubebea vitu.",
+        "reason": "glossary headword or definition fragment, not page-sentence prose"
+      },
+      {
+        "text_id": "gl053",
+        "text": "hadithi",
+        "reason": "glossary headword or definition fragment, not page-sentence prose"
+      },
+      {
+        "text_id": "gl054",
+        "text": "haki",
+        "reason": "glossary headword or definition fragment, not page-sentence prose"
+      },
+      {
+        "text_id": "gl054_def",
+        "text": "jambo analostahili mtu kupata au kutendewa kwa usawa na heshima.",
+        "reason": "glossary headword or definition fragment, not page-sentence prose"
+      },
+      {
+        "text_id": "gl055",
+        "text": "hamu",
+        "reason": "glossary headword or definition fragment, not page-sentence prose"
+      },
+      {
+        "text_id": "gl055_def",
+        "text": "nia au tamaa ya kufanya au kupata kitu.",
+        "reason": "glossary headword or definition fragment, not page-sentence prose"
+      },
+      {
+        "text_id": "gl056",
+        "text": "hela",
+        "reason": "glossary headword or definition fragment, not page-sentence prose"
+      },
+      {
+        "text_id": "gl056_def",
+        "text": "pesa; kitu kinachotumika kununua vitu.",
+        "reason": "glossary headword or definition fragment, not page-sentence prose"
+      },
+      {
+        "text_id": "gl057",
+        "text": "hema",
+        "reason": "glossary headword or definition fragment, not page-sentence prose"
+      },
+      {
+        "text_id": "gl057_def",
+        "text": "nyumba ya kitambaa inayoweza kusimikwa na kuondolewa.",
+        "reason": "glossary headword or definition fragment, not page-sentence prose"
+      },
+      {
+        "text_id": "gl058",
+        "text": "herufi",
+        "reason": "glossary headword or definition fragment, not page-sentence prose"
+      },
+      {
+        "text_id": "gl059",
+        "text": "hesabu",
+        "reason": "glossary headword or definition fragment, not page-sentence prose"
+      },
+      {
+        "text_id": "gl059_def",
+        "text": "kutaja au kujumlisha namba ili kupata idadi.",
+        "reason": "glossary headword or definition fragment, not page-sentence prose"
+      },
+      {
+        "text_id": "gl060",
+        "text": "hodi",
+        "reason": "glossary headword or definition fragment, not page-sentence prose"
+      },
+      {
+        "text_id": "gl060_def",
+        "text": "neno linalosemwa kabla ya kuingia nyumbani au chumbani kuomba ruhusa.",
+        "reason": "glossary headword or definition fragment, not page-sentence prose"
+      },
+      {
+        "text_id": "gl061",
+        "text": "hofu",
+        "reason": "glossary headword or definition fragment, not page-sentence prose"
+      },
+      {
+        "text_id": "gl061_def",
+        "text": "hisia ya kuogopa jambo.",
+        "reason": "glossary headword or definition fragment, not page-sentence prose"
+      },
+      {
+        "text_id": "gl062",
+        "text": "homa",
+        "reason": "glossary headword or definition fragment, not page-sentence prose"
+      },
+      {
+        "text_id": "gl062_def",
+        "text": "hali ya mwili kuwa na joto kupita kawaida wakati wa ugonjwa.",
+        "reason": "glossary headword or definition fragment, not page-sentence prose"
+      },
+      {
+        "text_id": "gl063",
+        "text": "huduma",
+        "reason": "glossary headword or definition fragment, not page-sentence prose"
+      },
+      {
+        "text_id": "gl063_def",
+        "text": "kazi ya kusaidia au kuhudumia watu.",
+        "reason": "glossary headword or definition fragment, not page-sentence prose"
+      },
+      {
+        "text_id": "gl064",
+        "text": "huzuni",
+        "reason": "glossary headword or definition fragment, not page-sentence prose"
+      },
+      {
+        "text_id": "gl064_def",
+        "text": "hali ya kusikitika moyoni.",
+        "reason": "glossary headword or definition fragment, not page-sentence prose"
+      },
+      {
+        "text_id": "gl065",
+        "text": "idadi",
+        "reason": "glossary headword or definition fragment, not page-sentence prose"
+      },
+      {
+        "text_id": "gl065_def",
+        "text": "hesabu ya vitu vilivyopo.",
+        "reason": "glossary headword or definition fragment, not page-sentence prose"
+      },
+      {
+        "text_id": "gl066",
+        "text": "imba",
+        "reason": "glossary headword or definition fragment, not page-sentence prose"
+      },
+      {
+        "text_id": "gl066_def",
+        "text": "toa sauti ya wimbo kwa mdomo.",
+        "reason": "glossary headword or definition fragment, not page-sentence prose"
+      },
+      {
+        "text_id": "gl067",
+        "text": "inua",
+        "reason": "glossary headword or definition fragment, not page-sentence prose"
+      },
+      {
+        "text_id": "gl067_def",
+        "text": "pandisha kitu juu.",
+        "reason": "glossary headword or definition fragment, not page-sentence prose"
+      },
+      {
+        "text_id": "gl068",
+        "text": "irabu",
+        "reason": "glossary headword or definition fragment, not page-sentence prose"
+      },
+      {
+        "text_id": "gl069",
+        "text": "ishi",
+        "reason": "glossary headword or definition fragment, not page-sentence prose"
+      },
+      {
+        "text_id": "gl069_def",
+        "text": "kuwa hai au kaa mahali.",
+        "reason": "glossary headword or definition fragment, not page-sentence prose"
+      },
+      {
+        "text_id": "gl070",
+        "text": "ita",
+        "reason": "glossary headword or definition fragment, not page-sentence prose"
+      },
+      {
+        "text_id": "gl070_def",
+        "text": "sema jina la mtu au kitu ili amjie au akusikilize.",
+        "reason": "glossary headword or definition fragment, not page-sentence prose"
+      },
+      {
+        "text_id": "gl071",
+        "text": "jagi",
+        "reason": "glossary headword or definition fragment, not page-sentence prose"
+      },
+      {
+        "text_id": "gl071_def",
+        "text": "chombo cha kuweka au kumimina maji au kinywaji.",
+        "reason": "glossary headword or definition fragment, not page-sentence prose"
+      },
+      {
+        "text_id": "gl072",
+        "text": "kamba",
+        "reason": "glossary headword or definition fragment, not page-sentence prose"
+      },
+      {
+        "text_id": "gl072_def",
+        "text": "kitu kirefu kinachotumika kufunga au kuvuta kitu.",
+        "reason": "glossary headword or definition fragment, not page-sentence prose"
+      },
+      {
+        "text_id": "gl073",
+        "text": "kesho",
+        "reason": "glossary headword or definition fragment, not page-sentence prose"
+      },
+      {
+        "text_id": "gl073_def",
+        "text": "siku inayofuata baada ya leo.",
+        "reason": "glossary headword or definition fragment, not page-sentence prose"
+      },
+      {
+        "text_id": "gl074",
+        "text": "kijiji",
+        "reason": "glossary headword or definition fragment, not page-sentence prose"
+      },
+      {
+        "text_id": "gl074_def",
+        "text": "eneo la makazi lenye watu wachache kuliko mji.",
+        "reason": "glossary headword or definition fragment, not page-sentence prose"
+      },
+      {
+        "text_id": "gl075",
+        "text": "kinga",
+        "reason": "glossary headword or definition fragment, not page-sentence prose"
+      },
+      {
+        "text_id": "gl076",
+        "text": "kinu",
+        "reason": "glossary headword or definition fragment, not page-sentence prose"
+      },
+      {
+        "text_id": "gl077",
+        "text": "kitabu",
+        "reason": "glossary headword or definition fragment, not page-sentence prose"
+      },
+      {
+        "text_id": "gl078",
+        "text": "kobe",
+        "reason": "glossary headword or definition fragment, not page-sentence prose"
+      },
+      {
+        "text_id": "gl079",
+        "text": "kokwa",
+        "reason": "glossary headword or definition fragment, not page-sentence prose"
+      },
+      {
+        "text_id": "gl079_def",
+        "text": "mbegu ngumu iliyo ndani ya tunda fulani.",
+        "reason": "glossary headword or definition fragment, not page-sentence prose"
+      },
+      {
+        "text_id": "gl080",
+        "text": "konsonanti",
+        "reason": "glossary headword or definition fragment, not page-sentence prose"
+      },
+      {
+        "text_id": "gl080_def",
+        "text": "herufi ya sauti isiyo irabu, kama b, m, k, d, na n.",
+        "reason": "glossary headword or definition fragment, not page-sentence prose"
+      },
+      {
+        "text_id": "gl081",
+        "text": "kope",
+        "reason": "glossary headword or definition fragment, not page-sentence prose"
+      },
+      {
+        "text_id": "gl082",
+        "text": "kopo",
+        "reason": "glossary headword or definition fragment, not page-sentence prose"
+      },
+      {
+        "text_id": "gl082_def",
+        "text": "chombo, mara nyingi cha bati au plastiki, cha kuhifadhia vitu.",
+        "reason": "glossary headword or definition fragment, not page-sentence prose"
+      },
+      {
+        "text_id": "gl083",
+        "text": "kovu",
+        "reason": "glossary headword or definition fragment, not page-sentence prose"
+      },
+      {
+        "text_id": "gl083_def",
+        "text": "alama inayobaki kwenye ngozi baada ya jeraha kupona.",
+        "reason": "glossary headword or definition fragment, not page-sentence prose"
+      },
+      {
+        "text_id": "gl084",
+        "text": "kuagana",
+        "reason": "glossary headword or definition fragment, not page-sentence prose"
+      },
+      {
+        "text_id": "gl085",
+        "text": "kubashiri",
+        "reason": "glossary headword or definition fragment, not page-sentence prose"
+      },
+      {
+        "text_id": "gl085_def",
+        "text": "kusema au kufikiri jambo linaloweza kutokea kabla halijatokea.",
+        "reason": "glossary headword or definition fragment, not page-sentence prose"
+      },
+      {
+        "text_id": "gl086",
+        "text": "kufahamu",
+        "reason": "glossary headword or definition fragment, not page-sentence prose"
+      },
+      {
+        "text_id": "gl087",
+        "text": "kujali",
+        "reason": "glossary headword or definition fragment, not page-sentence prose"
+      },
+      {
+        "text_id": "gl087_def",
+        "text": "kuonyesha upendo, huruma, na kutaka mema ya mtu mwingine.",
+        "reason": "glossary headword or definition fragment, not page-sentence prose"
+      },
+      {
+        "text_id": "gl088",
+        "text": "kujitambulisha",
+        "reason": "glossary headword or definition fragment, not page-sentence prose"
+      },
+      {
+        "text_id": "gl089",
+        "text": "kuku",
+        "reason": "glossary headword or definition fragment, not page-sentence prose"
+      },
+      {
+        "text_id": "gl090",
+        "text": "kumbukumbu",
+        "reason": "glossary headword or definition fragment, not page-sentence prose"
+      },
+      {
+        "text_id": "gl090_def",
+        "text": "kitu kinachotusaidia kukumbuka jambo lililopita.",
+        "reason": "glossary headword or definition fragment, not page-sentence prose"
+      },
+      {
+        "text_id": "gl091",
+        "text": "kumi",
+        "reason": "glossary headword or definition fragment, not page-sentence prose"
+      },
+      {
+        "text_id": "gl091_def",
+        "text": "idadi inayofuata tisa; 10.",
+        "reason": "glossary headword or definition fragment, not page-sentence prose"
+      },
+      {
+        "text_id": "gl092",
+        "text": "kumtenga",
+        "reason": "glossary headword or definition fragment, not page-sentence prose"
+      },
+      {
+        "text_id": "gl092_def",
+        "text": "kumweka mtu pembeni au kutomshirikisha na wengine.",
+        "reason": "glossary headword or definition fragment, not page-sentence prose"
+      },
+      {
+        "text_id": "gl093",
+        "text": "kumwagilia",
+        "reason": "glossary headword or definition fragment, not page-sentence prose"
+      },
+      {
+        "text_id": "gl093_def",
+        "text": "kutilia mimea maji ili ikue vizuri.",
+        "reason": "glossary headword or definition fragment, not page-sentence prose"
+      },
+      {
+        "text_id": "gl094",
+        "text": "kuni",
+        "reason": "glossary headword or definition fragment, not page-sentence prose"
+      },
+      {
+        "text_id": "gl095",
+        "text": "kunielekeza",
+        "reason": "glossary headword or definition fragment, not page-sentence prose"
+      },
+      {
+        "text_id": "gl095_def",
+        "text": "kunionyesha njia au namna sahihi ya kufanya jambo.",
+        "reason": "glossary headword or definition fragment, not page-sentence prose"
+      },
+      {
+        "text_id": "gl096",
+        "text": "kusaidiana",
+        "reason": "glossary headword or definition fragment, not page-sentence prose"
+      },
+      {
+        "text_id": "gl096_def",
+        "text": "kufanyiana msaada.",
+        "reason": "glossary headword or definition fragment, not page-sentence prose"
+      },
+      {
+        "text_id": "gl097",
+        "text": "kusalimiana",
+        "reason": "glossary headword or definition fragment, not page-sentence prose"
+      },
+      {
+        "text_id": "gl098",
+        "text": "kushirikiana",
+        "reason": "glossary headword or definition fragment, not page-sentence prose"
+      },
+      {
+        "text_id": "gl098_def",
+        "text": "kufanya mambo pamoja na kusaidiana.",
+        "reason": "glossary headword or definition fragment, not page-sentence prose"
+      },
+      {
+        "text_id": "gl099",
+        "text": "kutamka",
+        "reason": "glossary headword or definition fragment, not page-sentence prose"
+      },
+      {
+        "text_id": "gl099_def",
+        "text": "kusema sauti au neno kwa mdomo kwa usahihi.",
+        "reason": "glossary headword or definition fragment, not page-sentence prose"
+      },
+      {
+        "text_id": "gl100",
+        "text": "kwako",
+        "reason": "glossary headword or definition fragment, not page-sentence prose"
+      },
+      {
+        "text_id": "gl100_def",
+        "text": "mahali pako au penye wewe.",
+        "reason": "glossary headword or definition fragment, not page-sentence prose"
+      },
+      {
+        "text_id": "gl101",
+        "text": "kwangu",
+        "reason": "glossary headword or definition fragment, not page-sentence prose"
+      },
+      {
+        "text_id": "gl101_def",
+        "text": "mahali pangu au upande wangu.",
+        "reason": "glossary headword or definition fragment, not page-sentence prose"
+      },
+      {
+        "text_id": "gl102",
+        "text": "kwao",
+        "reason": "glossary headword or definition fragment, not page-sentence prose"
+      },
+      {
+        "text_id": "gl102_def",
+        "text": "mahali pao au nyumbani kwao.",
+        "reason": "glossary headword or definition fragment, not page-sentence prose"
+      },
+      {
+        "text_id": "gl103",
+        "text": "kwea",
+        "reason": "glossary headword or definition fragment, not page-sentence prose"
+      },
+      {
+        "text_id": "gl103_def",
+        "text": "kupanda juu ya kitu kama mti au ukuta.",
+        "reason": "glossary headword or definition fragment, not page-sentence prose"
+      },
+      {
+        "text_id": "gl104",
+        "text": "kwenda",
+        "reason": "glossary headword or definition fragment, not page-sentence prose"
+      },
+      {
+        "text_id": "gl104_def",
+        "text": "kusafiri au kusogea kutoka sehemu moja kwenda nyingine.",
+        "reason": "glossary headword or definition fragment, not page-sentence prose"
+      },
+      {
+        "text_id": "gl105",
+        "text": "kwenu",
+        "reason": "glossary headword or definition fragment, not page-sentence prose"
+      },
+      {
+        "text_id": "gl105_def",
+        "text": "mahali penu au nyumbani kwenu.",
+        "reason": "glossary headword or definition fragment, not page-sentence prose"
+      },
+      {
+        "text_id": "gl106",
+        "text": "kwetu",
+        "reason": "glossary headword or definition fragment, not page-sentence prose"
+      },
+      {
+        "text_id": "gl106_def",
+        "text": "mahali pa nyumbani kwetu au sehemu tunapoishi sisi.",
+        "reason": "glossary headword or definition fragment, not page-sentence prose"
+      },
+      {
+        "text_id": "gl107",
+        "text": "kwikwi",
+        "reason": "glossary headword or definition fragment, not page-sentence prose"
+      },
+      {
+        "text_id": "gl107_def",
+        "text": "sauti au hali ya kupumua kwa shida kifuani.",
+        "reason": "glossary headword or definition fragment, not page-sentence prose"
+      },
+      {
+        "text_id": "gl108",
+        "text": "lango",
+        "reason": "glossary headword or definition fragment, not page-sentence prose"
+      },
+      {
+        "text_id": "gl109",
+        "text": "leso",
+        "reason": "glossary headword or definition fragment, not page-sentence prose"
+      },
+      {
+        "text_id": "gl110",
+        "text": "lori",
+        "reason": "glossary headword or definition fragment, not page-sentence prose"
+      },
+      {
+        "text_id": "gl110_def",
+        "text": "gari kubwa la kubeba mizigo.",
+        "reason": "glossary headword or definition fragment, not page-sentence prose"
+      },
+      {
+        "text_id": "gl111",
+        "text": "lugha",
+        "reason": "glossary headword or definition fragment, not page-sentence prose"
+      },
+      {
+        "text_id": "gl112",
+        "text": "mabua",
+        "reason": "glossary headword or definition fragment, not page-sentence prose"
+      },
+      {
+        "text_id": "gl112_def",
+        "text": "sehemu ndefu za mimea zinazoshikilia majani, maua, au matunda.",
+        "reason": "glossary headword or definition fragment, not page-sentence prose"
+      },
+      {
+        "text_id": "gl113",
+        "text": "madoadoa",
+        "reason": "glossary headword or definition fragment, not page-sentence prose"
+      },
+      {
+        "text_id": "gl114",
+        "text": "majina",
+        "reason": "glossary headword or definition fragment, not page-sentence prose"
+      },
+      {
+        "text_id": "gl115",
+        "text": "makini",
+        "reason": "glossary headword or definition fragment, not page-sentence prose"
+      },
+      {
+        "text_id": "gl115_def",
+        "text": "kuwa mwangalifu na kuangalia vizuri.",
+        "reason": "glossary headword or definition fragment, not page-sentence prose"
+      },
+      {
+        "text_id": "gl116",
+        "text": "makundi",
+        "reason": "glossary headword or definition fragment, not page-sentence prose"
+      },
+      {
+        "text_id": "gl116_def",
+        "text": "vipande au vitu vilivyowekwa pamoja kwa kufanana.",
+        "reason": "glossary headword or definition fragment, not page-sentence prose"
+      },
+      {
+        "text_id": "gl117",
+        "text": "mali",
+        "reason": "glossary headword or definition fragment, not page-sentence prose"
+      },
+      {
+        "text_id": "gl117_def",
+        "text": "vitu au utajiri anaomiliki mtu.",
+        "reason": "glossary headword or definition fragment, not page-sentence prose"
+      },
+      {
+        "text_id": "gl118",
+        "text": "mama",
+        "reason": "glossary headword or definition fragment, not page-sentence prose"
+      },
+      {
+        "text_id": "gl119",
+        "text": "maswali",
+        "reason": "glossary headword or definition fragment, not page-sentence prose"
+      },
+      {
+        "text_id": "gl120",
+        "text": "matendo",
+        "reason": "glossary headword or definition fragment, not page-sentence prose"
+      },
+      {
+        "text_id": "gl121",
+        "text": "matukio",
+        "reason": "glossary headword or definition fragment, not page-sentence prose"
+      },
+      {
+        "text_id": "gl121_def",
+        "text": "mambo yanayotokea.",
+        "reason": "glossary headword or definition fragment, not page-sentence prose"
+      },
+      {
+        "text_id": "gl122",
+        "text": "mazingira",
+        "reason": "glossary headword or definition fragment, not page-sentence prose"
+      },
+      {
+        "text_id": "gl122_def",
+        "text": "mahali na hali inayotuzunguka.",
+        "reason": "glossary headword or definition fragment, not page-sentence prose"
+      },
+      {
+        "text_id": "gl123",
+        "text": "maziwa",
+        "reason": "glossary headword or definition fragment, not page-sentence prose"
+      },
+      {
+        "text_id": "gl124",
+        "text": "mazoezi",
+        "reason": "glossary headword or definition fragment, not page-sentence prose"
+      },
+      {
+        "text_id": "gl125",
+        "text": "mazungumzo",
+        "reason": "glossary headword or definition fragment, not page-sentence prose"
+      },
+      {
+        "text_id": "gl126",
+        "text": "mbegu",
+        "reason": "glossary headword or definition fragment, not page-sentence prose"
+      },
+      {
+        "text_id": "gl126_def",
+        "text": "chembe inayopandwa ili kuota mmea.",
+        "reason": "glossary headword or definition fragment, not page-sentence prose"
+      },
+      {
+        "text_id": "gl127",
+        "text": "mbuga",
+        "reason": "glossary headword or definition fragment, not page-sentence prose"
+      },
+      {
+        "text_id": "gl127_def",
+        "text": "eneo kubwa la wazi lenye nyasi, miti, au wanyama.",
+        "reason": "glossary headword or definition fragment, not page-sentence prose"
+      },
+      {
+        "text_id": "gl128",
+        "text": "mbuni",
+        "reason": "glossary headword or definition fragment, not page-sentence prose"
+      },
+      {
+        "text_id": "gl129",
+        "text": "mbuzi",
+        "reason": "glossary headword or definition fragment, not page-sentence prose"
+      },
+      {
+        "text_id": "gl129_def",
+        "text": "mnyama wa kufugwa anayetoa nyama au maziwa.",
+        "reason": "glossary headword or definition fragment, not page-sentence prose"
+      },
+      {
+        "text_id": "gl130",
+        "text": "mbweha",
+        "reason": "glossary headword or definition fragment, not page-sentence prose"
+      },
+      {
+        "text_id": "gl130_def",
+        "text": "mnyama wa porini anayefanana kidogo na mbwa.",
+        "reason": "glossary headword or definition fragment, not page-sentence prose"
+      },
+      {
+        "text_id": "gl131",
+        "text": "mchwa",
+        "reason": "glossary headword or definition fragment, not page-sentence prose"
+      },
+      {
+        "text_id": "gl131_def",
+        "text": "mdudu mdogo anayeishi kwa makundi na mara nyingi hukaa ardhini au kwenye miti.",
+        "reason": "glossary headword or definition fragment, not page-sentence prose"
+      },
+      {
+        "text_id": "gl132",
+        "text": "mema",
+        "reason": "glossary headword or definition fragment, not page-sentence prose"
+      },
+      {
+        "text_id": "gl132_def",
+        "text": "mazuri au yenye faida.",
+        "reason": "glossary headword or definition fragment, not page-sentence prose"
+      },
+      {
+        "text_id": "gl133",
+        "text": "mende",
+        "reason": "glossary headword or definition fragment, not page-sentence prose"
+      },
+      {
+        "text_id": "gl134",
+        "text": "meno",
+        "reason": "glossary headword or definition fragment, not page-sentence prose"
+      },
+      {
+        "text_id": "gl135",
+        "text": "mfanyabiashara",
+        "reason": "glossary headword or definition fragment, not page-sentence prose"
+      },
+      {
+        "text_id": "gl135_def",
+        "text": "mtu anayenunua na kuuza vitu ili kupata faida.",
+        "reason": "glossary headword or definition fragment, not page-sentence prose"
+      },
+      {
+        "text_id": "gl136",
+        "text": "miba",
+        "reason": "glossary headword or definition fragment, not page-sentence prose"
+      },
+      {
+        "text_id": "gl136_def",
+        "text": "miiba mikali inayochoma, mara nyingi kwenye mimea.",
+        "reason": "glossary headword or definition fragment, not page-sentence prose"
+      },
+      {
+        "text_id": "gl137",
+        "text": "mimi",
+        "reason": "glossary headword or definition fragment, not page-sentence prose"
+      },
+      {
+        "text_id": "gl137_def",
+        "text": "neno linalotumiwa kujirejelea mwenyewe.",
+        "reason": "glossary headword or definition fragment, not page-sentence prose"
+      },
+      {
+        "text_id": "gl138",
+        "text": "mjukuu",
+        "reason": "glossary headword or definition fragment, not page-sentence prose"
+      },
+      {
+        "text_id": "gl138_def",
+        "text": "mtoto wa mtoto wako.",
+        "reason": "glossary headword or definition fragment, not page-sentence prose"
+      },
+      {
+        "text_id": "gl139",
+        "text": "mkoa",
+        "reason": "glossary headword or definition fragment, not page-sentence prose"
+      },
+      {
+        "text_id": "gl139_def",
+        "text": "sehemu ya nchi iliyo kubwa kuliko wilaya.",
+        "reason": "glossary headword or definition fragment, not page-sentence prose"
+      },
+      {
+        "text_id": "gl140",
+        "text": "mlinzi",
+        "reason": "glossary headword or definition fragment, not page-sentence prose"
+      },
+      {
+        "text_id": "gl140_def",
+        "text": "mtu anayelinda mahali au watu.",
+        "reason": "glossary headword or definition fragment, not page-sentence prose"
+      },
+      {
+        "text_id": "gl141",
+        "text": "mng’ao",
+        "reason": "glossary headword or definition fragment, not page-sentence prose"
+      },
+      {
+        "text_id": "gl141_def",
+        "text": "mwanga au uangavu unaotoka kwenye kitu kinachong’aa.",
+        "reason": "glossary headword or definition fragment, not page-sentence prose"
+      },
+      {
+        "text_id": "gl142",
+        "text": "moto",
+        "reason": "glossary headword or definition fragment, not page-sentence prose"
+      },
+      {
+        "text_id": "gl143",
+        "text": "moyo",
+        "reason": "glossary headword or definition fragment, not page-sentence prose"
+      },
+      {
+        "text_id": "gl143_def",
+        "text": "kiungo cha mwili kinachosukuma damu; pia hutumika kumaanisha hisia za ndani.",
+        "reason": "glossary headword or definition fragment, not page-sentence prose"
+      },
+      {
+        "text_id": "gl144",
+        "text": "mtego",
+        "reason": "glossary headword or definition fragment, not page-sentence prose"
+      },
+      {
+        "text_id": "gl144_def",
+        "text": "kifaa au njia ya kunasia mnyama.",
+        "reason": "glossary headword or definition fragment, not page-sentence prose"
+      },
+      {
+        "text_id": "gl145",
+        "text": "mti",
+        "reason": "glossary headword or definition fragment, not page-sentence prose"
+      },
+      {
+        "text_id": "gl146",
+        "text": "mtihani",
+        "reason": "glossary headword or definition fragment, not page-sentence prose"
+      },
+      {
+        "text_id": "gl146_def",
+        "text": "jaribio la kupima uelewa au maarifa ya mwanafunzi.",
+        "reason": "glossary headword or definition fragment, not page-sentence prose"
+      },
+      {
+        "text_id": "gl147",
+        "text": "mtoto",
+        "reason": "glossary headword or definition fragment, not page-sentence prose"
+      },
+      {
+        "text_id": "gl148",
+        "text": "muda",
+        "reason": "glossary headword or definition fragment, not page-sentence prose"
+      },
+      {
+        "text_id": "gl149",
+        "text": "mume",
+        "reason": "glossary headword or definition fragment, not page-sentence prose"
+      },
+      {
+        "text_id": "gl149_def",
+        "text": "mwanamume aliyeoa; mme wa mtu.",
+        "reason": "glossary headword or definition fragment, not page-sentence prose"
+      },
+      {
+        "text_id": "gl150",
+        "text": "mwalimu",
+        "reason": "glossary headword or definition fragment, not page-sentence prose"
+      },
+      {
+        "text_id": "gl151",
+        "text": "mwanafunzi",
+        "reason": "glossary headword or definition fragment, not page-sentence prose"
+      },
+      {
+        "text_id": "gl152",
+        "text": "mwiba",
+        "reason": "glossary headword or definition fragment, not page-sentence prose"
+      },
+      {
+        "text_id": "gl152_def",
+        "text": "kitu chembamba na chenye ncha kali kinachoweza kuchoma mwili.",
+        "reason": "glossary headword or definition fragment, not page-sentence prose"
+      },
+      {
+        "text_id": "gl153",
+        "text": "mwili",
+        "reason": "glossary headword or definition fragment, not page-sentence prose"
+      },
+      {
+        "text_id": "gl153_def",
+        "text": "sehemu zote za mtu au mnyama kwa ujumla.",
+        "reason": "glossary headword or definition fragment, not page-sentence prose"
+      },
+      {
+        "text_id": "gl154",
+        "text": "mzigo",
+        "reason": "glossary headword or definition fragment, not page-sentence prose"
+      },
+      {
+        "text_id": "gl154_def",
+        "text": "kitu kinachobebwa.",
+        "reason": "glossary headword or definition fragment, not page-sentence prose"
+      },
+      {
+        "text_id": "gl155",
+        "text": "nane",
+        "reason": "glossary headword or definition fragment, not page-sentence prose"
+      },
+      {
+        "text_id": "gl156",
+        "text": "ndama",
+        "reason": "glossary headword or definition fragment, not page-sentence prose"
+      },
+      {
+        "text_id": "gl157",
+        "text": "ndege",
+        "reason": "glossary headword or definition fragment, not page-sentence prose"
+      },
+      {
+        "text_id": "gl158",
+        "text": "ndimu",
+        "reason": "glossary headword or definition fragment, not page-sentence prose"
+      },
+      {
+        "text_id": "gl159",
+        "text": "ndizi",
+        "reason": "glossary headword or definition fragment, not page-sentence prose"
+      },
+      {
+        "text_id": "gl160",
+        "text": "ndoo",
+        "reason": "glossary headword or definition fragment, not page-sentence prose"
+      },
+      {
+        "text_id": "gl161",
+        "text": "ndoto",
+        "reason": "glossary headword or definition fragment, not page-sentence prose"
+      },
+      {
+        "text_id": "gl162",
+        "text": "ndugu",
+        "reason": "glossary headword or definition fragment, not page-sentence prose"
+      },
+      {
+        "text_id": "gl163",
+        "text": "nene",
+        "reason": "glossary headword or definition fragment, not page-sentence prose"
+      },
+      {
+        "text_id": "gl164",
+        "text": "neno",
+        "reason": "glossary headword or definition fragment, not page-sentence prose"
+      },
+      {
+        "text_id": "gl165",
+        "text": "ng’arisha",
+        "reason": "glossary headword or definition fragment, not page-sentence prose"
+      },
+      {
+        "text_id": "gl165_def",
+        "text": "fanya kitu king’ae au kipendeze kwa kukisafisha vizuri.",
+        "reason": "glossary headword or definition fragment, not page-sentence prose"
+      },
+      {
+        "text_id": "gl166",
+        "text": "ngano",
+        "reason": "glossary headword or definition fragment, not page-sentence prose"
+      },
+      {
+        "text_id": "gl167",
+        "text": "ngazi",
+        "reason": "glossary headword or definition fragment, not page-sentence prose"
+      },
+      {
+        "text_id": "gl168",
+        "text": "ngoma",
+        "reason": "glossary headword or definition fragment, not page-sentence prose"
+      },
+      {
+        "text_id": "gl169",
+        "text": "ngozi",
+        "reason": "glossary headword or definition fragment, not page-sentence prose"
+      },
+      {
+        "text_id": "gl170",
+        "text": "ngumi",
+        "reason": "glossary headword or definition fragment, not page-sentence prose"
+      },
+      {
+        "text_id": "gl171",
+        "text": "nguo",
+        "reason": "glossary headword or definition fragment, not page-sentence prose"
+      },
+      {
+        "text_id": "gl172",
+        "text": "nguvu",
+        "reason": "glossary headword or definition fragment, not page-sentence prose"
+      },
+      {
+        "text_id": "gl173",
+        "text": "nguzo",
+        "reason": "glossary headword or definition fragment, not page-sentence prose"
+      },
+      {
+        "text_id": "gl174",
+        "text": "noti",
+        "reason": "glossary headword or definition fragment, not page-sentence prose"
+      },
+      {
+        "text_id": "gl175",
+        "text": "nuka",
+        "reason": "glossary headword or definition fragment, not page-sentence prose"
+      },
+      {
+        "text_id": "gl176",
+        "text": "nunua",
+        "reason": "glossary headword or definition fragment, not page-sentence prose"
+      },
+      {
+        "text_id": "gl177",
+        "text": "nyama",
+        "reason": "glossary headword or definition fragment, not page-sentence prose"
+      },
+      {
+        "text_id": "gl178",
+        "text": "nyani",
+        "reason": "glossary headword or definition fragment, not page-sentence prose"
+      },
+      {
+        "text_id": "gl179",
+        "text": "nyanya",
+        "reason": "glossary headword or definition fragment, not page-sentence prose"
+      },
+      {
+        "text_id": "gl180",
+        "text": "nyoka",
+        "reason": "glossary headword or definition fragment, not page-sentence prose"
+      },
+      {
+        "text_id": "gl181",
+        "text": "nyota",
+        "reason": "glossary headword or definition fragment, not page-sentence prose"
+      },
+      {
+        "text_id": "gl182",
+        "text": "nyuki",
+        "reason": "glossary headword or definition fragment, not page-sentence prose"
+      },
+      {
+        "text_id": "gl183",
+        "text": "nywele",
+        "reason": "glossary headword or definition fragment, not page-sentence prose"
+      },
+      {
+        "text_id": "gl183_def",
+        "text": "manyoya laini yanayoota kichwani.",
+        "reason": "glossary headword or definition fragment, not page-sentence prose"
+      },
+      {
+        "text_id": "gl184",
+        "text": "oga",
+        "reason": "glossary headword or definition fragment, not page-sentence prose"
+      },
+      {
+        "text_id": "gl184_def",
+        "text": "kujisafisha mwili kwa maji.",
+        "reason": "glossary headword or definition fragment, not page-sentence prose"
+      },
+      {
+        "text_id": "gl185",
+        "text": "omba",
+        "reason": "glossary headword or definition fragment, not page-sentence prose"
+      },
+      {
+        "text_id": "gl185_def",
+        "text": "taka au uombe kitu kwa mtu.",
+        "reason": "glossary headword or definition fragment, not page-sentence prose"
+      },
+      {
+        "text_id": "gl186",
+        "text": "ona",
+        "reason": "glossary headword or definition fragment, not page-sentence prose"
+      },
+      {
+        "text_id": "gl186_def",
+        "text": "tazama kwa macho.",
+        "reason": "glossary headword or definition fragment, not page-sentence prose"
+      },
+      {
+        "text_id": "gl187",
+        "text": "osha",
+        "reason": "glossary headword or definition fragment, not page-sentence prose"
+      },
+      {
+        "text_id": "gl187_def",
+        "text": "safisha kitu kwa maji.",
+        "reason": "glossary headword or definition fragment, not page-sentence prose"
+      },
+      {
+        "text_id": "gl188",
+        "text": "paka",
+        "reason": "glossary headword or definition fragment, not page-sentence prose"
+      },
+      {
+        "text_id": "gl189",
+        "text": "panya",
+        "reason": "glossary headword or definition fragment, not page-sentence prose"
+      },
+      {
+        "text_id": "gl190",
+        "text": "papai",
+        "reason": "glossary headword or definition fragment, not page-sentence prose"
+      },
+      {
+        "text_id": "gl191",
+        "text": "pembe",
+        "reason": "glossary headword or definition fragment, not page-sentence prose"
+      },
+      {
+        "text_id": "gl192",
+        "text": "pesa",
+        "reason": "glossary headword or definition fragment, not page-sentence prose"
+      },
+      {
+        "text_id": "gl193",
+        "text": "picha",
+        "reason": "glossary headword or definition fragment, not page-sentence prose"
+      },
+      {
+        "text_id": "gl194",
+        "text": "piga",
+        "reason": "glossary headword or definition fragment, not page-sentence prose"
+      },
+      {
+        "text_id": "gl194_def",
+        "text": "kufanya kitendo cha kugonga au kupiga kitu.",
+        "reason": "glossary headword or definition fragment, not page-sentence prose"
+      },
+      {
+        "text_id": "gl195",
+        "text": "pilau",
+        "reason": "glossary headword or definition fragment, not page-sentence prose"
+      },
+      {
+        "text_id": "gl196",
+        "text": "pilipili",
+        "reason": "glossary headword or definition fragment, not page-sentence prose"
+      },
+      {
+        "text_id": "gl197",
+        "text": "pipi",
+        "reason": "glossary headword or definition fragment, not page-sentence prose"
+      },
+      {
+        "text_id": "gl198",
+        "text": "popo",
+        "reason": "glossary headword or definition fragment, not page-sentence prose"
+      },
+      {
+        "text_id": "gl199",
+        "text": "porini",
+        "reason": "glossary headword or definition fragment, not page-sentence prose"
+      },
+      {
+        "text_id": "gl199_def",
+        "text": "mahali penye miti mingi na wanyama wa porini; msituni.",
+        "reason": "glossary headword or definition fragment, not page-sentence prose"
+      },
+      {
+        "text_id": "gl200",
+        "text": "pua",
+        "reason": "glossary headword or definition fragment, not page-sentence prose"
+      },
+      {
+        "text_id": "gl201",
+        "text": "punda",
+        "reason": "glossary headword or definition fragment, not page-sentence prose"
+      },
+      {
+        "text_id": "gl202",
+        "text": "pundamilia",
+        "reason": "glossary headword or definition fragment, not page-sentence prose"
+      },
+      {
+        "text_id": "gl202_def",
+        "text": "mnyama mwenye mistari myeusi na meupe; pia jina la alama za kuvukia barabara.",
+        "reason": "glossary headword or definition fragment, not page-sentence prose"
+      },
+      {
+        "text_id": "gl203",
+        "text": "raha",
+        "reason": "glossary headword or definition fragment, not page-sentence prose"
+      },
+      {
+        "text_id": "gl203_def",
+        "text": "hali ya kujisikia vizuri au kufurahi.",
+        "reason": "glossary headword or definition fragment, not page-sentence prose"
+      },
+      {
+        "text_id": "gl204",
+        "text": "ramani",
+        "reason": "glossary headword or definition fragment, not page-sentence prose"
+      },
+      {
+        "text_id": "gl204_def",
+        "text": "mchoro unaoonesha mahali au njia.",
+        "reason": "glossary headword or definition fragment, not page-sentence prose"
+      },
+      {
+        "text_id": "gl205",
+        "text": "rangi",
+        "reason": "glossary headword or definition fragment, not page-sentence prose"
+      },
+      {
+        "text_id": "gl205_def",
+        "text": "hali ya kitu kuonekana kama nyekundu, kijani, bluu na nyingine.",
+        "reason": "glossary headword or definition fragment, not page-sentence prose"
+      },
+      {
+        "text_id": "gl206",
+        "text": "redio",
+        "reason": "glossary headword or definition fragment, not page-sentence prose"
+      },
+      {
+        "text_id": "gl206_def",
+        "text": "kifaa kinachotumika kusikiliza matangazo au muziki.",
+        "reason": "glossary headword or definition fragment, not page-sentence prose"
+      },
+      {
+        "text_id": "gl207",
+        "text": "reli",
+        "reason": "glossary headword or definition fragment, not page-sentence prose"
+      },
+      {
+        "text_id": "gl207_def",
+        "text": "njia ya chuma ambayo treni hupitia.",
+        "reason": "glossary headword or definition fragment, not page-sentence prose"
+      },
+      {
+        "text_id": "gl208",
+        "text": "roho",
+        "reason": "glossary headword or definition fragment, not page-sentence prose"
+      },
+      {
+        "text_id": "gl208_def",
+        "text": "sehemu ya ndani ya mtu inayohusishwa na maisha au hisia.",
+        "reason": "glossary headword or definition fragment, not page-sentence prose"
+      },
+      {
+        "text_id": "gl209",
+        "text": "rudi",
+        "reason": "glossary headword or definition fragment, not page-sentence prose"
+      },
+      {
+        "text_id": "gl209_def",
+        "text": "kwenda tena mahali ulipotoka au kurudisha kitu.",
+        "reason": "glossary headword or definition fragment, not page-sentence prose"
+      },
+      {
+        "text_id": "gl210",
+        "text": "ruka",
+        "reason": "glossary headword or definition fragment, not page-sentence prose"
+      },
+      {
+        "text_id": "gl210_def",
+        "text": "kuinuka kutoka chini kwenda juu kwa nguvu ya mwili.",
+        "reason": "glossary headword or definition fragment, not page-sentence prose"
+      },
+      {
+        "text_id": "gl211",
+        "text": "rula",
+        "reason": "glossary headword or definition fragment, not page-sentence prose"
+      },
+      {
+        "text_id": "gl211_def",
+        "text": "kifaa cha kupimia au kuchorea mistari iliyonyooka.",
+        "reason": "glossary headword or definition fragment, not page-sentence prose"
+      },
+      {
+        "text_id": "gl212",
+        "text": "saa",
+        "reason": "glossary headword or definition fragment, not page-sentence prose"
+      },
+      {
+        "text_id": "gl213",
+        "text": "saba",
+        "reason": "glossary headword or definition fragment, not page-sentence prose"
+      },
+      {
+        "text_id": "gl214",
+        "text": "salamu",
+        "reason": "glossary headword or definition fragment, not page-sentence prose"
+      },
+      {
+        "text_id": "gl214_def",
+        "text": "maneno ya kumsalimu mtu unapokutana naye.",
+        "reason": "glossary headword or definition fragment, not page-sentence prose"
+      },
+      {
+        "text_id": "gl215",
+        "text": "samaki",
+        "reason": "glossary headword or definition fragment, not page-sentence prose"
+      },
+      {
+        "text_id": "gl216",
+        "text": "sauti",
+        "reason": "glossary headword or definition fragment, not page-sentence prose"
+      },
+      {
+        "text_id": "gl217",
+        "text": "sentensi",
+        "reason": "glossary headword or definition fragment, not page-sentence prose"
+      },
+      {
+        "text_id": "gl218",
+        "text": "sherehe",
+        "reason": "glossary headword or definition fragment, not page-sentence prose"
+      },
+      {
+        "text_id": "gl218_def",
+        "text": "mkusanyiko wa watu wa kufurahia jambo fulani.",
+        "reason": "glossary headword or definition fragment, not page-sentence prose"
+      },
+      {
+        "text_id": "gl219",
+        "text": "shibe",
+        "reason": "glossary headword or definition fragment, not page-sentence prose"
+      },
+      {
+        "text_id": "gl219_def",
+        "text": "hali ya kutokuwa na njaa baada ya kula.",
+        "reason": "glossary headword or definition fragment, not page-sentence prose"
+      },
+      {
+        "text_id": "gl220",
+        "text": "shida",
+        "reason": "glossary headword or definition fragment, not page-sentence prose"
+      },
+      {
+        "text_id": "gl220_def",
+        "text": "hali ngumu au tatizo.",
+        "reason": "glossary headword or definition fragment, not page-sentence prose"
+      },
+      {
+        "text_id": "gl221",
+        "text": "shimo",
+        "reason": "glossary headword or definition fragment, not page-sentence prose"
+      },
+      {
+        "text_id": "gl221_def",
+        "text": "tundu au sehemu iliyochimbika ardhini au kwenye kitu.",
+        "reason": "glossary headword or definition fragment, not page-sentence prose"
+      },
+      {
+        "text_id": "gl222",
+        "text": "shingo",
+        "reason": "glossary headword or definition fragment, not page-sentence prose"
+      },
+      {
+        "text_id": "gl223",
+        "text": "shoka",
+        "reason": "glossary headword or definition fragment, not page-sentence prose"
+      },
+      {
+        "text_id": "gl223_def",
+        "text": "kifaa chenye makali kinachotumika kukata kuni au miti.",
+        "reason": "glossary headword or definition fragment, not page-sentence prose"
+      },
+      {
+        "text_id": "gl224",
+        "text": "shuka",
+        "reason": "glossary headword or definition fragment, not page-sentence prose"
+      },
+      {
+        "text_id": "gl224_def",
+        "text": "kitambaa kinachotandazwa kitandani au kuvaliwa.",
+        "reason": "glossary headword or definition fragment, not page-sentence prose"
+      },
+      {
+        "text_id": "gl225",
+        "text": "shule",
+        "reason": "glossary headword or definition fragment, not page-sentence prose"
+      },
+      {
+        "text_id": "gl225_def",
+        "text": "mahali ambapo watoto na watu wengine hujifunza.",
+        "reason": "glossary headword or definition fragment, not page-sentence prose"
+      },
+      {
+        "text_id": "gl226",
+        "text": "silabi",
+        "reason": "glossary headword or definition fragment, not page-sentence prose"
+      },
+      {
+        "text_id": "gl227",
+        "text": "simba",
+        "reason": "glossary headword or definition fragment, not page-sentence prose"
+      },
+      {
+        "text_id": "gl228",
+        "text": "simu",
+        "reason": "glossary headword or definition fragment, not page-sentence prose"
+      },
+      {
+        "text_id": "gl229",
+        "text": "soda",
+        "reason": "glossary headword or definition fragment, not page-sentence prose"
+      },
+      {
+        "text_id": "gl230",
+        "text": "soko",
+        "reason": "glossary headword or definition fragment, not page-sentence prose"
+      },
+      {
+        "text_id": "gl231",
+        "text": "sokoni",
+        "reason": "glossary headword or definition fragment, not page-sentence prose"
+      },
+      {
+        "text_id": "gl231_def",
+        "text": "mahali ambapo watu huuza na kununua vitu.",
+        "reason": "glossary headword or definition fragment, not page-sentence prose"
+      },
+      {
+        "text_id": "gl232",
+        "text": "soma",
+        "reason": "glossary headword or definition fragment, not page-sentence prose"
+      },
+      {
+        "text_id": "gl232_def",
+        "text": "pitia maandishi na uyatamke au uyaelewe.",
+        "reason": "glossary headword or definition fragment, not page-sentence prose"
+      },
+      {
+        "text_id": "gl233",
+        "text": "soya",
+        "reason": "glossary headword or definition fragment, not page-sentence prose"
+      },
+      {
+        "text_id": "gl233_def",
+        "text": "aina ya mmea au mbegu zinazotumika kama chakula.",
+        "reason": "glossary headword or definition fragment, not page-sentence prose"
+      },
+      {
+        "text_id": "gl234",
+        "text": "sumu",
+        "reason": "glossary headword or definition fragment, not page-sentence prose"
+      },
+      {
+        "text_id": "gl235",
+        "text": "supu",
+        "reason": "glossary headword or definition fragment, not page-sentence prose"
+      },
+      {
+        "text_id": "gl236",
+        "text": "sura",
+        "reason": "glossary headword or definition fragment, not page-sentence prose"
+      },
+      {
+        "text_id": "gl237",
+        "text": "tabia njema",
+        "reason": "glossary headword or definition fragment, not page-sentence prose"
+      },
+      {
+        "text_id": "gl238",
+        "text": "tai",
+        "reason": "glossary headword or definition fragment, not page-sentence prose"
+      },
+      {
+        "text_id": "gl239",
+        "text": "tamka",
+        "reason": "glossary headword or definition fragment, not page-sentence prose"
+      },
+      {
+        "text_id": "gl239_def",
+        "text": "sema sauti, herufi, au neno kwa mdomo.",
+        "reason": "glossary headword or definition fragment, not page-sentence prose"
+      },
+      {
+        "text_id": "gl240",
+        "text": "taya",
+        "reason": "glossary headword or definition fragment, not page-sentence prose"
+      },
+      {
+        "text_id": "gl240_def",
+        "text": "sehemu ya mdomo inayoshikilia meno.",
+        "reason": "glossary headword or definition fragment, not page-sentence prose"
+      },
+      {
+        "text_id": "gl241",
+        "text": "tembo",
+        "reason": "glossary headword or definition fragment, not page-sentence prose"
+      },
+      {
+        "text_id": "gl242",
+        "text": "tenganisha",
+        "reason": "glossary headword or definition fragment, not page-sentence prose"
+      },
+      {
+        "text_id": "gl242_def",
+        "text": "toa vitu pamoja na kuviweka mbali au tofauti.",
+        "reason": "glossary headword or definition fragment, not page-sentence prose"
+      },
+      {
+        "text_id": "gl243",
+        "text": "thamani",
+        "reason": "glossary headword or definition fragment, not page-sentence prose"
+      },
+      {
+        "text_id": "gl243_def",
+        "text": "ubora au bei ya kitu.",
+        "reason": "glossary headword or definition fragment, not page-sentence prose"
+      },
+      {
+        "text_id": "gl244",
+        "text": "thaminiwa",
+        "reason": "glossary headword or definition fragment, not page-sentence prose"
+      },
+      {
+        "text_id": "gl244_def",
+        "text": "kuhesabiwa kuwa wa muhimu na wa thamani.",
+        "reason": "glossary headword or definition fragment, not page-sentence prose"
+      },
+      {
+        "text_id": "gl245",
+        "text": "thelathini",
+        "reason": "glossary headword or definition fragment, not page-sentence prose"
+      },
+      {
+        "text_id": "gl245_def",
+        "text": "namba yenye thamani ya 30.",
+        "reason": "glossary headword or definition fragment, not page-sentence prose"
+      },
+      {
+        "text_id": "gl246",
+        "text": "themanini",
+        "reason": "glossary headword or definition fragment, not page-sentence prose"
+      },
+      {
+        "text_id": "gl246_def",
+        "text": "namba yenye thamani ya 80.",
+        "reason": "glossary headword or definition fragment, not page-sentence prose"
+      },
+      {
+        "text_id": "gl247",
+        "text": "thumni",
+        "reason": "glossary headword or definition fragment, not page-sentence prose"
+      },
+      {
+        "text_id": "gl247_def",
+        "text": "namba yenye thamani ya 8.",
+        "reason": "glossary headword or definition fragment, not page-sentence prose"
+      },
+      {
+        "text_id": "gl248",
+        "text": "tope",
+        "reason": "glossary headword or definition fragment, not page-sentence prose"
+      },
+      {
+        "text_id": "gl248_def",
+        "text": "udongo laini wenye maji mengi.",
+        "reason": "glossary headword or definition fragment, not page-sentence prose"
+      },
+      {
+        "text_id": "gl249",
+        "text": "tunga",
+        "reason": "glossary headword or definition fragment, not page-sentence prose"
+      },
+      {
+        "text_id": "gl249_def",
+        "text": "unda au panga maneno ili kupata sentensi.",
+        "reason": "glossary headword or definition fragment, not page-sentence prose"
+      },
+      {
+        "text_id": "gl250",
+        "text": "ua",
+        "reason": "glossary headword or definition fragment, not page-sentence prose"
+      },
+      {
+        "text_id": "gl250_def",
+        "text": "sehemu ya nyumba ya nje au pia mmea unaotoa maua, kutegemea matumizi ya neno.",
+        "reason": "glossary headword or definition fragment, not page-sentence prose"
+      },
+      {
+        "text_id": "gl251",
+        "text": "ualbino",
+        "reason": "glossary headword or definition fragment, not page-sentence prose"
+      },
+      {
+        "text_id": "gl251_def",
+        "text": "hali ya mtu kuzaliwa na ngozi, nywele, na wakati mwingine macho yenye ukosefu wa rangi ya asili mwilini.",
+        "reason": "glossary headword or definition fragment, not page-sentence prose"
+      },
+      {
+        "text_id": "gl252",
+        "text": "ufahamu",
+        "reason": "glossary headword or definition fragment, not page-sentence prose"
+      },
+      {
+        "text_id": "gl252_def",
+        "text": "uwezo wa kuelewa kitu unachosoma au kusikia.",
+        "reason": "glossary headword or definition fragment, not page-sentence prose"
+      },
+      {
+        "text_id": "gl253",
+        "text": "ufasaha",
+        "reason": "glossary headword or definition fragment, not page-sentence prose"
+      },
+      {
+        "text_id": "gl254",
+        "text": "uhai",
+        "reason": "glossary headword or definition fragment, not page-sentence prose"
+      },
+      {
+        "text_id": "gl254_def",
+        "text": "hali ya kuwa hai; maisha.",
+        "reason": "glossary headword or definition fragment, not page-sentence prose"
+      },
+      {
+        "text_id": "gl255",
+        "text": "ujuzi",
+        "reason": "glossary headword or definition fragment, not page-sentence prose"
+      },
+      {
+        "text_id": "gl255_def",
+        "text": "maarifa au uwezo wa kufanya jambo vizuri.",
+        "reason": "glossary headword or definition fragment, not page-sentence prose"
+      },
+      {
+        "text_id": "gl256",
+        "text": "ukuta",
+        "reason": "glossary headword or definition fragment, not page-sentence prose"
+      },
+      {
+        "text_id": "gl256_def",
+        "text": "sehemu ya jengo inayosimama pembeni na kufunika ndani.",
+        "reason": "glossary headword or definition fragment, not page-sentence prose"
+      },
+      {
+        "text_id": "gl257",
+        "text": "ulemavu",
+        "reason": "glossary headword or definition fragment, not page-sentence prose"
+      },
+      {
+        "text_id": "gl257_def",
+        "text": "hali ya mtu kuwa na changamoto ya mwili au akili inayoweza kufanya baadhi ya mambo kuwa magumu kwake.",
+        "reason": "glossary headword or definition fragment, not page-sentence prose"
+      },
+      {
+        "text_id": "gl258",
+        "text": "unda",
+        "reason": "glossary headword or definition fragment, not page-sentence prose"
+      },
+      {
+        "text_id": "gl258_def",
+        "text": "tengeneza kitu kutokana na sehemu mbalimbali.",
+        "reason": "glossary headword or definition fragment, not page-sentence prose"
+      },
+      {
+        "text_id": "gl259",
+        "text": "unga",
+        "reason": "glossary headword or definition fragment, not page-sentence prose"
+      },
+      {
+        "text_id": "gl260",
+        "text": "unganisha",
+        "reason": "glossary headword or definition fragment, not page-sentence prose"
+      },
+      {
+        "text_id": "gl260_def",
+        "text": "weka vitu pamoja ili viwe kitu kimoja.",
+        "reason": "glossary headword or definition fragment, not page-sentence prose"
+      },
+      {
+        "text_id": "gl261",
+        "text": "ungo",
+        "reason": "glossary headword or definition fragment, not page-sentence prose"
+      },
+      {
+        "text_id": "gl262",
+        "text": "unyoya",
+        "reason": "glossary headword or definition fragment, not page-sentence prose"
+      },
+      {
+        "text_id": "gl263",
+        "text": "upepo",
+        "reason": "glossary headword or definition fragment, not page-sentence prose"
+      },
+      {
+        "text_id": "gl264",
+        "text": "usahihi",
+        "reason": "glossary headword or definition fragment, not page-sentence prose"
+      },
+      {
+        "text_id": "gl264_def",
+        "text": "hali ya kuwa sahihi bila makosa.",
+        "reason": "glossary headword or definition fragment, not page-sentence prose"
+      },
+      {
+        "text_id": "gl265",
+        "text": "usalama barabarani",
+        "reason": "glossary headword or definition fragment, not page-sentence prose"
+      },
+      {
+        "text_id": "gl265_def",
+        "text": "hali ya kuwa salama unapotembea au kuvuka barabara.",
+        "reason": "glossary headword or definition fragment, not page-sentence prose"
+      },
+      {
+        "text_id": "gl266",
+        "text": "uzi",
+        "reason": "glossary headword or definition fragment, not page-sentence prose"
+      },
+      {
+        "text_id": "gl266_def",
+        "text": "kamba nyembamba inayotumika kushonea au kufunga.",
+        "reason": "glossary headword or definition fragment, not page-sentence prose"
+      },
+      {
+        "text_id": "gl267",
+        "text": "uziwi",
+        "reason": "glossary headword or definition fragment, not page-sentence prose"
+      },
+      {
+        "text_id": "gl267_def",
+        "text": "hali ya kutosikia au kusikia kwa shida sana.",
+        "reason": "glossary headword or definition fragment, not page-sentence prose"
+      },
+      {
+        "text_id": "gl268",
+        "text": "viatu",
+        "reason": "glossary headword or definition fragment, not page-sentence prose"
+      },
+      {
+        "text_id": "gl268_def",
+        "text": "vitu vinavyovaliwa miguuni.",
+        "reason": "glossary headword or definition fragment, not page-sentence prose"
+      },
+      {
+        "text_id": "gl269",
+        "text": "viazi",
+        "reason": "glossary headword or definition fragment, not page-sentence prose"
+      },
+      {
+        "text_id": "gl269_def",
+        "text": "chakula cha mizizi kinachopikwa na kuliwa.",
+        "reason": "glossary headword or definition fragment, not page-sentence prose"
+      },
+      {
+        "text_id": "gl270",
+        "text": "vinu",
+        "reason": "glossary headword or definition fragment, not page-sentence prose"
+      },
+      {
+        "text_id": "gl270_def",
+        "text": "vifaa vya kusagia au kusukumia nafaka.",
+        "reason": "glossary headword or definition fragment, not page-sentence prose"
+      },
+      {
+        "text_id": "gl271",
+        "text": "visu",
+        "reason": "glossary headword or definition fragment, not page-sentence prose"
+      },
+      {
+        "text_id": "gl271_def",
+        "text": "vifaa vyenye makali vinavyotumika kukata.",
+        "reason": "glossary headword or definition fragment, not page-sentence prose"
+      },
+      {
+        "text_id": "gl272",
+        "text": "viti",
+        "reason": "glossary headword or definition fragment, not page-sentence prose"
+      },
+      {
+        "text_id": "gl272_def",
+        "text": "samani zinazotumiwa kukalia.",
+        "reason": "glossary headword or definition fragment, not page-sentence prose"
+      },
+      {
+        "text_id": "gl273",
+        "text": "viungo",
+        "reason": "glossary headword or definition fragment, not page-sentence prose"
+      },
+      {
+        "text_id": "gl273_def",
+        "text": "sehemu za mwili kama mikono na miguu.",
+        "reason": "glossary headword or definition fragment, not page-sentence prose"
+      },
+      {
+        "text_id": "gl274",
+        "text": "vua",
+        "reason": "glossary headword or definition fragment, not page-sentence prose"
+      },
+      {
+        "text_id": "gl274_def",
+        "text": "ondoa kitu ulichovaa mwilini.",
+        "reason": "glossary headword or definition fragment, not page-sentence prose"
+      },
+      {
+        "text_id": "gl275",
+        "text": "vuta",
+        "reason": "glossary headword or definition fragment, not page-sentence prose"
+      },
+      {
+        "text_id": "gl275_def",
+        "text": "leta kitu kwako kwa nguvu au kwa mkono.",
+        "reason": "glossary headword or definition fragment, not page-sentence prose"
+      },
+      {
+        "text_id": "gl276",
+        "text": "vutia",
+        "reason": "glossary headword or definition fragment, not page-sentence prose"
+      },
+      {
+        "text_id": "gl276_def",
+        "text": "fanya kitu kipendeze au kipendwe.",
+        "reason": "glossary headword or definition fragment, not page-sentence prose"
+      },
+      {
+        "text_id": "gl277",
+        "text": "walimu",
+        "reason": "glossary headword or definition fragment, not page-sentence prose"
+      },
+      {
+        "text_id": "gl277_def",
+        "text": "watu wanaofundisha wanafunzi.",
+        "reason": "glossary headword or definition fragment, not page-sentence prose"
+      },
+      {
+        "text_id": "gl278",
+        "text": "wanunuzi",
+        "reason": "glossary headword or definition fragment, not page-sentence prose"
+      },
+      {
+        "text_id": "gl278_def",
+        "text": "watu wanaonunua vitu.",
+        "reason": "glossary headword or definition fragment, not page-sentence prose"
+      },
+      {
+        "text_id": "gl279",
+        "text": "watoto",
+        "reason": "glossary headword or definition fragment, not page-sentence prose"
+      },
+      {
+        "text_id": "gl279_def",
+        "text": "binadamu wadogo; wana wa watu.",
+        "reason": "glossary headword or definition fragment, not page-sentence prose"
+      },
+      {
+        "text_id": "gl280",
+        "text": "waya",
+        "reason": "glossary headword or definition fragment, not page-sentence prose"
+      },
+      {
+        "text_id": "gl280_def",
+        "text": "kipande chembamba cha chuma kinachotumika kufunga au kupeleka umeme.",
+        "reason": "glossary headword or definition fragment, not page-sentence prose"
+      },
+      {
+        "text_id": "gl281",
+        "text": "wazazi",
+        "reason": "glossary headword or definition fragment, not page-sentence prose"
+      },
+      {
+        "text_id": "gl281_def",
+        "text": "baba na mama wa mtoto.",
+        "reason": "glossary headword or definition fragment, not page-sentence prose"
+      },
+      {
+        "text_id": "gl282",
+        "text": "wazo",
+        "reason": "glossary headword or definition fragment, not page-sentence prose"
+      },
+      {
+        "text_id": "gl282_def",
+        "text": "jambo linalokuja akilini; fikra.",
+        "reason": "glossary headword or definition fragment, not page-sentence prose"
+      },
+      {
+        "text_id": "gl283",
+        "text": "wazuri",
+        "reason": "glossary headword or definition fragment, not page-sentence prose"
+      },
+      {
+        "text_id": "gl283_def",
+        "text": "wenye uzuri au tabia nzuri.",
+        "reason": "glossary headword or definition fragment, not page-sentence prose"
+      },
+      {
+        "text_id": "gl284",
+        "text": "wema",
+        "reason": "glossary headword or definition fragment, not page-sentence prose"
+      },
+      {
+        "text_id": "gl284_def",
+        "text": "tabia ya kuwa mwema na kufanya mambo mazuri kwa wengine.",
+        "reason": "glossary headword or definition fragment, not page-sentence prose"
+      },
+      {
+        "text_id": "gl285",
+        "text": "wenzangu",
+        "reason": "glossary headword or definition fragment, not page-sentence prose"
+      },
+      {
+        "text_id": "gl285_def",
+        "text": "watu ninaokuwa nao pamoja, kama marafiki au wanafunzi wenzako.",
+        "reason": "glossary headword or definition fragment, not page-sentence prose"
+      },
+      {
+        "text_id": "gl286",
+        "text": "wezi",
+        "reason": "glossary headword or definition fragment, not page-sentence prose"
+      },
+      {
+        "text_id": "gl286_def",
+        "text": "watu wanaoiba vitu vya wengine.",
+        "reason": "glossary headword or definition fragment, not page-sentence prose"
+      },
+      {
+        "text_id": "gl287",
+        "text": "wima",
+        "reason": "glossary headword or definition fragment, not page-sentence prose"
+      },
+      {
+        "text_id": "gl287_def",
+        "text": "hali ya kusimama moja kwa moja kutoka chini kwenda juu.",
+        "reason": "glossary headword or definition fragment, not page-sentence prose"
+      },
+      {
+        "text_id": "gl288",
+        "text": "wimbo",
+        "reason": "glossary headword or definition fragment, not page-sentence prose"
+      },
+      {
+        "text_id": "gl289",
+        "text": "woga",
+        "reason": "glossary headword or definition fragment, not page-sentence prose"
+      },
+      {
+        "text_id": "gl289_def",
+        "text": "hali ya kuogopa.",
+        "reason": "glossary headword or definition fragment, not page-sentence prose"
+      },
+      {
+        "text_id": "gl290",
+        "text": "yai",
+        "reason": "glossary headword or definition fragment, not page-sentence prose"
+      },
+      {
+        "text_id": "gl290_def",
+        "text": "chakula kinachotagwa na ndege kama kuku.",
+        "reason": "glossary headword or definition fragment, not page-sentence prose"
+      },
+      {
+        "text_id": "gl291",
+        "text": "yaya",
+        "reason": "glossary headword or definition fragment, not page-sentence prose"
+      },
+      {
+        "text_id": "gl291_def",
+        "text": "mtu anayemtunza mtoto.",
+        "reason": "glossary headword or definition fragment, not page-sentence prose"
+      },
+      {
+        "text_id": "gl292",
+        "text": "zabibu",
+        "reason": "glossary headword or definition fragment, not page-sentence prose"
+      },
+      {
+        "text_id": "gl292_def",
+        "text": "tunda dogo tamu linaloota kwenye mashada.",
+        "reason": "glossary headword or definition fragment, not page-sentence prose"
+      },
+      {
+        "text_id": "gl293",
+        "text": "zawadi",
+        "reason": "glossary headword or definition fragment, not page-sentence prose"
+      },
+      {
+        "text_id": "gl293_def",
+        "text": "kitu anachopewa mtu kwa upendo au pongezi.",
+        "reason": "glossary headword or definition fragment, not page-sentence prose"
+      },
+      {
+        "text_id": "gl294",
+        "text": "zeze",
+        "reason": "glossary headword or definition fragment, not page-sentence prose"
+      },
+      {
+        "text_id": "gl294_def",
+        "text": "chombo cha muziki kinachopigwa kutoa sauti.",
+        "reason": "glossary headword or definition fragment, not page-sentence prose"
+      },
+      {
+        "text_id": "gl295",
+        "text": "zima",
+        "reason": "glossary headword or definition fragment, not page-sentence prose"
+      },
+      {
+        "text_id": "gl295_def",
+        "text": "kufanya moto, taa, au kifaa kiachane kufanya kazi.",
+        "reason": "glossary headword or definition fragment, not page-sentence prose"
+      },
+      {
+        "text_id": "gl296",
+        "text": "zipu",
+        "reason": "glossary headword or definition fragment, not page-sentence prose"
+      },
+      {
+        "text_id": "gl296_def",
+        "text": "kifaa cha kufungia nguo au mfuko kwa kuvuta juu na chini.",
+        "reason": "glossary headword or definition fragment, not page-sentence prose"
+      },
+      {
+        "text_id": "gl297",
+        "text": "zulia",
+        "reason": "glossary headword or definition fragment, not page-sentence prose"
+      },
+      {
+        "text_id": "gl297_def",
+        "text": "kitu cha kutandaza sakafuni.",
+        "reason": "glossary headword or definition fragment, not page-sentence prose"
+      }
+    ],
+    "activity_answer_or_technical_values": [
+      {
+        "text_id": "pg013_sec001_ans_item-1",
+        "text": "false",
+        "reason": "activity answer value or technical state, not displayed prose"
+      },
+      {
+        "text_id": "pg013_sec001_ans_item-2",
+        "text": "false",
+        "reason": "activity answer value or technical state, not displayed prose"
+      },
+      {
+        "text_id": "pg013_sec001_ans_item-3",
+        "text": "true",
+        "reason": "activity answer value or technical state, not displayed prose"
+      },
+      {
+        "text_id": "pg013_sec001_ans_item-4",
+        "text": "true",
+        "reason": "activity answer value or technical state, not displayed prose"
+      },
+      {
+        "text_id": "pg013_sec001_ans_item-5",
+        "text": "false",
+        "reason": "activity answer value or technical state, not displayed prose"
+      },
+      {
+        "text_id": "pg014_sec001_ans_item-1",
+        "text": "false",
+        "reason": "activity answer value or technical state, not displayed prose"
+      },
+      {
+        "text_id": "pg014_sec001_ans_item-2",
+        "text": "true",
+        "reason": "activity answer value or technical state, not displayed prose"
+      },
+      {
+        "text_id": "pg014_sec001_ans_item-3",
+        "text": "false",
+        "reason": "activity answer value or technical state, not displayed prose"
+      },
+      {
+        "text_id": "pg014_sec001_ans_item-4",
+        "text": "true",
+        "reason": "activity answer value or technical state, not displayed prose"
+      },
+      {
+        "text_id": "pg014_sec001_ans_item-5",
+        "text": "true",
+        "reason": "activity answer value or technical state, not displayed prose"
+      },
+      {
+        "text_id": "pg014_sec001_ans_item-6",
+        "text": "false",
+        "reason": "activity answer value or technical state, not displayed prose"
+      },
+      {
+        "text_id": "pg014_sec001_ans_item-7",
+        "text": "false",
+        "reason": "activity answer value or technical state, not displayed prose"
+      },
+      {
+        "text_id": "pg014_sec001_ans_item-8",
+        "text": "false",
+        "reason": "activity answer value or technical state, not displayed prose"
+      },
+      {
+        "text_id": "pg014_sec001_ans_item-9",
+        "text": "false",
+        "reason": "activity answer value or technical state, not displayed prose"
+      },
+      {
+        "text_id": "pg014_sec001_ans_item-10",
+        "text": "false",
+        "reason": "activity answer value or technical state, not displayed prose"
+      },
+      {
+        "text_id": "pg014_sec001_ans_item-11",
+        "text": "false",
+        "reason": "activity answer value or technical state, not displayed prose"
+      },
+      {
+        "text_id": "pg014_sec001_ans_item-12",
+        "text": "true",
+        "reason": "activity answer value or technical state, not displayed prose"
+      },
+      {
+        "text_id": "pg014_sec001_ans_item-13",
+        "text": "true",
+        "reason": "activity answer value or technical state, not displayed prose"
+      },
+      {
+        "text_id": "pg014_sec001_ans_item-14",
+        "text": "true",
+        "reason": "activity answer value or technical state, not displayed prose"
+      },
+      {
+        "text_id": "pg014_sec001_ans_item-15",
+        "text": "true",
+        "reason": "activity answer value or technical state, not displayed prose"
+      },
+      {
+        "text_id": "pg015_sec001_ans_item-1",
+        "text": "false",
+        "reason": "activity answer value or technical state, not displayed prose"
+      },
+      {
+        "text_id": "pg015_sec001_ans_item-2",
+        "text": "true",
+        "reason": "activity answer value or technical state, not displayed prose"
+      },
+      {
+        "text_id": "pg015_sec001_ans_item-3",
+        "text": "true",
+        "reason": "activity answer value or technical state, not displayed prose"
+      },
+      {
+        "text_id": "pg015_sec001_ans_item-4",
+        "text": "false",
+        "reason": "activity answer value or technical state, not displayed prose"
+      },
+      {
+        "text_id": "pg015_sec001_ans_item-5",
+        "text": "false",
+        "reason": "activity answer value or technical state, not displayed prose"
+      },
+      {
+        "text_id": "pg015_sec001_ans_item-6",
+        "text": "false",
+        "reason": "activity answer value or technical state, not displayed prose"
+      },
+      {
+        "text_id": "pg015_sec001_ans_item-7",
+        "text": "false",
+        "reason": "activity answer value or technical state, not displayed prose"
+      },
+      {
+        "text_id": "pg015_sec001_ans_item-8",
+        "text": "true",
+        "reason": "activity answer value or technical state, not displayed prose"
+      },
+      {
+        "text_id": "pg015_sec001_ans_item-9",
+        "text": "true",
+        "reason": "activity answer value or technical state, not displayed prose"
+      },
+      {
+        "text_id": "pg015_sec001_ans_item-10",
+        "text": "true",
+        "reason": "activity answer value or technical state, not displayed prose"
+      },
+      {
+        "text_id": "pg021_sec001_ans_item-2",
+        "text": "mpira",
+        "reason": "activity answer value or technical state, not displayed prose"
+      },
+      {
+        "text_id": "pg027_sec001_ans_item-2",
+        "text": "d",
+        "reason": "activity answer value or technical state, not displayed prose"
+      },
+      {
+        "text_id": "pg027_sec001_ans_item-3",
+        "text": "u",
+        "reason": "activity answer value or technical state, not displayed prose"
+      },
+      {
+        "text_id": "pg027_sec001_ans_item-4",
+        "text": "m",
+        "reason": "activity answer value or technical state, not displayed prose"
+      },
+      {
+        "text_id": "pg027_sec001_ans_item-5",
+        "text": "u",
+        "reason": "activity answer value or technical state, not displayed prose"
+      },
+      {
+        "text_id": "pg027_sec001_ans_item-6",
+        "text": "u",
+        "reason": "activity answer value or technical state, not displayed prose"
+      },
+      {
+        "text_id": "pg027_sec001_ans_item-7",
+        "text": "k",
+        "reason": "activity answer value or technical state, not displayed prose"
+      },
+      {
+        "text_id": "pg027_sec001_ans_item-8",
+        "text": "u",
+        "reason": "activity answer value or technical state, not displayed prose"
+      },
+      {
+        "text_id": "pg028_sec001_ans_item-1",
+        "text": "i",
+        "reason": "activity answer value or technical state, not displayed prose"
+      },
+      {
+        "text_id": "pg028_sec001_ans_item-2",
+        "text": "k",
+        "reason": "activity answer value or technical state, not displayed prose"
+      },
+      {
+        "text_id": "pg028_sec001_ans_item-3",
+        "text": "b",
+        "reason": "activity answer value or technical state, not displayed prose"
+      },
+      {
+        "text_id": "pg028_sec001_ans_item-4",
+        "text": "a",
+        "reason": "activity answer value or technical state, not displayed prose"
+      },
+      {
+        "text_id": "pg028_sec001_ans_item-5",
+        "text": "a",
+        "reason": "activity answer value or technical state, not displayed prose"
+      },
+      {
+        "text_id": "pg028_sec001_ans_item-7",
+        "text": "n",
+        "reason": "activity answer value or technical state, not displayed prose"
+      },
+      {
+        "text_id": "pg028_sec001_ans_item-8",
+        "text": "a",
+        "reason": "activity answer value or technical state, not displayed prose"
+      },
+      {
+        "text_id": "pg028_sec001_ans_item-9",
+        "text": "n",
+        "reason": "activity answer value or technical state, not displayed prose"
+      },
+      {
+        "text_id": "pg028_sec001_ans_item-10",
+        "text": "a",
+        "reason": "activity answer value or technical state, not displayed prose"
+      },
+      {
+        "text_id": "pg028_sec001_ans_item-11",
+        "text": "s",
+        "reason": "activity answer value or technical state, not displayed prose"
+      },
+      {
+        "text_id": "pg028_sec001_ans_item-13",
+        "text": "k",
+        "reason": "activity answer value or technical state, not displayed prose"
+      },
+      {
+        "text_id": "pg028_sec001_ans_item-14",
+        "text": "a",
+        "reason": "activity answer value or technical state, not displayed prose"
+      },
+      {
+        "text_id": "pg028_sec001_ans_item-15",
+        "text": "a",
+        "reason": "activity answer value or technical state, not displayed prose"
+      },
+      {
+        "text_id": "pg028_sec001_ans_item-17",
+        "text": "u",
+        "reason": "activity answer value or technical state, not displayed prose"
+      },
+      {
+        "text_id": "pg028_sec001_ans_item-19",
+        "text": "a",
+        "reason": "activity answer value or technical state, not displayed prose"
+      },
+      {
+        "text_id": "pg028_sec001_ans_item-21",
+        "text": "a",
+        "reason": "activity answer value or technical state, not displayed prose"
+      },
+      {
+        "text_id": "pg028_sec001_ans_item-23",
+        "text": "a",
+        "reason": "activity answer value or technical state, not displayed prose"
+      },
+      {
+        "text_id": "pg028_sec001_ans_item-24",
+        "text": "u",
+        "reason": "activity answer value or technical state, not displayed prose"
+      },
+      {
+        "text_id": "pg028_sec001_ans_item-26",
+        "text": "b",
+        "reason": "activity answer value or technical state, not displayed prose"
+      },
+      {
+        "text_id": "pg028_sec001_ans_item-27",
+        "text": "i",
+        "reason": "activity answer value or technical state, not displayed prose"
+      },
+      {
+        "text_id": "pg028_sec001_ans_item-28",
+        "text": "b",
+        "reason": "activity answer value or technical state, not displayed prose"
+      },
+      {
+        "text_id": "pg029_sec001_ans_item-1",
+        "text": "dumu",
+        "reason": "activity answer value or technical state, not displayed prose"
+      },
+      {
+        "text_id": "pg029_sec001_ans_item-2",
+        "text": "chui",
+        "reason": "activity answer value or technical state, not displayed prose"
+      },
+      {
+        "text_id": "pg042_sec001_ans_item-1",
+        "text": "true",
+        "reason": "activity answer value or technical state, not displayed prose"
+      },
+      {
+        "text_id": "pg045_sec001_ans_item-1",
+        "text": "false",
+        "reason": "activity answer value or technical state, not displayed prose"
+      },
+      {
+        "text_id": "pg045_sec001_ans_item-2",
+        "text": "false",
+        "reason": "activity answer value or technical state, not displayed prose"
+      },
+      {
+        "text_id": "pg045_sec001_ans_item-3",
+        "text": "true",
+        "reason": "activity answer value or technical state, not displayed prose"
+      },
+      {
+        "text_id": "pg046_sec001_ans_item-1",
+        "text": "true",
+        "reason": "activity answer value or technical state, not displayed prose"
+      },
+      {
+        "text_id": "pg048_sec001_ans_item-1",
+        "text": "false",
+        "reason": "activity answer value or technical state, not displayed prose"
+      },
+      {
+        "text_id": "pg048_sec001_ans_item-2",
+        "text": "true",
+        "reason": "activity answer value or technical state, not displayed prose"
+      },
+      {
+        "text_id": "pg048_sec001_ans_item-3",
+        "text": "false",
+        "reason": "activity answer value or technical state, not displayed prose"
+      },
+      {
+        "text_id": "pg048_sec001_ans_item-4",
+        "text": "false",
+        "reason": "activity answer value or technical state, not displayed prose"
+      },
+      {
+        "text_id": "pg048_sec001_ans_item-5",
+        "text": "true",
+        "reason": "activity answer value or technical state, not displayed prose"
+      },
+      {
+        "text_id": "pg048_sec001_ans_item-6",
+        "text": "true",
+        "reason": "activity answer value or technical state, not displayed prose"
+      },
+      {
+        "text_id": "pg048_sec001_ans_item-7",
+        "text": "false",
+        "reason": "activity answer value or technical state, not displayed prose"
+      },
+      {
+        "text_id": "pg048_sec001_ans_item-8",
+        "text": "false",
+        "reason": "activity answer value or technical state, not displayed prose"
+      },
+      {
+        "text_id": "pg052_sec001_ans_item-1",
+        "text": "true",
+        "reason": "activity answer value or technical state, not displayed prose"
+      },
+      {
+        "text_id": "pg052_sec001_ans_item-2",
+        "text": "false",
+        "reason": "activity answer value or technical state, not displayed prose"
+      },
+      {
+        "text_id": "pg052_sec001_ans_item-3",
+        "text": "false",
+        "reason": "activity answer value or technical state, not displayed prose"
+      },
+      {
+        "text_id": "pg052_sec001_ans_item-4",
+        "text": "false",
+        "reason": "activity answer value or technical state, not displayed prose"
+      },
+      {
+        "text_id": "pg052_sec001_ans_item-5",
+        "text": "false",
+        "reason": "activity answer value or technical state, not displayed prose"
+      },
+      {
+        "text_id": "pg052_sec001_ans_item-6",
+        "text": "true",
+        "reason": "activity answer value or technical state, not displayed prose"
+      },
+      {
+        "text_id": "pg052_sec001_ans_item-7",
+        "text": "false",
+        "reason": "activity answer value or technical state, not displayed prose"
+      },
+      {
+        "text_id": "pg052_sec001_ans_item-8",
+        "text": "true",
+        "reason": "activity answer value or technical state, not displayed prose"
+      },
+      {
+        "text_id": "pg052_sec001_ans_item-9",
+        "text": "false",
+        "reason": "activity answer value or technical state, not displayed prose"
+      },
+      {
+        "text_id": "pg052_sec001_ans_item-10",
+        "text": "false",
+        "reason": "activity answer value or technical state, not displayed prose"
+      },
+      {
+        "text_id": "pg052_sec001_ans_item-11",
+        "text": "true",
+        "reason": "activity answer value or technical state, not displayed prose"
+      },
+      {
+        "text_id": "pg052_sec001_ans_item-12",
+        "text": "false",
+        "reason": "activity answer value or technical state, not displayed prose"
+      },
+      {
+        "text_id": "pg052_sec001_ans_item-13",
+        "text": "false",
+        "reason": "activity answer value or technical state, not displayed prose"
+      },
+      {
+        "text_id": "pg052_sec001_ans_item-14",
+        "text": "true",
+        "reason": "activity answer value or technical state, not displayed prose"
+      },
+      {
+        "text_id": "pg056_sec001_ans_item-1",
+        "text": "true",
+        "reason": "activity answer value or technical state, not displayed prose"
+      },
+      {
+        "text_id": "pg059_sec001_ans_item-1",
+        "text": "false",
+        "reason": "activity answer value or technical state, not displayed prose"
+      },
+      {
+        "text_id": "pg059_sec001_ans_item-2",
+        "text": "true",
+        "reason": "activity answer value or technical state, not displayed prose"
+      },
+      {
+        "text_id": "pg059_sec001_ans_item-3",
+        "text": "false",
+        "reason": "activity answer value or technical state, not displayed prose"
+      },
+      {
+        "text_id": "pg059_sec001_ans_item-4",
+        "text": "true",
+        "reason": "activity answer value or technical state, not displayed prose"
+      },
+      {
+        "text_id": "pg059_sec001_ans_item-5",
+        "text": "false",
+        "reason": "activity answer value or technical state, not displayed prose"
+      },
+      {
+        "text_id": "pg059_sec001_ans_item-6",
+        "text": "false",
+        "reason": "activity answer value or technical state, not displayed prose"
+      },
+      {
+        "text_id": "pg059_sec001_ans_item-7",
+        "text": "false",
+        "reason": "activity answer value or technical state, not displayed prose"
+      },
+      {
+        "text_id": "pg059_sec001_ans_item-8",
+        "text": "true",
+        "reason": "activity answer value or technical state, not displayed prose"
+      },
+      {
+        "text_id": "pg062_sec001_ans_item-1",
+        "text": "true",
+        "reason": "activity answer value or technical state, not displayed prose"
+      },
+      {
+        "text_id": "pg062_sec001_ans_item-2",
+        "text": "false",
+        "reason": "activity answer value or technical state, not displayed prose"
+      },
+      {
+        "text_id": "pg062_sec001_ans_item-3",
+        "text": "false",
+        "reason": "activity answer value or technical state, not displayed prose"
+      },
+      {
+        "text_id": "pg062_sec001_ans_item-4",
+        "text": "true",
+        "reason": "activity answer value or technical state, not displayed prose"
+      },
+      {
+        "text_id": "pg062_sec001_ans_item-5",
+        "text": "false",
+        "reason": "activity answer value or technical state, not displayed prose"
+      },
+      {
+        "text_id": "pg062_sec001_ans_item-6",
+        "text": "true",
+        "reason": "activity answer value or technical state, not displayed prose"
+      },
+      {
+        "text_id": "pg062_sec001_ans_item-7",
+        "text": "false",
+        "reason": "activity answer value or technical state, not displayed prose"
+      },
+      {
+        "text_id": "pg062_sec001_ans_item-8",
+        "text": "false",
+        "reason": "activity answer value or technical state, not displayed prose"
+      },
+      {
+        "text_id": "pg074_sec001_ans_item-1",
+        "text": "true",
+        "reason": "activity answer value or technical state, not displayed prose"
+      },
+      {
+        "text_id": "pg074_sec001_ans_item-2",
+        "text": "false",
+        "reason": "activity answer value or technical state, not displayed prose"
+      },
+      {
+        "text_id": "pg074_sec001_ans_item-3",
+        "text": "true",
+        "reason": "activity answer value or technical state, not displayed prose"
+      },
+      {
+        "text_id": "pg074_sec001_ans_item-4",
+        "text": "false",
+        "reason": "activity answer value or technical state, not displayed prose"
+      },
+      {
+        "text_id": "pg084_sec001_ans_item-1",
+        "text": "true",
+        "reason": "activity answer value or technical state, not displayed prose"
+      },
+      {
+        "text_id": "pg084_sec001_ans_item-2",
+        "text": "true",
+        "reason": "activity answer value or technical state, not displayed prose"
+      },
+      {
+        "text_id": "pg084_sec001_ans_item-3",
+        "text": "true",
+        "reason": "activity answer value or technical state, not displayed prose"
+      },
+      {
+        "text_id": "pg084_sec001_ans_item-4",
+        "text": "true",
+        "reason": "activity answer value or technical state, not displayed prose"
+      },
+      {
+        "text_id": "pg084_sec001_ans_item-5",
+        "text": "true",
+        "reason": "activity answer value or technical state, not displayed prose"
+      },
+      {
+        "text_id": "pg084_sec001_ans_item-6",
+        "text": "true",
+        "reason": "activity answer value or technical state, not displayed prose"
+      },
+      {
+        "text_id": "pg086_sec001_ans_item-1",
+        "text": "o",
+        "reason": "activity answer value or technical state, not displayed prose"
+      },
+      {
+        "text_id": "pg086_sec001_ans_item-2",
+        "text": "tho",
+        "reason": "activity answer value or technical state, not displayed prose"
+      },
+      {
+        "text_id": "pg086_sec001_ans_item-3",
+        "text": "a",
+        "reason": "activity answer value or technical state, not displayed prose"
+      },
+      {
+        "text_id": "pg086_sec001_ans_item-4",
+        "text": "ng’a",
+        "reason": "activity answer value or technical state, not displayed prose"
+      },
+      {
+        "text_id": "pg086_sec001_ans_item-5",
+        "text": "dh a",
+        "reason": "activity answer value or technical state, not displayed prose"
+      },
+      {
+        "text_id": "pg086_sec001_ans_item-6",
+        "text": "ng’ o",
+        "reason": "activity answer value or technical state, not displayed prose"
+      },
+      {
+        "text_id": "pg086_sec001_ans_item-7",
+        "text": "th a",
+        "reason": "activity answer value or technical state, not displayed prose"
+      },
+      {
+        "text_id": "pg088_sec001_ans_item-1",
+        "text": "amenunua",
+        "reason": "activity answer value or technical state, not displayed prose"
+      },
+      {
+        "text_id": "pg091_sec001_ans_item-1",
+        "text": "chwa",
+        "reason": "activity answer value or technical state, not displayed prose"
+      },
+      {
+        "text_id": "pg091_sec001_ans_item-2",
+        "text": "nywe",
+        "reason": "activity answer value or technical state, not displayed prose"
+      },
+      {
+        "text_id": "pg091_sec001_ans_item-3",
+        "text": "ndwa",
+        "reason": "activity answer value or technical state, not displayed prose"
+      },
+      {
+        "text_id": "pg091_sec001_ans_item-4",
+        "text": "ndw",
+        "reason": "activity answer value or technical state, not displayed prose"
+      },
+      {
+        "text_id": "pg091_sec001_ans_item-5",
+        "text": "a",
+        "reason": "activity answer value or technical state, not displayed prose"
+      },
+      {
+        "text_id": "pg091_sec001_ans_item-6",
+        "text": "mbw",
+        "reason": "activity answer value or technical state, not displayed prose"
+      },
+      {
+        "text_id": "pg091_sec001_ans_item-7",
+        "text": "e",
+        "reason": "activity answer value or technical state, not displayed prose"
+      },
+      {
+        "text_id": "pg091_sec001_ans_item-8",
+        "text": "mch",
+        "reason": "activity answer value or technical state, not displayed prose"
+      },
+      {
+        "text_id": "pg091_sec001_ans_item-9",
+        "text": "wa",
+        "reason": "activity answer value or technical state, not displayed prose"
+      },
+      {
+        "text_id": "pg091_sec001_ans_item-10",
+        "text": "mbwe",
+        "reason": "activity answer value or technical state, not displayed prose"
+      },
+      {
+        "text_id": "pg091_sec001_ans_item-11",
+        "text": "ha",
+        "reason": "activity answer value or technical state, not displayed prose"
+      },
+      {
+        "text_id": "pg091_sec001_ans_item-12",
+        "text": "pen",
+        "reason": "activity answer value or technical state, not displayed prose"
+      },
+      {
+        "text_id": "pg091_sec001_ans_item-13",
+        "text": "dwa",
+        "reason": "activity answer value or technical state, not displayed prose"
+      },
+      {
+        "text_id": "pg092_sec001_ans_item-1",
+        "text": "pande",
+        "reason": "activity answer value or technical state, not displayed prose"
+      },
+      {
+        "text_id": "pg092_sec001_ans_item-2",
+        "text": "kiwa",
+        "reason": "activity answer value or technical state, not displayed prose"
+      },
+      {
+        "text_id": "pg092_sec001_ans_item-3",
+        "text": "ngwara",
+        "reason": "activity answer value or technical state, not displayed prose"
+      },
+      {
+        "text_id": "pg092_sec001_ans_item-4",
+        "text": "wapi",
+        "reason": "activity answer value or technical state, not displayed prose"
+      },
+      {
+        "text_id": "pg092_sec001_ans_item-5",
+        "text": "nywele",
+        "reason": "activity answer value or technical state, not displayed prose"
+      },
+      {
+        "text_id": "pg097_sec001_ans_item-1",
+        "text": "dropzone-2",
+        "reason": "matching-activity term or definition fragment, not a sentence start"
+      },
+      {
+        "text_id": "pg097_sec001_ans_item-2",
+        "text": "dropzone-4",
+        "reason": "matching-activity term or definition fragment, not a sentence start"
+      },
+      {
+        "text_id": "pg097_sec001_ans_item-3",
+        "text": "dropzone-1",
+        "reason": "matching-activity term or definition fragment, not a sentence start"
+      },
+      {
+        "text_id": "pg097_sec001_ans_item-4",
+        "text": "dropzone-3",
+        "reason": "matching-activity term or definition fragment, not a sentence start"
+      },
+      {
+        "text_id": "pg104_sec001_ans_item-7",
+        "text": "kuthaminiwa",
+        "reason": "activity answer value or technical state, not displayed prose"
+      },
+      {
+        "text_id": "pg104_sec001_ans_item-8",
+        "text": "kuheshimiwa",
+        "reason": "activity answer value or technical state, not displayed prose"
+      },
+      {
+        "text_id": "pg104_sec001_ans_item-9",
+        "text": "kutosikia",
+        "reason": "activity answer value or technical state, not displayed prose"
+      },
+      {
+        "text_id": "pg104_sec001_ans_item-10",
+        "text": "ualbino",
+        "reason": "activity answer value or technical state, not displayed prose"
+      },
+      {
+        "text_id": "pg104_sec001_ans_item-11",
+        "text": "kufanya vizuri",
+        "reason": "activity answer value or technical state, not displayed prose"
+      }
+    ]
+  },
+  "bundle_version_at_fix": "30",
+  "last_verified_bundle_version": "33"
+}
