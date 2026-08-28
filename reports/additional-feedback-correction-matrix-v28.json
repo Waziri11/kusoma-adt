@@ -1,0 +1,1999 @@
+{
+  "bundle_version": "28",
+  "stable_base_id_count": 166,
+  "text_entry_count": 332,
+  "corrections": [
+    {
+      "base_id": "pg010_n0009",
+      "normal": {
+        "expected_old": "Taja matendo yanayofanywa na mtoto katika picha namba 1, 2, 3 na 4.",
+        "expected_new": "Taja au bainisha matendo yanayofanywa na mtoto katika picha namba 1, 2, 3 na 4."
+      },
+      "easy_read": {
+        "text_id": "pg010_n0009_easy_read",
+        "expected_old": "Taja matendo ambayo mtoto anafanya katika picha namba 1, 2, 3 na 4.",
+        "expected_new": "Taja au bainisha matendo ambayo mtoto anafanya katika picha namba 1, 2, 3 na 4."
+      }
+    },
+    {
+      "base_id": "pg011_n0017",
+      "normal": {
+        "expected_old": "Taja majina au matendo ya picha hizi.",
+        "expected_new": "Taja majina au bainisha matendo ya picha hizi."
+      },
+      "easy_read": {
+        "text_id": "pg011_n0017_easy_read",
+        "expected_old": "Taja majina au matendo katika picha hizi.",
+        "expected_new": "Taja majina au bainisha matendo ya picha hizi."
+      }
+    },
+    {
+      "base_id": "pg012_n0005",
+      "normal": {
+        "expected_old": "Tamka sauti za mwanzo za maneno uliyoyataja.",
+        "expected_new": "Tamka sauti au bainisha herufi za mwanzo za maneno uliyoyataja."
+      },
+      "easy_read": {
+        "text_id": "pg012_n0005_easy_read",
+        "expected_old": "Tamka sauti za mwanzo za maneno uliyo yataja.",
+        "expected_new": "Tamka sauti au bainisha herufi za mwanzo za maneno uliyo yataja."
+      }
+    },
+    {
+      "base_id": "pg012_n0008",
+      "normal": {
+        "expected_old": "Sauti za mwanzo za maneno yapi zinafanana?",
+        "expected_new": "sauti au herufi za mwanzo za maneno yapi zinafanana?"
+      },
+      "easy_read": {
+        "text_id": "pg012_n0008_easy_read",
+        "expected_old": "Ni maneno yapi yenye sauti za mwanzo zinazofanana?",
+        "expected_new": "Ni maneno yapi yenye sauti au herufi za mwanzo zinazofanana?"
+      }
+    },
+    {
+      "base_id": "pg012_n0011",
+      "normal": {
+        "expected_old": "Sauti ya mwanzo ya neno lipi haifanani na mengine?",
+        "expected_new": "sauti au herufi ya mwanzo ya neno lipi haifanani na mengine?"
+      },
+      "easy_read": {
+        "text_id": "pg012_n0011_easy_read",
+        "expected_old": "Ni neno lipi lenye sauti ya mwanzo isiyofanana na mengine?",
+        "expected_new": "Ni neno lipi lenye sauti au herufi ya mwanzo isiyofanana na mengine?"
+      }
+    },
+    {
+      "base_id": "pg013_n0006",
+      "normal": {
+        "expected_old": "Taja maneno manne ambayo sauti zake za mwanzo ni za herufi a.",
+        "expected_new": "Taja au bainisha maneno manne ambayo sauti zake za mwanzo ni za herufi a."
+      },
+      "easy_read": {
+        "text_id": "pg013_n0006_easy_read",
+        "expected_old": "Taja maneno 4 ambayo yanaanza na sauti ya herufi a.",
+        "expected_new": "Taja au bainisha maneno 4 ambayo yanaanza na sauti ya herufi a."
+      }
+    },
+    {
+      "base_id": "pg013_n0008",
+      "normal": {
+        "expected_old": "Tamka sauti ya mwanzo ya maneno haya.",
+        "expected_new": "Tamka sauti au bainisha herufi ya mwanzo ya maneno haya."
+      },
+      "easy_read": {
+        "text_id": "pg013_n0008_easy_read",
+        "expected_old": "Tamka sauti ya kwanza ya maneno haya.",
+        "expected_new": "Tamka sauti au bainisha herufi ya kwanza ya maneno haya."
+      }
+    },
+    {
+      "base_id": "pg013_n0032",
+      "normal": {
+        "expected_old": "Tamka sauti ya mwanzo ya neno ulilolitaja.",
+        "expected_new": "Tamka sauti au bainisha herufi ya mwanzo ya neno ulilolitaja."
+      },
+      "easy_read": {
+        "text_id": "pg013_n0032_easy_read",
+        "expected_old": "Tamka sauti ya kwanza ya neno ulilotaja.",
+        "expected_new": "Tamka sauti au bainisha herufi ya kwanza ya neno ulilotaja."
+      }
+    },
+    {
+      "base_id": "pg013_n0038",
+      "normal": {
+        "expected_old": "Taja maneno matano ambayo sauti zake za mwanzo ni za herufi e.",
+        "expected_new": "Taja au bainisha maneno matano ambayo sauti zake za mwanzo ni za herufi e."
+      },
+      "easy_read": {
+        "text_id": "pg013_n0038_easy_read",
+        "expected_old": "Taja maneno 5 ambayo yanaanza na sauti ya herufi e.",
+        "expected_new": "Taja au bainisha maneno 5 ambayo yanaanza na sauti ya herufi e."
+      }
+    },
+    {
+      "base_id": "pg013_n0040",
+      "normal": {
+        "expected_old": "Tamka sauti ya mwanzo ya maneno haya.",
+        "expected_new": "Tamka sauti au bainisha herufi ya mwanzo ya maneno haya."
+      },
+      "easy_read": {
+        "text_id": "pg013_n0040_easy_read",
+        "expected_old": "Tamka sauti ya kwanza ya maneno haya.",
+        "expected_new": "Tamka sauti au bainisha herufi ya kwanza ya maneno haya."
+      }
+    },
+    {
+      "base_id": "pg014_n0017",
+      "normal": {
+        "expected_old": "5. Tamka sauti ya mwanzo ya neno ulilolitaja.",
+        "expected_new": "5. Tamka sauti au bainisha herufi ya mwanzo ya neno ulilolitaja."
+      },
+      "easy_read": {
+        "text_id": "pg014_n0017_easy_read",
+        "expected_old": "5. Tamka sauti ya kwanza ya neno ulilotaja.",
+        "expected_new": "5. Tamka sauti au bainisha herufi ya kwanza ya neno ulilotaja."
+      }
+    },
+    {
+      "base_id": "pg014_n0023",
+      "normal": {
+        "expected_old": "Taja maneno manne ambayo sauti zake za mwanzo ni za herufi i.",
+        "expected_new": "Taja au bainisha maneno manne ambayo sauti zake za mwanzo ni za herufi i."
+      },
+      "easy_read": {
+        "text_id": "pg014_n0023_easy_read",
+        "expected_old": "Taja maneno 4 ambayo yanaanza na sauti ya herufi i.",
+        "expected_new": "Taja au bainisha maneno 4 ambayo yanaanza na sauti ya herufi i."
+      }
+    },
+    {
+      "base_id": "pg014_n0025",
+      "normal": {
+        "expected_old": "Tamka sauti ya mwanzo ya maneno haya.",
+        "expected_new": "Tamka sauti au bainisha herufi ya mwanzo ya maneno haya."
+      },
+      "easy_read": {
+        "text_id": "pg014_n0025_easy_read",
+        "expected_old": "Tamka sauti ya kwanza ya maneno haya.",
+        "expected_new": "Tamka sauti au bainisha herufi ya kwanza ya maneno haya."
+      }
+    },
+    {
+      "base_id": "pg014_n0050",
+      "normal": {
+        "expected_old": "5. Tamka sauti ya mwanzo ya neno ulilolitaja.",
+        "expected_new": "5. Tamka sauti au bainisha herufi ya mwanzo ya neno ulilolitaja."
+      },
+      "easy_read": {
+        "text_id": "pg014_n0050_easy_read",
+        "expected_old": "5. Tamka sauti ya kwanza ya neno ulilotaja.",
+        "expected_new": "5. Tamka sauti au bainisha herufi ya kwanza ya neno ulilotaja."
+      }
+    },
+    {
+      "base_id": "pg015_n0006",
+      "normal": {
+        "expected_old": "Taja maneno matano ambayo sauti zake za mwanzo ni za herufi o.",
+        "expected_new": "Taja au bainisha maneno matano ambayo sauti zake za mwanzo ni za herufi o."
+      },
+      "easy_read": {
+        "text_id": "pg015_n0006_easy_read",
+        "expected_old": "Taja maneno 5 ambayo yanaanza na sauti ya herufi o.",
+        "expected_new": "Taja au bainisha maneno 5 ambayo yanaanza na sauti ya herufi o."
+      }
+    },
+    {
+      "base_id": "pg015_n0008",
+      "normal": {
+        "expected_old": "Tamka sauti ya mwanzo ya maneno haya.",
+        "expected_new": "Tamka sauti au bainisha herufi ya mwanzo ya maneno haya."
+      },
+      "easy_read": {
+        "text_id": "pg015_n0008_easy_read",
+        "expected_old": "Tamka sauti ya mwanzo ya maneno haya.",
+        "expected_new": "Tamka sauti au bainisha herufi ya mwanzo ya maneno haya."
+      }
+    },
+    {
+      "base_id": "pg015_n0033",
+      "normal": {
+        "expected_old": "Tamka sauti ya mwanzo ya neno ulilolitaja.",
+        "expected_new": "Tamka sauti au bainisha herufi ya mwanzo ya neno ulilolitaja."
+      },
+      "easy_read": {
+        "text_id": "pg015_n0033_easy_read",
+        "expected_old": "Tamka sauti ya mwanzo ya neno ulilotaja.",
+        "expected_new": "Tamka sauti au bainisha herufi ya mwanzo ya neno ulilotaja."
+      }
+    },
+    {
+      "base_id": "pg015_n0039",
+      "normal": {
+        "expected_old": "Taja maneno manne ambayo sauti zake za mwanzo ni za herufi u.",
+        "expected_new": "Taja au bainisha maneno manne ambayo sauti zake za mwanzo ni za herufi u."
+      },
+      "easy_read": {
+        "text_id": "pg015_n0039_easy_read",
+        "expected_old": "Taja maneno 4 ambayo yanaanza na sauti ya herufi u.",
+        "expected_new": "Taja au bainisha maneno 4 ambayo yanaanza na sauti ya herufi u."
+      }
+    },
+    {
+      "base_id": "pg015_n0041",
+      "normal": {
+        "expected_old": "Tamka sauti ya mwanzo ya maneno haya.",
+        "expected_new": "Tamka sauti au bainisha herufi ya mwanzo ya maneno haya."
+      },
+      "easy_read": {
+        "text_id": "pg015_n0041_easy_read",
+        "expected_old": "Tamka sauti ya mwanzo ya maneno haya.",
+        "expected_new": "Tamka sauti au bainisha herufi ya mwanzo ya maneno haya."
+      }
+    },
+    {
+      "base_id": "pg016_n0006",
+      "normal": {
+        "expected_old": "5. Tamka sauti ya mwanzo ya neno ulilolitaja.",
+        "expected_new": "5. Tamka sauti au bainisha herufi ya mwanzo ya neno ulilolitaja."
+      },
+      "easy_read": {
+        "text_id": "pg016_n0006_easy_read",
+        "expected_old": "5. Tamka sauti ya kwanza ya neno ulilotaja.",
+        "expected_new": "5. Tamka sauti au bainisha herufi ya kwanza ya neno ulilotaja."
+      }
+    },
+    {
+      "base_id": "pg016_n0011",
+      "normal": {
+        "expected_old": "Tamka sauti ya mwanzo ya maneno haya kwa kurudiarudia.",
+        "expected_new": "Tamka sauti au bainisha herufi ya mwanzo ya maneno haya kwa kurudiarudia."
+      },
+      "easy_read": {
+        "text_id": "pg016_n0011_easy_read",
+        "expected_old": "Tamka sauti ya kwanza ya maneno haya.\nRudia tena na tena.",
+        "expected_new": "Tamka sauti au bainisha herufi ya kwanza ya maneno haya.\nRudia tena na tena."
+      }
+    },
+    {
+      "base_id": "pg017_n0010",
+      "normal": {
+        "expected_old": "Utajifunza namna ya kuzitamka, kuziunganisha na kuunda silabi.",
+        "expected_new": "Utajifunza namna ya kuzitamka, kubainisha, kuziunganisha na kuunda silabi."
+      },
+      "easy_read": {
+        "text_id": "pg017_n0010_easy_read",
+        "expected_old": "Utajifunza jinsi ya kuzitamka, kuziunganisha, na kuunda silabi.",
+        "expected_new": "Utajifunza jinsi ya kuzitamka, kubainisha, kuziunganisha, na kuunda silabi."
+      }
+    },
+    {
+      "base_id": "pg017_n0017",
+      "normal": {
+        "expected_old": "1. Tamka sauti ya mwanzo ya neno ulilolitaja.",
+        "expected_new": "1. Tamka sauti au bainisha herufi ya mwanzo ya neno ulilolitaja."
+      },
+      "easy_read": {
+        "text_id": "pg017_n0017_easy_read",
+        "expected_old": "1. Tamka sauti ya mwanzo ya neno ulilotaja.",
+        "expected_new": "1. Tamka sauti au bainisha herufi ya mwanzo ya neno ulilotaja."
+      }
+    },
+    {
+      "base_id": "pg017_n0019",
+      "normal": {
+        "expected_old": "2. Taja maneno mengine yanayoanza na sauti hiyo.",
+        "expected_new": "2. Taja maneno mengine yanayoanza na sauti au herufi hiyo."
+      },
+      "easy_read": {
+        "text_id": "pg017_n0019_easy_read",
+        "expected_old": "2. Taja maneno mengine yanayoanza na sauti hiyo.",
+        "expected_new": "2. Taja maneno mengine yanayoanza na sauti au herufi hiyo."
+      }
+    },
+    {
+      "base_id": "pg017_n0023",
+      "normal": {
+        "expected_old": "1. Tamka sauti za mwanzo za maneno uliyoyataja.",
+        "expected_new": "1. Tamka sauti au bainisha herufi za mwanzo za maneno uliyoyataja."
+      },
+      "easy_read": {
+        "text_id": "pg017_n0023_easy_read",
+        "expected_old": "1. Tamka sauti za mwanzo za maneno uliyotaja.",
+        "expected_new": "1. Tamka sauti au bainisha herufi za mwanzo za maneno uliyotaja."
+      }
+    },
+    {
+      "base_id": "pg017_n0025",
+      "normal": {
+        "expected_old": "2. Sauti za mwanzo za majina yapi zinafanana?",
+        "expected_new": "2. sauti au herufi za mwanzo za majina yapi zinafanana?"
+      },
+      "easy_read": {
+        "text_id": "pg017_n0025_easy_read",
+        "expected_old": "2. Sauti za mwanzo za majina yapi zinafanana?",
+        "expected_new": "2. sauti au herufi za mwanzo za majina yapi zinafanana?"
+      }
+    },
+    {
+      "base_id": "pg017_n0027",
+      "normal": {
+        "expected_old": "3. Sauti ya mwanzo ya jina lipi haifanani na mengine?",
+        "expected_new": "3. sauti au herufi ya mwanzo ya jina lipi haifanani na mengine?"
+      },
+      "easy_read": {
+        "text_id": "pg017_n0027_easy_read",
+        "expected_old": "3. Sauti ya mwanzo ya jina lipi haitofautiani na mengine?",
+        "expected_new": "3. sauti au herufi ya mwanzo ya jina lipi haitofautiani na mengine?"
+      }
+    },
+    {
+      "base_id": "pg018_n0005",
+      "normal": {
+        "expected_old": "Onesha na tamka sauti ya herufi b.",
+        "expected_new": "Onesha au tamka sauti ya herufi b."
+      },
+      "easy_read": {
+        "text_id": "pg018_n0005_easy_read",
+        "expected_old": "Onesha sauti ya herufi b.\nKisha itamke.",
+        "expected_new": "Onesha sauti ya herufi b.\nAu itamke."
+      }
+    },
+    {
+      "base_id": "pg019_n0044",
+      "normal": {
+        "expected_old": "Tamka sauti ya mwanzo ya neno ulilolitaja.",
+        "expected_new": "Tamka sauti au bainisha herufi ya mwanzo ya neno ulilolitaja."
+      },
+      "easy_read": {
+        "text_id": "pg019_n0044_easy_read",
+        "expected_old": "Tamka sauti ya kwanza ya neno ulilotaja.",
+        "expected_new": "Tamka sauti au bainisha herufi ya kwanza ya neno ulilotaja."
+      }
+    },
+    {
+      "base_id": "pg019_n0046",
+      "normal": {
+        "expected_old": "Taja maneno mengine yanayoanza na sauti hiyo.",
+        "expected_new": "Taja maneno mengine yanayoanza na sauti au herufi hiyo."
+      },
+      "easy_read": {
+        "text_id": "pg019_n0046_easy_read",
+        "expected_old": "Taja maneno mengine yanayoanza na sauti hiyo.",
+        "expected_new": "Taja maneno mengine yanayoanza na sauti au herufi hiyo."
+      }
+    },
+    {
+      "base_id": "pg019_n0050",
+      "normal": {
+        "expected_old": "Tamka sauti za mwanzo za maneno uliyoyataja.",
+        "expected_new": "Tamka sauti au bainisha herufi za mwanzo za maneno uliyoyataja."
+      },
+      "easy_read": {
+        "text_id": "pg019_n0050_easy_read",
+        "expected_old": "Tamka sauti za kwanza za maneno uliyotaja.",
+        "expected_new": "Tamka sauti au bainisha herufi za kwanza za maneno uliyotaja."
+      }
+    },
+    {
+      "base_id": "pg019_n0052",
+      "normal": {
+        "expected_old": "Sauti za mwanzo za majina yapi zinafanana?",
+        "expected_new": "sauti au herufi za mwanzo za majina yapi zinafanana?"
+      },
+      "easy_read": {
+        "text_id": "pg019_n0052_easy_read",
+        "expected_old": "Sauti za kwanza za majina yapi zinafanana?",
+        "expected_new": "sauti au herufi za kwanza za majina yapi zinafanana?"
+      }
+    },
+    {
+      "base_id": "pg019_n0054",
+      "normal": {
+        "expected_old": "Sauti ya mwanzo ya jina lipi haifanani na mengine?",
+        "expected_new": "sauti au herufi ya mwanzo ya jina lipi haifanani na mengine?"
+      },
+      "easy_read": {
+        "text_id": "pg019_n0054_easy_read",
+        "expected_old": "Sauti ya kwanza ya jina gani haifanani na mengine?",
+        "expected_new": "sauti au herufi ya kwanza ya jina gani haifanani na mengine?"
+      }
+    },
+    {
+      "base_id": "pg021_n0019",
+      "normal": {
+        "expected_old": "1. Tamka sauti ya mwanzo ya neno ulilolitaja.",
+        "expected_new": "1. Tamka sauti au bainisha herufi ya mwanzo ya neno ulilolitaja."
+      },
+      "easy_read": {
+        "text_id": "pg021_n0019_easy_read",
+        "expected_old": "1. Sema sauti ya kwanza ya neno ulilotaja.",
+        "expected_new": "1. Sema sauti au bainisha herufi ya kwanza ya neno ulilotaja."
+      }
+    },
+    {
+      "base_id": "pg021_n0021",
+      "normal": {
+        "expected_old": "2. Taja maneno mengine yanayoanza na sauti hiyo.",
+        "expected_new": "2. Taja maneno mengine yanayoanza na sauti au herufi hiyo."
+      },
+      "easy_read": {
+        "text_id": "pg021_n0021_easy_read",
+        "expected_old": "2. Taja maneno mengine yanayoanza na sauti hiyo.",
+        "expected_new": "2. Taja maneno mengine yanayoanza na sauti au herufi hiyo."
+      }
+    },
+    {
+      "base_id": "pg021_n0027",
+      "normal": {
+        "expected_old": "1. Tamka sauti za mwanzo za maneno uliyoyataja.",
+        "expected_new": "1. Tamka sauti au bainisha herufi za mwanzo za maneno uliyoyataja."
+      },
+      "easy_read": {
+        "text_id": "pg021_n0027_easy_read",
+        "expected_old": "1. Sema sauti za kwanza za maneno uliyotaja.",
+        "expected_new": "1. Sema sauti au bainisha herufi za kwanza za maneno uliyotaja."
+      }
+    },
+    {
+      "base_id": "pg021_n0029",
+      "normal": {
+        "expected_old": "2. Sauti za mwanzo za majina yapi zinafanana?",
+        "expected_new": "2. sauti au herufi za mwanzo za majina yapi zinafanana?"
+      },
+      "easy_read": {
+        "text_id": "pg021_n0029_easy_read",
+        "expected_old": "2. Sauti za kwanza za majina gani zinafanana?",
+        "expected_new": "2. sauti au herufi za kwanza za majina gani zinafanana?"
+      }
+    },
+    {
+      "base_id": "pg021_n0031",
+      "normal": {
+        "expected_old": "3. Sauti ya mwanzo ya jina lipi haifanani na mengine?",
+        "expected_new": "3. sauti au herufi ya mwanzo ya jina lipi haifanani na mengine?"
+      },
+      "easy_read": {
+        "text_id": "pg021_n0031_easy_read",
+        "expected_old": "3. Sauti ya kwanza ya jina gani haifanani na mengine?",
+        "expected_new": "3. sauti au herufi ya kwanza ya jina gani haifanani na mengine?"
+      }
+    },
+    {
+      "base_id": "pg023_n0080",
+      "normal": {
+        "expected_old": "1. Tamka sauti ya mwanzo ya neno ulilolitaja.",
+        "expected_new": "1. Tamka sauti au bainisha herufi ya mwanzo ya neno ulilolitaja."
+      },
+      "easy_read": {
+        "text_id": "pg023_n0080_easy_read",
+        "expected_old": "1. Tamka sauti ya mwanzo ya neno ulilotaja.",
+        "expected_new": "1. Tamka sauti au bainisha herufi ya mwanzo ya neno ulilotaja."
+      }
+    },
+    {
+      "base_id": "pg024_n0003",
+      "normal": {
+        "expected_old": "Tamka sauti za mwanzo za maneno uliyoyataja.",
+        "expected_new": "Tamka sauti au bainisha herufi za mwanzo za maneno uliyoyataja."
+      },
+      "easy_read": {
+        "text_id": "pg024_n0003_easy_read",
+        "expected_old": "Tamka sauti ya mwanzo ya kila neno ulilotaja.",
+        "expected_new": "Tamka sauti au bainisha herufi ya mwanzo ya kila neno ulilotaja."
+      }
+    },
+    {
+      "base_id": "pg025_n0083",
+      "normal": {
+        "expected_old": "1. Tamka sauti ya mwanzo ya neno ulilolitaja.",
+        "expected_new": "1. Tamka sauti au bainisha herufi ya mwanzo ya neno ulilolitaja."
+      },
+      "easy_read": {
+        "text_id": "pg025_n0083_easy_read",
+        "expected_old": "1. Tamka sauti ya kwanza ya neno ulilotaja.",
+        "expected_new": "1. Tamka sauti au bainisha herufi ya kwanza ya neno ulilotaja."
+      }
+    },
+    {
+      "base_id": "pg026_n0005",
+      "normal": {
+        "expected_old": "1. Tamka sauti ya mwanzo ya kila neno ulilolitaja.",
+        "expected_new": "1. Tamka sauti au bainisha herufi ya mwanzo ya kila neno ulilolitaja."
+      },
+      "easy_read": {
+        "text_id": "pg026_n0005_easy_read",
+        "expected_old": "1. Tamka sauti ya kwanza ya kila neno ulilotaja.",
+        "expected_new": "1. Tamka sauti au bainisha herufi ya kwanza ya kila neno ulilotaja."
+      }
+    },
+    {
+      "base_id": "pg026_n0007",
+      "normal": {
+        "expected_old": "2. Sauti za mwanzo za majina yapi zinafanana?",
+        "expected_new": "2. sauti au herufi za mwanzo za majina yapi zinafanana?"
+      },
+      "easy_read": {
+        "text_id": "pg026_n0007_easy_read",
+        "expected_old": "2. Ni majina yapi yenye sauti ya kwanza inayofanana?",
+        "expected_new": "2. Ni majina yapi yenye sauti au herufi ya kwanza inayofanana?"
+      }
+    },
+    {
+      "base_id": "pg026_n0009",
+      "normal": {
+        "expected_old": "3. Sauti ya mwanzo ya jina lipi haifanani na mengine?",
+        "expected_new": "3. sauti au herufi ya mwanzo ya jina lipi haifanani na mengine?"
+      },
+      "easy_read": {
+        "text_id": "pg026_n0009_easy_read",
+        "expected_old": "3. Ni jina lipi lenye sauti ya kwanza isiyofanana na mengine?",
+        "expected_new": "3. Ni jina lipi lenye sauti au herufi ya kwanza isiyofanana na mengine?"
+      }
+    },
+    {
+      "base_id": "pg027_n0009",
+      "normal": {
+        "expected_old": "Tamka sauti za herufi zinazounda silabi na maneno.",
+        "expected_new": "Tamka sauti au bainisha herufi za herufi zinazounda silabi na maneno."
+      },
+      "easy_read": {
+        "text_id": "pg027_n0009_easy_read",
+        "expected_old": "Tamka sauti za herufi za silabi na maneno.",
+        "expected_new": "Tamka sauti au bainisha herufi za herufi za silabi na maneno."
+      }
+    },
+    {
+      "base_id": "pg030_n0009",
+      "normal": {
+        "expected_old": "Utajifunza namna ya kuzitamka, kuziunganisha na kuunda silabi.",
+        "expected_new": "Utajifunza namna ya kuzitamka, kubainisha, kuziunganisha na kuunda silabi."
+      },
+      "easy_read": {
+        "text_id": "pg030_n0009_easy_read",
+        "expected_old": "Utajifunza jinsi ya kutamka sauti hizi, kuziunganisha, na kuunda silabi.",
+        "expected_new": "Utajifunza jinsi ya kutamka na kubainisha sauti hizi, kuziunganisha, na kuunda silabi."
+      }
+    },
+    {
+      "base_id": "pg030_n0016",
+      "normal": {
+        "expected_old": "Tamka sauti ya mwanzo ya neno ulilolitaja.",
+        "expected_new": "Tamka sauti au bainisha herufi ya mwanzo ya neno ulilolitaja."
+      },
+      "easy_read": {
+        "text_id": "pg030_n0016_easy_read",
+        "expected_old": "Tamka sauti ya mwanzo ya neno hilo.",
+        "expected_new": "Tamka sauti au bainisha herufi ya mwanzo ya neno hilo."
+      }
+    },
+    {
+      "base_id": "pg030_n0018",
+      "normal": {
+        "expected_old": "Taja maneno mengine yanayoanza na sauti hiyo.",
+        "expected_new": "Taja maneno mengine yanayoanza na sauti au herufi hiyo."
+      },
+      "easy_read": {
+        "text_id": "pg030_n0018_easy_read",
+        "expected_old": "Taja maneno mengine yanayoanza na sauti hiyo.",
+        "expected_new": "Taja maneno mengine yanayoanza na sauti au herufi hiyo."
+      }
+    },
+    {
+      "base_id": "pg030_n0023",
+      "normal": {
+        "expected_old": "Taja sauti za mwanzo za majina ya picha hizi.",
+        "expected_new": "Tamka sauti au bainisha herufi za mwanzo za majina ya picha hizi."
+      },
+      "easy_read": {
+        "text_id": "pg030_n0023_easy_read",
+        "expected_old": "Taja sauti za mwanzo za majina ya picha hizi.",
+        "expected_new": "Tamka sauti au bainisha herufi za mwanzo za majina ya picha hizi."
+      }
+    },
+    {
+      "base_id": "pg030_n0025",
+      "normal": {
+        "expected_old": "Majina ya picha zipi yana sauti za mwanzo zinazofanana?",
+        "expected_new": "Majina ya picha zipi yana sauti au herufi za mwanzo zinazofanana?"
+      },
+      "easy_read": {
+        "text_id": "pg030_n0025_easy_read",
+        "expected_old": "Majina ya picha zipi yana sauti za mwanzo zinazofanana?",
+        "expected_new": "Majina ya picha zipi yana sauti au herufi za mwanzo zinazofanana?"
+      }
+    },
+    {
+      "base_id": "pg030_n0027",
+      "normal": {
+        "expected_old": "Sauti ya mwanzo ya jina lipi haifanani na mengine?",
+        "expected_new": "sauti au herufi ya mwanzo ya jina lipi haifanani na mengine?"
+      },
+      "easy_read": {
+        "text_id": "pg030_n0027_easy_read",
+        "expected_old": "Sauti ya mwanzo ya jina lipi haifanani na sauti za mwanzo za majina mengine?",
+        "expected_new": "sauti au herufi ya mwanzo ya jina lipi haifanani na sauti za mwanzo za majina mengine?"
+      }
+    },
+    {
+      "base_id": "pg031_n0003",
+      "normal": {
+        "expected_old": "Tamka sauti ya herufi hii.",
+        "expected_new": "Tamka sauti au bainisha herufi ya herufi hii."
+      },
+      "easy_read": {
+        "text_id": "pg031_n0003_easy_read",
+        "expected_old": "Tamka sauti ya herufi hii.",
+        "expected_new": "Tamka sauti au bainisha herufi ya herufi hii."
+      }
+    },
+    {
+      "base_id": "pg031_n0007",
+      "normal": {
+        "expected_old": "Onesha na tamka sauti ya herufi l.",
+        "expected_new": "Onesha na tamka sauti au bainisha herufi ya herufi l."
+      },
+      "easy_read": {
+        "text_id": "pg031_n0007_easy_read",
+        "expected_old": "Onesha na tamka sauti ya herufi l.",
+        "expected_new": "Onesha na tamka sauti au bainisha herufi ya herufi l."
+      }
+    },
+    {
+      "base_id": "pg032_n0002",
+      "normal": {
+        "expected_old": "Tamka sauti za herufi zinazounda silabi na maneno.",
+        "expected_new": "Tamka sauti au bainisha herufi za herufi zinazounda silabi na maneno."
+      },
+      "easy_read": {
+        "text_id": "pg032_n0002_easy_read",
+        "expected_old": "Tamka sauti za herufi za silabi na maneno.",
+        "expected_new": "Tamka sauti au bainisha herufi za herufi za silabi na maneno."
+      }
+    },
+    {
+      "base_id": "pg032_n0084",
+      "normal": {
+        "expected_old": "1. Tamka sauti ya mwanzo ya neno ulilolitaja.",
+        "expected_new": "1. Tamka sauti au bainisha herufi ya mwanzo ya neno ulilolitaja."
+      },
+      "easy_read": {
+        "text_id": "pg032_n0084_easy_read",
+        "expected_old": "1. Tamka sauti ya kwanza ya neno ulilotaja.",
+        "expected_new": "1. Tamka sauti au bainisha herufi ya kwanza ya neno ulilotaja."
+      }
+    },
+    {
+      "base_id": "pg032_n0086",
+      "normal": {
+        "expected_old": "2. Taja maneno mengine yanayoanza na sauti hiyo.",
+        "expected_new": "2. Taja maneno mengine yanayoanza na sauti au herufi hiyo."
+      },
+      "easy_read": {
+        "text_id": "pg032_n0086_easy_read",
+        "expected_old": "2. Taja maneno mengine yanayoanza na sauti hiyo.",
+        "expected_new": "2. Taja maneno mengine yanayoanza na sauti au herufi hiyo."
+      }
+    },
+    {
+      "base_id": "pg033_n0005",
+      "normal": {
+        "expected_old": "Sauti za mwanzo za majina yapi zinafanana?",
+        "expected_new": "sauti au herufi za mwanzo za majina yapi zinafanana?"
+      },
+      "easy_read": {
+        "text_id": "pg033_n0005_easy_read",
+        "expected_old": "Majina yapi yana sauti ya mwanzo inayofanana?",
+        "expected_new": "Majina yapi yana sauti au herufi ya mwanzo inayofanana?"
+      }
+    },
+    {
+      "base_id": "pg033_n0007",
+      "normal": {
+        "expected_old": "Sauti ya mwanzo ya jina lipi halifanani na mengine?",
+        "expected_new": "sauti au herufi ya mwanzo ya jina lipi halifanani na mengine?"
+      },
+      "easy_read": {
+        "text_id": "pg033_n0007_easy_read",
+        "expected_old": "Jina lipi lina sauti ya mwanzo isiyofanana na mengine?",
+        "expected_new": "Jina lipi lina sauti au herufi ya mwanzo isiyofanana na mengine?"
+      }
+    },
+    {
+      "base_id": "pg033_n0029",
+      "normal": {
+        "expected_old": "Tamka sauti za herufi zinazounda silabi na maneno.",
+        "expected_new": "Tamka sauti au bainisha herufi za herufi zinazounda silabi na maneno."
+      },
+      "easy_read": {
+        "text_id": "pg033_n0029_easy_read",
+        "expected_old": "Tamka sauti za herufi zinazounda silabi na maneno.",
+        "expected_new": "Tamka sauti au bainisha herufi za herufi zinazounda silabi na maneno."
+      }
+    },
+    {
+      "base_id": "pg035_n0010",
+      "normal": {
+        "expected_old": "Tamka sauti ya mwanzo ya neno ulilolitaja.",
+        "expected_new": "Tamka sauti au bainisha herufi ya mwanzo ya neno ulilolitaja."
+      },
+      "easy_read": {
+        "text_id": "pg035_n0010_easy_read",
+        "expected_old": "Sema sauti ya kwanza ya neno ulilotaja.",
+        "expected_new": "Sema sauti au bainisha herufi ya kwanza ya neno ulilotaja."
+      }
+    },
+    {
+      "base_id": "pg035_n0012",
+      "normal": {
+        "expected_old": "Taja maneno mengine yanayoanza na sauti hiyo.",
+        "expected_new": "Taja maneno mengine yanayoanza na sauti au herufi hiyo."
+      },
+      "easy_read": {
+        "text_id": "pg035_n0012_easy_read",
+        "expected_old": "Taja maneno mengine yanayoanza na sauti hiyo.",
+        "expected_new": "Taja maneno mengine yanayoanza na sauti au herufi hiyo."
+      }
+    },
+    {
+      "base_id": "pg036_n0004",
+      "normal": {
+        "expected_old": "Sauti za mwanzo za majina yapi zinafanana?",
+        "expected_new": "sauti au herufi za mwanzo za majina yapi zinafanana?"
+      },
+      "easy_read": {
+        "text_id": "pg036_n0004_easy_read",
+        "expected_old": "Ni majina yapi yana sauti ya mwanzo inayofanana?",
+        "expected_new": "Ni majina yapi yana sauti au herufi ya mwanzo inayofanana?"
+      }
+    },
+    {
+      "base_id": "pg036_n0007",
+      "normal": {
+        "expected_old": "Sauti ya mwanzo ya jina lipi haifanani na mengine?",
+        "expected_new": "sauti au herufi ya mwanzo ya jina lipi haifanani na mengine?"
+      },
+      "easy_read": {
+        "text_id": "pg036_n0007_easy_read",
+        "expected_old": "Ni jina lipi lenye sauti ya mwanzo ambayo haifanani na mengine?",
+        "expected_new": "Ni jina lipi lenye sauti au herufi ya mwanzo ambayo haifanani na mengine?"
+      }
+    },
+    {
+      "base_id": "pg036_n0027",
+      "normal": {
+        "expected_old": "Kisha tamka sauti za herufi zinazounda silabi na maneno.",
+        "expected_new": "Kisha tamka sauti au bainisha herufi za herufi zinazounda silabi na maneno."
+      },
+      "easy_read": {
+        "text_id": "pg036_n0027_easy_read",
+        "expected_old": "Kisha tamka sauti za herufi zinazounda silabi na maneno.",
+        "expected_new": "Kisha tamka sauti au bainisha herufi za herufi zinazounda silabi na maneno."
+      }
+    },
+    {
+      "base_id": "pg038_n0006",
+      "normal": {
+        "expected_old": "1. Tamka sauti ya mwanzo ya neno ulilolitaja.",
+        "expected_new": "1. Tamka sauti au bainisha herufi ya mwanzo ya neno ulilolitaja."
+      },
+      "easy_read": {
+        "text_id": "pg038_n0006_easy_read",
+        "expected_old": "1. Tamka sauti ya kwanza ya neno ulilotaja.",
+        "expected_new": "1. Tamka sauti au bainisha herufi ya kwanza ya neno ulilotaja."
+      }
+    },
+    {
+      "base_id": "pg038_n0008",
+      "normal": {
+        "expected_old": "2. Taja maneno mengine yanayoanza na sauti hiyo.",
+        "expected_new": "2. Taja maneno mengine yanayoanza na sauti au herufi hiyo."
+      },
+      "easy_read": {
+        "text_id": "pg038_n0008_easy_read",
+        "expected_old": "2. Taja maneno mengine yanayoanza na sauti hiyo.",
+        "expected_new": "2. Taja maneno mengine yanayoanza na sauti au herufi hiyo."
+      }
+    },
+    {
+      "base_id": "pg038_n0012",
+      "normal": {
+        "expected_old": "1. Sauti za mwanzo za majina yapi zinafanana?",
+        "expected_new": "1. sauti au herufi za mwanzo za majina yapi zinafanana?"
+      },
+      "easy_read": {
+        "text_id": "pg038_n0012_easy_read",
+        "expected_old": "1. Sauti za kwanza za majina gani zinafanana?",
+        "expected_new": "1. sauti au herufi za kwanza za majina gani zinafanana?"
+      }
+    },
+    {
+      "base_id": "pg038_n0014",
+      "normal": {
+        "expected_old": "2. Sauti ya mwanzo ya jina lipi haifanani na mengine?",
+        "expected_new": "2. sauti au herufi ya mwanzo ya jina lipi haifanani na mengine?"
+      },
+      "easy_read": {
+        "text_id": "pg038_n0014_easy_read",
+        "expected_old": "2. Sauti ya kwanza ya jina gani haifanani na mengine?",
+        "expected_new": "2. sauti au herufi ya kwanza ya jina gani haifanani na mengine?"
+      }
+    },
+    {
+      "base_id": "pg039_n0012",
+      "normal": {
+        "expected_old": "Tamka sauti za herufi zinazounda silabi na maneno.",
+        "expected_new": "Tamka sauti au bainisha herufi za herufi zinazounda silabi na maneno."
+      },
+      "easy_read": {
+        "text_id": "pg039_n0012_easy_read",
+        "expected_old": "Tamka sauti za herufi zinazotengeneza silabi na maneno.",
+        "expected_new": "Tamka sauti au bainisha herufi za herufi zinazotengeneza silabi na maneno."
+      }
+    },
+    {
+      "base_id": "pg041_n0009",
+      "normal": {
+        "expected_old": "Utajifunza namna ya kuzitamka, kuziunganisha na kuunda silabi.",
+        "expected_new": "Utajifunza namna ya kuzitamka, kubainisha, kuziunganisha na kuunda silabi."
+      },
+      "easy_read": {
+        "text_id": "pg041_n0009_easy_read",
+        "expected_old": "Utajifunza jinsi ya kuzitamka, kuziunganisha na kuunda silabi.",
+        "expected_new": "Utajifunza jinsi ya kuzitamka, kubainisha, kuziunganisha na kuunda silabi."
+      }
+    },
+    {
+      "base_id": "pg041_n0015",
+      "normal": {
+        "expected_old": "Tamka sauti ya mwanzo ya neno ulilolitamka.",
+        "expected_new": "Tamka sauti au bainisha herufi ya mwanzo ya neno ulilolitamka."
+      },
+      "easy_read": {
+        "text_id": "pg041_n0015_easy_read",
+        "expected_old": "Tamka sauti ya mwanzo ya neno ulilotamka.",
+        "expected_new": "Tamka sauti au bainisha herufi ya mwanzo ya neno ulilotamka."
+      }
+    },
+    {
+      "base_id": "pg041_n0017",
+      "normal": {
+        "expected_old": "Taja maneno mengine yanayoanza na sauti hiyo.",
+        "expected_new": "Taja maneno mengine yanayoanza na sauti au herufi hiyo."
+      },
+      "easy_read": {
+        "text_id": "pg041_n0017_easy_read",
+        "expected_old": "Taja maneno mengine yanayoanza na sauti hiyo.",
+        "expected_new": "Taja maneno mengine yanayoanza na sauti au herufi hiyo."
+      }
+    },
+    {
+      "base_id": "pg041_n0020",
+      "normal": {
+        "expected_old": "Taja sauti za mwanzo za majina ya picha hizi.",
+        "expected_new": "Tamka sauti au bainisha herufi za mwanzo za majina ya picha hizi."
+      },
+      "easy_read": {
+        "text_id": "pg041_n0020_easy_read",
+        "expected_old": "Taja sauti za mwanzo za majina ya picha hizi.",
+        "expected_new": "Tamka sauti au bainisha herufi za mwanzo za majina ya picha hizi."
+      }
+    },
+    {
+      "base_id": "pg041_n0022",
+      "normal": {
+        "expected_old": "Sauti za mwanzo za majina yapi zinafanana?",
+        "expected_new": "sauti au herufi za mwanzo za majina yapi zinafanana?"
+      },
+      "easy_read": {
+        "text_id": "pg041_n0022_easy_read",
+        "expected_old": "Sauti za mwanzo za majina yapi zinafanana?",
+        "expected_new": "sauti au herufi za mwanzo za majina yapi zinafanana?"
+      }
+    },
+    {
+      "base_id": "pg041_n0024",
+      "normal": {
+        "expected_old": "Sauti ya mwanzo ya jina lipi haifanani na mengine?",
+        "expected_new": "sauti au herufi ya mwanzo ya jina lipi haifanani na mengine?"
+      },
+      "easy_read": {
+        "text_id": "pg041_n0024_easy_read",
+        "expected_old": "Sauti ya mwanzo ya jina lipi haitofautiani na mengine?",
+        "expected_new": "sauti au herufi ya mwanzo ya jina lipi haitofautiani na mengine?"
+      }
+    },
+    {
+      "base_id": "pg042_n0003",
+      "normal": {
+        "expected_old": "Tamka sauti ya herufi hii.",
+        "expected_new": "Tamka sauti au bainisha herufi ya herufi hii."
+      },
+      "easy_read": {
+        "text_id": "pg042_n0003_easy_read",
+        "expected_old": "Tamka sauti ya herufi hii.",
+        "expected_new": "Tamka sauti au bainisha herufi ya herufi hii."
+      }
+    },
+    {
+      "base_id": "pg042_n0009",
+      "normal": {
+        "expected_old": "Onesha na tamka sauti ya herufi g.",
+        "expected_new": "Onesha na tamka sauti au bainisha herufi ya herufi g."
+      },
+      "easy_read": {
+        "text_id": "pg042_n0009_easy_read",
+        "expected_old": "Onesha herufi g.\nKisha tamka sauti yake.",
+        "expected_new": "Onesha herufi g.\nKisha tamka sauti au bainisha herufi yake."
+      }
+    },
+    {
+      "base_id": "pg043_n0003",
+      "normal": {
+        "expected_old": "Tamka sauti za herufi zinazounda silabi na maneno.",
+        "expected_new": "Tamka sauti au bainisha herufi za herufi zinazounda silabi na maneno."
+      },
+      "easy_read": {
+        "text_id": "pg043_n0003_easy_read",
+        "expected_old": "Tamka sauti za herufi za silabi na maneno.",
+        "expected_new": "Tamka sauti au bainisha herufi za herufi za silabi na maneno."
+      }
+    },
+    {
+      "base_id": "pg045_n0008",
+      "normal": {
+        "expected_old": "Tamka sauti ya mwanzo ya neno ulilolitamka.",
+        "expected_new": "Tamka sauti au bainisha herufi ya mwanzo ya neno ulilolitamka."
+      },
+      "easy_read": {
+        "text_id": "pg045_n0008_easy_read",
+        "expected_old": "Sema sauti ya kwanza ya neno ulilosema.",
+        "expected_new": "Sema sauti au bainisha herufi ya kwanza ya neno ulilosema."
+      }
+    },
+    {
+      "base_id": "pg045_n0011",
+      "normal": {
+        "expected_old": "Taja maneno mengine yanayoanza na sauti hiyo.",
+        "expected_new": "Taja maneno mengine yanayoanza na sauti au herufi hiyo."
+      },
+      "easy_read": {
+        "text_id": "pg045_n0011_easy_read",
+        "expected_old": "Taja maneno mengine yanayoanza na sauti hiyo.",
+        "expected_new": "Taja maneno mengine yanayoanza na sauti au herufi hiyo."
+      }
+    },
+    {
+      "base_id": "pg045_n0017",
+      "normal": {
+        "expected_old": "Majina ya picha zipi yanaanza na sauti zinazofanana?",
+        "expected_new": "Majina ya picha zipi yanaanza na sauti au herufi zinazofanana?"
+      },
+      "easy_read": {
+        "text_id": "pg045_n0017_easy_read",
+        "expected_old": "Majina ya picha zipi huanza na sauti zinazofanana?",
+        "expected_new": "Majina ya picha zipi huanza na sauti au herufi zinazofanana?"
+      }
+    },
+    {
+      "base_id": "pg045_n0020",
+      "normal": {
+        "expected_old": "Jina la picha ipi halianzi na sauti inayofanana na mengine?",
+        "expected_new": "Jina la picha ipi halianzi na sauti au herufi inayofanana na mengine?"
+      },
+      "easy_read": {
+        "text_id": "pg045_n0020_easy_read",
+        "expected_old": "Jina la picha ipi halianzi na sauti inayofanana na majina mengine?",
+        "expected_new": "Jina la picha ipi halianzi na sauti au herufi inayofanana na majina mengine?"
+      }
+    },
+    {
+      "base_id": "pg046_n0003",
+      "normal": {
+        "expected_old": "Tamka sauti ya herufi hii.",
+        "expected_new": "Tamka sauti au bainisha herufi ya herufi hii."
+      },
+      "easy_read": {
+        "text_id": "pg046_n0003_easy_read",
+        "expected_old": "Tamka sauti ya herufi hii.",
+        "expected_new": "Tamka sauti au bainisha herufi ya herufi hii."
+      }
+    },
+    {
+      "base_id": "pg047_n0003",
+      "normal": {
+        "expected_old": "Tamka sauti za herufi zinazounda silabi na maneno.",
+        "expected_new": "Tamka sauti au bainisha herufi za herufi zinazounda silabi na maneno."
+      },
+      "easy_read": {
+        "text_id": "pg047_n0003_easy_read",
+        "expected_old": "Tamka sauti za herufi za silabi na maneno.",
+        "expected_new": "Tamka sauti au bainisha herufi za herufi za silabi na maneno."
+      }
+    },
+    {
+      "base_id": "pg048_n0008",
+      "normal": {
+        "expected_old": "Tamka sauti ya mwanzo ya neno ulilolitaja.",
+        "expected_new": "Tamka sauti au bainisha herufi ya mwanzo ya neno ulilolitaja."
+      },
+      "easy_read": {
+        "text_id": "pg048_n0008_easy_read",
+        "expected_old": "Sema sauti ya kwanza ya neno ulilotaja.",
+        "expected_new": "Sema sauti au bainisha herufi ya kwanza ya neno ulilotaja."
+      }
+    },
+    {
+      "base_id": "pg048_n0011",
+      "normal": {
+        "expected_old": "Taja maneno mengine yanayoanza na sauti hiyo.",
+        "expected_new": "Taja maneno mengine yanayoanza na sauti au herufi hiyo."
+      },
+      "easy_read": {
+        "text_id": "pg048_n0011_easy_read",
+        "expected_old": "Taja maneno mengine yanayoanza na sauti hiyo.",
+        "expected_new": "Taja maneno mengine yanayoanza na sauti au herufi hiyo."
+      }
+    },
+    {
+      "base_id": "pg048_n0017",
+      "normal": {
+        "expected_old": "Majina ya picha zipi yana sauti za mwanzo zinazofanana?",
+        "expected_new": "Majina ya picha zipi yana sauti au herufi za mwanzo zinazofanana?"
+      },
+      "easy_read": {
+        "text_id": "pg048_n0017_easy_read",
+        "expected_old": "Majina ya picha zipi yana sauti za kwanza zinazofanana?",
+        "expected_new": "Majina ya picha zipi yana sauti au herufi za kwanza zinazofanana?"
+      }
+    },
+    {
+      "base_id": "pg048_n0020",
+      "normal": {
+        "expected_old": "Jina la picha ipi lina sauti ya mwanzo ambayo haifanani na mengine?",
+        "expected_new": "Jina la picha ipi lina sauti au herufi ya mwanzo ambayo haifanani na mengine?"
+      },
+      "easy_read": {
+        "text_id": "pg048_n0020_easy_read",
+        "expected_old": "Jina la picha ipi lina sauti ya kwanza ambayo haifanani na mengine?",
+        "expected_new": "Jina la picha ipi lina sauti au herufi ya kwanza ambayo haifanani na mengine?"
+      }
+    },
+    {
+      "base_id": "pg049_n0003",
+      "normal": {
+        "expected_old": "Tamka sauti ya herufi hii.",
+        "expected_new": "Tamka sauti au bainisha herufi ya herufi hii."
+      },
+      "easy_read": {
+        "text_id": "pg049_n0003_easy_read",
+        "expected_old": "Tamka sauti ya herufi hii.",
+        "expected_new": "Tamka sauti au bainisha herufi ya herufi hii."
+      }
+    },
+    {
+      "base_id": "pg050_n0005",
+      "normal": {
+        "expected_old": "Tamka sauti za herufi zinazounda silabi na maneno.",
+        "expected_new": "Tamka sauti au bainisha herufi za herufi zinazounda silabi na maneno."
+      },
+      "easy_read": {
+        "text_id": "pg050_n0005_easy_read",
+        "expected_old": "Tamka sauti za herufi zinazounda silabi na maneno.",
+        "expected_new": "Tamka sauti au bainisha herufi za herufi zinazounda silabi na maneno."
+      }
+    },
+    {
+      "base_id": "pg051_n0014",
+      "normal": {
+        "expected_old": "Tamka sauti ya mwanzo ya neno ulilolitaja.",
+        "expected_new": "Tamka sauti au bainisha herufi ya mwanzo ya neno ulilolitaja."
+      },
+      "easy_read": {
+        "text_id": "pg051_n0014_easy_read",
+        "expected_old": "Sema sauti ya kwanza ya neno ulilotaja.",
+        "expected_new": "Sema sauti au bainisha herufi ya kwanza ya neno ulilotaja."
+      }
+    },
+    {
+      "base_id": "pg051_n0017",
+      "normal": {
+        "expected_old": "Taja maneno mengine yanayoanza na sauti hiyo.",
+        "expected_new": "Taja maneno mengine yanayoanza na sauti au herufi hiyo."
+      },
+      "easy_read": {
+        "text_id": "pg051_n0017_easy_read",
+        "expected_old": "Taja maneno mengine yanayoanza na sauti hiyo.",
+        "expected_new": "Taja maneno mengine yanayoanza na sauti au herufi hiyo."
+      }
+    },
+    {
+      "base_id": "pg052_n0004",
+      "normal": {
+        "expected_old": "Sauti za mwanzo za majina yapi zinafanana?",
+        "expected_new": "sauti au herufi za mwanzo za majina yapi zinafanana?"
+      },
+      "easy_read": {
+        "text_id": "pg052_n0004_easy_read",
+        "expected_old": "Majina yapi yana sauti ya mwanzo inayofanana?",
+        "expected_new": "Majina yapi yana sauti au herufi ya mwanzo inayofanana?"
+      }
+    },
+    {
+      "base_id": "pg052_n0007",
+      "normal": {
+        "expected_old": "Sauti ya mwanzo ya jina lipi haifanani na mengine?",
+        "expected_new": "sauti au herufi ya mwanzo ya jina lipi haifanani na mengine?"
+      },
+      "easy_read": {
+        "text_id": "pg052_n0007_easy_read",
+        "expected_old": "Jina lipi lina sauti ya mwanzo isiyofanana na mengine?",
+        "expected_new": "Jina lipi lina sauti au herufi ya mwanzo isiyofanana na mengine?"
+      }
+    },
+    {
+      "base_id": "pg052_n0010",
+      "normal": {
+        "expected_old": "Tamka sauti ya herufi hii.",
+        "expected_new": "Tamka sauti au bainisha herufi ya herufi hii."
+      },
+      "easy_read": {
+        "text_id": "pg052_n0010_easy_read",
+        "expected_old": "Tamka sauti ya herufi hii.",
+        "expected_new": "Tamka sauti au bainisha herufi ya herufi hii."
+      }
+    },
+    {
+      "base_id": "pg053_n0019",
+      "normal": {
+        "expected_old": "Tamka sauti za herufi zinazounda silabi na maneno.",
+        "expected_new": "Tamka sauti au bainisha herufi za herufi zinazounda silabi na maneno."
+      },
+      "easy_read": {
+        "text_id": "pg053_n0019_easy_read",
+        "expected_old": "Tamka sauti za herufi zinazounda silabi na maneno.",
+        "expected_new": "Tamka sauti au bainisha herufi za herufi zinazounda silabi na maneno."
+      }
+    },
+    {
+      "base_id": "pg055_n0009",
+      "normal": {
+        "expected_old": "Utajifunza namna ya kuzitamka, kuziunganisha na kuunda silabi.",
+        "expected_new": "Utajifunza namna ya kuzitamka, kubainisha, kuziunganisha na kuunda silabi."
+      },
+      "easy_read": {
+        "text_id": "pg055_n0009_easy_read",
+        "expected_old": "Utajifunza jinsi ya kutamka sauti hizi, kuziunganisha, na kuunda silabi.",
+        "expected_new": "Utajifunza jinsi ya kutamka na kubainisha sauti hizi, kuziunganisha, na kuunda silabi."
+      }
+    },
+    {
+      "base_id": "pg055_n0016",
+      "normal": {
+        "expected_old": "Tamka sauti ya mwanzo ya neno ulilolitaja.",
+        "expected_new": "Tamka sauti au bainisha herufi ya mwanzo ya neno ulilolitaja."
+      },
+      "easy_read": {
+        "text_id": "pg055_n0016_easy_read",
+        "expected_old": "Tamka sauti ya mwanzo ya neno hilo.",
+        "expected_new": "Tamka sauti au bainisha herufi ya mwanzo ya neno hilo."
+      }
+    },
+    {
+      "base_id": "pg055_n0018",
+      "normal": {
+        "expected_old": "Taja maneno mengine yanayoanza na sauti hiyo.",
+        "expected_new": "Taja maneno mengine yanayoanza na sauti au herufi hiyo."
+      },
+      "easy_read": {
+        "text_id": "pg055_n0018_easy_read",
+        "expected_old": "Taja maneno mengine yanayoanza na sauti hiyo.",
+        "expected_new": "Taja maneno mengine yanayoanza na sauti au herufi hiyo."
+      }
+    },
+    {
+      "base_id": "pg055_n0022",
+      "normal": {
+        "expected_old": "Taja sauti za mwanzo za majina ya picha hizi.",
+        "expected_new": "Tamka sauti au bainisha herufi za mwanzo za majina ya picha hizi."
+      },
+      "easy_read": {
+        "text_id": "pg055_n0022_easy_read",
+        "expected_old": "Taja sauti za mwanzo za majina ya picha hizi.",
+        "expected_new": "Tamka sauti au bainisha herufi za mwanzo za majina ya picha hizi."
+      }
+    },
+    {
+      "base_id": "pg055_n0024",
+      "normal": {
+        "expected_old": "Sauti za mwanzo za majina yapi zinafanana?",
+        "expected_new": "sauti au herufi za mwanzo za majina yapi zinafanana?"
+      },
+      "easy_read": {
+        "text_id": "pg055_n0024_easy_read",
+        "expected_old": "Sauti za mwanzo za majina yapi zinafanana?",
+        "expected_new": "sauti au herufi za mwanzo za majina yapi zinafanana?"
+      }
+    },
+    {
+      "base_id": "pg055_n0026",
+      "normal": {
+        "expected_old": "Sauti ya mwanzo ya jina lipi haifanani na mengine?",
+        "expected_new": "sauti au herufi ya mwanzo ya jina lipi haifanani na mengine?"
+      },
+      "easy_read": {
+        "text_id": "pg055_n0026_easy_read",
+        "expected_old": "Sauti ya mwanzo ya jina lipi haifanani na mengine?",
+        "expected_new": "sauti au herufi ya mwanzo ya jina lipi haifanani na mengine?"
+      }
+    },
+    {
+      "base_id": "pg056_n0003",
+      "normal": {
+        "expected_old": "Tamka sauti ya herufi hii.",
+        "expected_new": "Tamka sauti au bainisha herufi ya herufi hii."
+      },
+      "easy_read": {
+        "text_id": "pg056_n0003_easy_read",
+        "expected_old": "Tamka sauti ya herufi hii.",
+        "expected_new": "Tamka sauti au bainisha herufi ya herufi hii."
+      }
+    },
+    {
+      "base_id": "pg057_n0003",
+      "normal": {
+        "expected_old": "Tamka sauti za herufi zinazounda silabi na maneno.",
+        "expected_new": "Tamka sauti au bainisha herufi za herufi zinazounda silabi na maneno."
+      },
+      "easy_read": {
+        "text_id": "pg057_n0003_easy_read",
+        "expected_old": "Tamka sauti za herufi za silabi na maneno.",
+        "expected_new": "Tamka sauti au bainisha herufi za herufi za silabi na maneno."
+      }
+    },
+    {
+      "base_id": "pg058_n0014",
+      "normal": {
+        "expected_old": "1. Tamka sauti ya mwanzo ya neno ulilolitaja.",
+        "expected_new": "1. Tamka sauti au bainisha herufi ya mwanzo ya neno ulilolitaja."
+      },
+      "easy_read": {
+        "text_id": "pg058_n0014_easy_read",
+        "expected_old": "1. Sema sauti ya kwanza ya neno ulilotaja.",
+        "expected_new": "1. Sema sauti au bainisha herufi ya kwanza ya neno ulilotaja."
+      }
+    },
+    {
+      "base_id": "pg058_n0015",
+      "normal": {
+        "expected_old": "2. Taja maneno mengine yanayoanza na sauti hiyo.",
+        "expected_new": "2. Taja maneno mengine yanayoanza na sauti au herufi hiyo."
+      },
+      "easy_read": {
+        "text_id": "pg058_n0015_easy_read",
+        "expected_old": "2. Taja maneno mengine yanayoanza na sauti hiyo.",
+        "expected_new": "2. Taja maneno mengine yanayoanza na sauti au herufi hiyo."
+      }
+    },
+    {
+      "base_id": "pg059_n0006",
+      "normal": {
+        "expected_old": "Sauti za mwanzo za majina yapi zinafanana?",
+        "expected_new": "sauti au herufi za mwanzo za majina yapi zinafanana?"
+      },
+      "easy_read": {
+        "text_id": "pg059_n0006_easy_read",
+        "expected_old": "Ni majina yapi yana sauti ya mwanzo inayofanana?",
+        "expected_new": "Ni majina yapi yana sauti au herufi ya mwanzo inayofanana?"
+      }
+    },
+    {
+      "base_id": "pg059_n0009",
+      "normal": {
+        "expected_old": "Sauti ya mwanzo ya jina lipi haifanani na mengine?",
+        "expected_new": "sauti au herufi ya mwanzo ya jina lipi haifanani na mengine?"
+      },
+      "easy_read": {
+        "text_id": "pg059_n0009_easy_read",
+        "expected_old": "Ni jina lipi lenye sauti ya mwanzo isiyofanana na mengine?",
+        "expected_new": "Ni jina lipi lenye sauti au herufi ya mwanzo isiyofanana na mengine?"
+      }
+    },
+    {
+      "base_id": "pg059_n0012",
+      "normal": {
+        "expected_old": "Tamka sauti ya herufi hii.",
+        "expected_new": "Tamka sauti au bainisha herufi ya herufi hii."
+      },
+      "easy_read": {
+        "text_id": "pg059_n0012_easy_read",
+        "expected_old": "Tamka sauti ya herufi hii.",
+        "expected_new": "Tamka sauti au bainisha herufi ya herufi hii."
+      }
+    },
+    {
+      "base_id": "pg060_n0017",
+      "normal": {
+        "expected_old": "Tamka sauti za herufi zinazounda silabi na maneno.",
+        "expected_new": "Tamka sauti au bainisha herufi za herufi zinazounda silabi na maneno."
+      },
+      "easy_read": {
+        "text_id": "pg060_n0017_easy_read",
+        "expected_old": "Tamka sauti za herufi za silabi na maneno.",
+        "expected_new": "Tamka sauti au bainisha herufi za herufi za silabi na maneno."
+      }
+    },
+    {
+      "base_id": "pg062_n0002",
+      "normal": {
+        "expected_old": "1. Tamka sauti ya mwanzo ya neno ulilolitaja.",
+        "expected_new": "1. Tamka sauti au bainisha herufi ya mwanzo ya neno ulilolitaja."
+      },
+      "easy_read": {
+        "text_id": "pg062_n0002_easy_read",
+        "expected_old": "1. Tamka sauti ya kwanza ya neno ulilotaja.",
+        "expected_new": "1. Tamka sauti au bainisha herufi ya kwanza ya neno ulilotaja."
+      }
+    },
+    {
+      "base_id": "pg062_n0003",
+      "normal": {
+        "expected_old": "2. Taja maneno mengine yanayoanza na sauti hiyo.",
+        "expected_new": "2. Taja maneno mengine yanayoanza na sauti au herufi hiyo."
+      },
+      "easy_read": {
+        "text_id": "pg062_n0003_easy_read",
+        "expected_old": "2. Taja maneno mengine yanayoanza na sauti hiyo.",
+        "expected_new": "2. Taja maneno mengine yanayoanza na sauti au herufi hiyo."
+      }
+    },
+    {
+      "base_id": "pg062_n0007",
+      "normal": {
+        "expected_old": "1. Sauti za mwanzo za majina yapi zinafanana?",
+        "expected_new": "1. sauti au herufi za mwanzo za majina yapi zinafanana?"
+      },
+      "easy_read": {
+        "text_id": "pg062_n0007_easy_read",
+        "expected_old": "1. Ni majina yapi yana sauti ya kwanza inayofanana?",
+        "expected_new": "1. Ni majina yapi yana sauti au herufi ya kwanza inayofanana?"
+      }
+    },
+    {
+      "base_id": "pg062_n0008",
+      "normal": {
+        "expected_old": "2. Sauti ya mwanzo ya jina lipi haifanani na mengine?",
+        "expected_new": "2. sauti au herufi ya mwanzo ya jina lipi haifanani na mengine?"
+      },
+      "easy_read": {
+        "text_id": "pg062_n0008_easy_read",
+        "expected_old": "2. Ni jina gani lina sauti ya kwanza ambayo haifanani na mengine?",
+        "expected_new": "2. Ni jina gani lina sauti au herufi ya kwanza ambayo haifanani na mengine?"
+      }
+    },
+    {
+      "base_id": "pg062_n0011",
+      "normal": {
+        "expected_old": "Tamka sauti ya herufi hii.",
+        "expected_new": "Tamka sauti au bainisha herufi ya herufi hii."
+      },
+      "easy_read": {
+        "text_id": "pg062_n0011_easy_read",
+        "expected_old": "Tamka sauti ya herufi hii.",
+        "expected_new": "Tamka sauti au bainisha herufi ya herufi hii."
+      }
+    },
+    {
+      "base_id": "pg063_n0017",
+      "normal": {
+        "expected_old": "Tamka sauti za herufi zinazounda silabi na maneno.",
+        "expected_new": "Tamka sauti au bainisha herufi za herufi zinazounda silabi na maneno."
+      },
+      "easy_read": {
+        "text_id": "pg063_n0017_easy_read",
+        "expected_old": "Tamka sauti za herufi zinazounda silabi na maneno.",
+        "expected_new": "Tamka sauti au bainisha herufi za herufi zinazounda silabi na maneno."
+      }
+    },
+    {
+      "base_id": "pg065_n0007",
+      "normal": {
+        "expected_old": "Tamka sauti ya mwanzo ya neno ulilolitaja.",
+        "expected_new": "Tamka sauti au bainisha herufi ya mwanzo ya neno ulilolitaja."
+      },
+      "easy_read": {
+        "text_id": "pg065_n0007_easy_read",
+        "expected_old": "Sema sauti ya mwanzo ya neno ulilotaja.",
+        "expected_new": "Sema sauti au bainisha herufi ya mwanzo ya neno ulilotaja."
+      }
+    },
+    {
+      "base_id": "pg065_n0009",
+      "normal": {
+        "expected_old": "Taja maneno mengine yanayoanza na sauti hiyo.",
+        "expected_new": "Taja maneno mengine yanayoanza na sauti au herufi hiyo."
+      },
+      "easy_read": {
+        "text_id": "pg065_n0009_easy_read",
+        "expected_old": "Taja maneno mengine yanayoanza na sauti hiyo.",
+        "expected_new": "Taja maneno mengine yanayoanza na sauti au herufi hiyo."
+      }
+    },
+    {
+      "base_id": "pg065_n0014",
+      "normal": {
+        "expected_old": "Majina ya picha zipi yana sauti za mwanzo zinazofanana?",
+        "expected_new": "Majina ya picha zipi yana sauti au herufi za mwanzo zinazofanana?"
+      },
+      "easy_read": {
+        "text_id": "pg065_n0014_easy_read",
+        "expected_old": "Ni majina gani ya picha yenye sauti za mwanzo zinazofanana?",
+        "expected_new": "Ni majina gani ya picha yenye sauti au herufi za mwanzo zinazofanana?"
+      }
+    },
+    {
+      "base_id": "pg065_n0016",
+      "normal": {
+        "expected_old": "Jina la picha ipi lina sauti ya mwanzo ambayo haifanani na mengine?",
+        "expected_new": "Jina la picha ipi lina sauti au herufi ya mwanzo ambayo haifanani na mengine?"
+      },
+      "easy_read": {
+        "text_id": "pg065_n0016_easy_read",
+        "expected_old": "Ni jina gani la picha lenye sauti ya mwanzo isiyofanana na majina mengine?",
+        "expected_new": "Ni jina gani la picha lenye sauti au herufi ya mwanzo isiyofanana na majina mengine?"
+      }
+    },
+    {
+      "base_id": "pg065_n0019",
+      "normal": {
+        "expected_old": "Tamka sauti ya herufi hizi.",
+        "expected_new": "Tamka sauti au bainisha herufi ya herufi hizi."
+      },
+      "easy_read": {
+        "text_id": "pg065_n0019_easy_read",
+        "expected_old": "Sema sauti ya herufi hizi.",
+        "expected_new": "Sema sauti au bainisha herufi ya herufi hizi."
+      }
+    },
+    {
+      "base_id": "pg066_n0032",
+      "normal": {
+        "expected_old": "Tamka sauti za herufi zinazounda silabi na maneno.",
+        "expected_new": "Tamka sauti au bainisha herufi za herufi zinazounda silabi na maneno."
+      },
+      "easy_read": {
+        "text_id": "pg066_n0032_easy_read",
+        "expected_old": "Tamka sauti za herufi zinazounda silabi na maneno.",
+        "expected_new": "Tamka sauti au bainisha herufi za herufi zinazounda silabi na maneno."
+      }
+    },
+    {
+      "base_id": "pg067_n0009",
+      "normal": {
+        "expected_old": "Utajifunza namna ya kuzitamka, kuziunganisha na kuunda silabi.",
+        "expected_new": "Utajifunza namna ya kuzitamka, kubainisha, kuziunganisha na kuunda silabi."
+      },
+      "easy_read": {
+        "text_id": "pg067_n0009_easy_read",
+        "expected_old": "Utajifunza namna ya kutamka sauti hizi, kuziunganisha, na kuunda silabi.",
+        "expected_new": "Utajifunza namna ya kutamka na kubainisha sauti hizi, kuziunganisha, na kuunda silabi."
+      }
+    },
+    {
+      "base_id": "pg067_n0016",
+      "normal": {
+        "expected_old": "Tamka sauti ya mwanzo ya neno ulilolitaja.",
+        "expected_new": "Tamka sauti au bainisha herufi ya mwanzo ya neno ulilolitaja."
+      },
+      "easy_read": {
+        "text_id": "pg067_n0016_easy_read",
+        "expected_old": "Tamka sauti ya mwanzo ya neno ulilotaja.",
+        "expected_new": "Tamka sauti au bainisha herufi ya mwanzo ya neno ulilotaja."
+      }
+    },
+    {
+      "base_id": "pg067_n0018",
+      "normal": {
+        "expected_old": "Taja maneno mengine yanayoanza na sauti hiyo.",
+        "expected_new": "Taja maneno mengine yanayoanza na sauti au herufi hiyo."
+      },
+      "easy_read": {
+        "text_id": "pg067_n0018_easy_read",
+        "expected_old": "Taja maneno mengine yanayoanza na sauti hiyo.",
+        "expected_new": "Taja maneno mengine yanayoanza na sauti au herufi hiyo."
+      }
+    },
+    {
+      "base_id": "pg067_n0023",
+      "normal": {
+        "expected_old": "Taja sauti za mwanzo za majina ya picha hizi.",
+        "expected_new": "Tamka sauti au bainisha herufi za mwanzo za majina ya picha hizi."
+      },
+      "easy_read": {
+        "text_id": "pg067_n0023_easy_read",
+        "expected_old": "Taja sauti za mwanzo za majina ya picha hizi.",
+        "expected_new": "Tamka sauti au bainisha herufi za mwanzo za majina ya picha hizi."
+      }
+    },
+    {
+      "base_id": "pg067_n0025",
+      "normal": {
+        "expected_old": "Sauti za mwanzo za majina yapi zinafanana?",
+        "expected_new": "sauti au herufi za mwanzo za majina yapi zinafanana?"
+      },
+      "easy_read": {
+        "text_id": "pg067_n0025_easy_read",
+        "expected_old": "Sauti za mwanzo za majina yapi zinafanana?",
+        "expected_new": "sauti au herufi za mwanzo za majina yapi zinafanana?"
+      }
+    },
+    {
+      "base_id": "pg067_n0027",
+      "normal": {
+        "expected_old": "Sauti ya mwanzo ya jina lipi haifanani na mengine?",
+        "expected_new": "sauti au herufi ya mwanzo ya jina lipi haifanani na mengine?"
+      },
+      "easy_read": {
+        "text_id": "pg067_n0027_easy_read",
+        "expected_old": "Sauti ya mwanzo ya jina gani haifanani na mengine?",
+        "expected_new": "sauti au herufi ya mwanzo ya jina gani haifanani na mengine?"
+      }
+    },
+    {
+      "base_id": "pg068_n0020",
+      "normal": {
+        "expected_old": "Tamka sauti za herufi zinazounda silabi na maneno.",
+        "expected_new": "Tamka sauti au bainisha herufi za herufi zinazounda silabi na maneno."
+      },
+      "easy_read": {
+        "text_id": "pg068_n0020_easy_read",
+        "expected_old": "Tamka sauti za herufi zinazounda silabi na maneno.",
+        "expected_new": "Tamka sauti au bainisha herufi za herufi zinazounda silabi na maneno."
+      }
+    },
+    {
+      "base_id": "pg069_n0068",
+      "normal": {
+        "expected_old": "1. Tamka sauti ya mwanzo ya namba uliyotaja.",
+        "expected_new": "1. Tamka sauti au bainisha herufi ya mwanzo ya namba uliyotaja."
+      },
+      "easy_read": {
+        "text_id": "pg069_n0068_easy_read",
+        "expected_old": "1. Tamka sauti ya kwanza ya namba uliyotaja.",
+        "expected_new": "1. Tamka sauti au bainisha herufi ya kwanza ya namba uliyotaja."
+      }
+    },
+    {
+      "base_id": "pg069_n0070",
+      "normal": {
+        "expected_old": "2. Taja maneno mengine yanayoanza na sauti hiyo.",
+        "expected_new": "2. Taja maneno mengine yanayoanza na sauti au herufi hiyo."
+      },
+      "easy_read": {
+        "text_id": "pg069_n0070_easy_read",
+        "expected_old": "2. Taja maneno mengine yanayoanza na sauti hiyo.",
+        "expected_new": "2. Taja maneno mengine yanayoanza na sauti au herufi hiyo."
+      }
+    },
+    {
+      "base_id": "pg069_n0078",
+      "normal": {
+        "expected_old": "1. Namba zipi zinaanza na sauti zinazofanana?",
+        "expected_new": "1. Namba zipi zinaanza na sauti au herufi zinazofanana?"
+      },
+      "easy_read": {
+        "text_id": "pg069_n0078_easy_read",
+        "expected_old": "1. Namba zipi zinaanza na sauti inayofanana?",
+        "expected_new": "1. Namba zipi zinaanza na sauti au herufi inayofanana?"
+      }
+    },
+    {
+      "base_id": "pg069_n0080",
+      "normal": {
+        "expected_old": "2. Namba ipi inaanza na sauti ambayo haifanani na zingine?",
+        "expected_new": "2. Namba ipi inaanza na sauti au herufi ambayo haifanani na zingine?"
+      },
+      "easy_read": {
+        "text_id": "pg069_n0080_easy_read",
+        "expected_old": "2. Namba ipi inaanza na sauti ambayo haifanani na nyingine?",
+        "expected_new": "2. Namba ipi inaanza na sauti au herufi ambayo haifanani na nyingine?"
+      }
+    },
+    {
+      "base_id": "pg070_n0022",
+      "normal": {
+        "expected_old": "Tamka sauti za herufi zinazounda silabi na maneno.",
+        "expected_new": "Tamka sauti au bainisha herufi za herufi zinazounda silabi na maneno."
+      },
+      "easy_read": {
+        "text_id": "pg070_n0022_easy_read",
+        "expected_old": "Tamka sauti za herufi zinazounda silabi na maneno.",
+        "expected_new": "Tamka sauti au bainisha herufi za herufi zinazounda silabi na maneno."
+      }
+    },
+    {
+      "base_id": "pg071_n0029",
+      "normal": {
+        "expected_old": "1. Tamka sauti ya mwanzo ya neno ulilolitaja.",
+        "expected_new": "1. Tamka sauti au bainisha herufi ya mwanzo ya neno ulilolitaja."
+      },
+      "easy_read": {
+        "text_id": "pg071_n0029_easy_read",
+        "expected_old": "1. Tamka sauti ya kwanza ya neno ulilotaja.",
+        "expected_new": "1. Tamka sauti au bainisha herufi ya kwanza ya neno ulilotaja."
+      }
+    },
+    {
+      "base_id": "pg071_n0031",
+      "normal": {
+        "expected_old": "2. Taja maneno mengine yanayoanza na sauti hiyo.",
+        "expected_new": "2. Taja maneno mengine yanayoanza na sauti au herufi hiyo."
+      },
+      "easy_read": {
+        "text_id": "pg071_n0031_easy_read",
+        "expected_old": "2. Taja maneno mengine yanayoanza na sauti hiyo.",
+        "expected_new": "2. Taja maneno mengine yanayoanza na sauti au herufi hiyo."
+      }
+    },
+    {
+      "base_id": "pg072_n0003",
+      "normal": {
+        "expected_old": "1. Taja sauti za mwanzo ya majina ya picha hizi.",
+        "expected_new": "1. Tamka sauti au bainisha herufi za mwanzo ya majina ya picha hizi."
+      },
+      "easy_read": {
+        "text_id": "pg072_n0003_easy_read",
+        "expected_old": "1. Taja sauti ya mwanzo ya majina ya picha hizi.",
+        "expected_new": "1. Tamka sauti au bainisha herufi ya mwanzo ya majina ya picha hizi."
+      }
+    },
+    {
+      "base_id": "pg072_n0005",
+      "normal": {
+        "expected_old": "2. Majina ya picha zipi yanaanza na sauti zinazofanana?",
+        "expected_new": "2. Majina ya picha zipi yanaanza na sauti au herufi zinazofanana?"
+      },
+      "easy_read": {
+        "text_id": "pg072_n0005_easy_read",
+        "expected_old": "2. Majina ya picha zipi yanaanza na sauti inayofanana?",
+        "expected_new": "2. Majina ya picha zipi yanaanza na sauti au herufi inayofanana?"
+      }
+    },
+    {
+      "base_id": "pg072_n0007",
+      "normal": {
+        "expected_old": "3. Jina la picha ipi linaanza na sauti ambayo haifanani na zingine?",
+        "expected_new": "3. Jina la picha ipi linaanza na sauti au herufi ambayo haifanani na zingine?"
+      },
+      "easy_read": {
+        "text_id": "pg072_n0007_easy_read",
+        "expected_old": "3. Jina la picha ipi linaanza na sauti ambayo haifanani na nyingine?",
+        "expected_new": "3. Jina la picha ipi linaanza na sauti au herufi ambayo haifanani na nyingine?"
+      }
+    },
+    {
+      "base_id": "pg072_n0024",
+      "normal": {
+        "expected_old": "Tamka sauti za herufi zinazounda silabi na maneno.",
+        "expected_new": "Tamka sauti au bainisha herufi za herufi zinazounda silabi na maneno."
+      },
+      "easy_read": {
+        "text_id": "pg072_n0024_easy_read",
+        "expected_old": "Tamka sauti za herufi zinazounda silabi na maneno.",
+        "expected_new": "Tamka sauti au bainisha herufi za herufi zinazounda silabi na maneno."
+      }
+    },
+    {
+      "base_id": "pg074_n0011",
+      "normal": {
+        "expected_old": "Tamka sauti ya mwanzo ya neno ulilolitaja.",
+        "expected_new": "Tamka sauti au bainisha herufi ya mwanzo ya neno ulilolitaja."
+      },
+      "easy_read": {
+        "text_id": "pg074_n0011_easy_read",
+        "expected_old": "Tamka sauti ya kwanza ya neno ulilotaja.",
+        "expected_new": "Tamka sauti au bainisha herufi ya kwanza ya neno ulilotaja."
+      }
+    },
+    {
+      "base_id": "pg074_n0013",
+      "normal": {
+        "expected_old": "Taja maneno mengine yanayoanza na sauti hiyo.",
+        "expected_new": "Taja maneno mengine yanayoanza na sauti au herufi hiyo."
+      },
+      "easy_read": {
+        "text_id": "pg074_n0013_easy_read",
+        "expected_old": "Taja maneno mengine yanayoanza na sauti hiyo.",
+        "expected_new": "Taja maneno mengine yanayoanza na sauti au herufi hiyo."
+      }
+    },
+    {
+      "base_id": "pg074_n0020",
+      "normal": {
+        "expected_old": "Taja sauti za mwanzo ya majina ya picha hizi.",
+        "expected_new": "Tamka sauti au bainisha herufi za mwanzo ya majina ya picha hizi."
+      },
+      "easy_read": {
+        "text_id": "pg074_n0020_easy_read",
+        "expected_old": "Taja sauti za kwanza za majina ya picha hizi.",
+        "expected_new": "Tamka sauti au bainisha herufi za kwanza za majina ya picha hizi."
+      }
+    },
+    {
+      "base_id": "pg074_n0022",
+      "normal": {
+        "expected_old": "Majina ya picha zipi yanaanza na sauti zinazofanana?",
+        "expected_new": "Majina ya picha zipi yanaanza na sauti au herufi zinazofanana?"
+      },
+      "easy_read": {
+        "text_id": "pg074_n0022_easy_read",
+        "expected_old": "Majina ya picha zipi yanaanza na sauti zinazofanana?",
+        "expected_new": "Majina ya picha zipi yanaanza na sauti au herufi zinazofanana?"
+      }
+    },
+    {
+      "base_id": "pg074_n0024",
+      "normal": {
+        "expected_old": "Sauti ya mwanzo ya picha ipi haifanani na zingine?",
+        "expected_new": "sauti au herufi ya mwanzo ya picha ipi haifanani na zingine?"
+      },
+      "easy_read": {
+        "text_id": "pg074_n0024_easy_read",
+        "expected_old": "Sauti ya kwanza ya picha ipi haitofautiani na zingine?",
+        "expected_new": "sauti au herufi ya kwanza ya picha ipi haitofautiani na zingine?"
+      }
+    },
+    {
+      "base_id": "pg075_n0027",
+      "normal": {
+        "expected_old": "Tamka sauti za herufi zinazounda silabi na maneno.",
+        "expected_new": "Tamka sauti au bainisha herufi za herufi zinazounda silabi na maneno."
+      },
+      "easy_read": {
+        "text_id": "pg075_n0027_easy_read",
+        "expected_old": "Tamka sauti za herufi zinazounda silabi na maneno.",
+        "expected_new": "Tamka sauti au bainisha herufi za herufi zinazounda silabi na maneno."
+      }
+    },
+    {
+      "base_id": "pg077_n0009",
+      "normal": {
+        "expected_old": "1. Tamka sauti ya mwanzo ya neno ulilolitaja.",
+        "expected_new": "1. Tamka sauti au bainisha herufi ya mwanzo ya neno ulilolitaja."
+      },
+      "easy_read": {
+        "text_id": "pg077_n0009_easy_read",
+        "expected_old": "Tamka sauti ya kwanza ya neno ulilotaja.",
+        "expected_new": "Tamka sauti au bainisha herufi ya kwanza ya neno ulilotaja."
+      }
+    },
+    {
+      "base_id": "pg077_n0010",
+      "normal": {
+        "expected_old": "2. Taja maneno mengine yanayoanza na sauti hiyo.",
+        "expected_new": "2. Taja maneno mengine yanayoanza na sauti au herufi hiyo."
+      },
+      "easy_read": {
+        "text_id": "pg077_n0010_easy_read",
+        "expected_old": "Taja maneno mengine yanayoanza na sauti hiyo.",
+        "expected_new": "Taja maneno mengine yanayoanza na sauti au herufi hiyo."
+      }
+    },
+    {
+      "base_id": "pg077_n0016",
+      "normal": {
+        "expected_old": "1. Taja sauti ya mwanzo ya majina ya picha hizi.",
+        "expected_new": "1. Tamka sauti au bainisha herufi ya mwanzo ya majina ya picha hizi."
+      },
+      "easy_read": {
+        "text_id": "pg077_n0016_easy_read",
+        "expected_old": "Taja sauti ya kwanza ya majina ya picha hizi.",
+        "expected_new": "Tamka sauti au bainisha herufi ya kwanza ya majina ya picha hizi."
+      }
+    },
+    {
+      "base_id": "pg077_n0017",
+      "normal": {
+        "expected_old": "2. Majina ya picha zipi yanaanza na sauti zinazofanana?",
+        "expected_new": "2. Majina ya picha zipi yanaanza na sauti au herufi zinazofanana?"
+      },
+      "easy_read": {
+        "text_id": "pg077_n0017_easy_read",
+        "expected_old": "Majina ya picha zipi yanaanza na sauti zinazofanana?",
+        "expected_new": "Majina ya picha zipi yanaanza na sauti au herufi zinazofanana?"
+      }
+    },
+    {
+      "base_id": "pg077_n0018",
+      "normal": {
+        "expected_old": "3. Sauti ya mwanzo ya jina lipi haifanani na mengine?",
+        "expected_new": "3. sauti au herufi ya mwanzo ya jina lipi haifanani na mengine?"
+      },
+      "easy_read": {
+        "text_id": "pg077_n0018_easy_read",
+        "expected_old": "Sauti ya kwanza ya jina lipi haifanani na mengine?",
+        "expected_new": "sauti au herufi ya kwanza ya jina lipi haifanani na mengine?"
+      }
+    },
+    {
+      "base_id": "pg078_n0032",
+      "normal": {
+        "expected_old": "Tamka sauti za herufi zinazounda silabi na maneno.",
+        "expected_new": "Tamka sauti au bainisha herufi za herufi zinazounda silabi na maneno."
+      },
+      "easy_read": {
+        "text_id": "pg078_n0032_easy_read",
+        "expected_old": "Tamka sauti za herufi zinazounda silabi na maneno.",
+        "expected_new": "Tamka sauti au bainisha herufi za herufi zinazounda silabi na maneno."
+      }
+    },
+    {
+      "base_id": "pg079_n0065",
+      "normal": {
+        "expected_old": "1. Tamka sauti ya mwanzo ya neno ulilolitaja.",
+        "expected_new": "1. Tamka sauti au bainisha herufi ya mwanzo ya neno ulilolitaja."
+      },
+      "easy_read": {
+        "text_id": "pg079_n0065_easy_read",
+        "expected_old": "1. Tamka sauti ya kwanza ya neno ulilotaja.",
+        "expected_new": "1. Tamka sauti au bainisha herufi ya kwanza ya neno ulilotaja."
+      }
+    },
+    {
+      "base_id": "pg079_n0067",
+      "normal": {
+        "expected_old": "2. Taja maneno mengine yanayoanza na sauti hiyo.",
+        "expected_new": "2. Taja maneno mengine yanayoanza na sauti au herufi hiyo."
+      },
+      "easy_read": {
+        "text_id": "pg079_n0067_easy_read",
+        "expected_old": "2. Taja maneno mengine yanayoanza na sauti hiyo.",
+        "expected_new": "2. Taja maneno mengine yanayoanza na sauti au herufi hiyo."
+      }
+    },
+    {
+      "base_id": "pg080_n0005",
+      "normal": {
+        "expected_old": "Taja sauti za mwanzo ya majina ya picha hizi.",
+        "expected_new": "Tamka sauti au bainisha herufi za mwanzo ya majina ya picha hizi."
+      },
+      "easy_read": {
+        "text_id": "pg080_n0005_easy_read",
+        "expected_old": "Taja sauti ya mwanzo ya majina ya picha hizi.",
+        "expected_new": "Tamka sauti au bainisha herufi ya mwanzo ya majina ya picha hizi."
+      }
+    },
+    {
+      "base_id": "pg080_n0007",
+      "normal": {
+        "expected_old": "Majina ya picha zipi yanaanza na sauti zinazofanana?",
+        "expected_new": "Majina ya picha zipi yanaanza na sauti au herufi zinazofanana?"
+      },
+      "easy_read": {
+        "text_id": "pg080_n0007_easy_read",
+        "expected_old": "Majina ya picha zipi yanaanza na sauti inayofanana?",
+        "expected_new": "Majina ya picha zipi yanaanza na sauti au herufi inayofanana?"
+      }
+    },
+    {
+      "base_id": "pg080_n0009",
+      "normal": {
+        "expected_old": "Sauti ya mwanzo ya jina lipi haifanani na mengine?",
+        "expected_new": "sauti au herufi ya mwanzo ya jina lipi haifanani na mengine?"
+      },
+      "easy_read": {
+        "text_id": "pg080_n0009_easy_read",
+        "expected_old": "Sauti ya mwanzo ya jina gani haifanani na nyingine?",
+        "expected_new": "sauti au herufi ya mwanzo ya jina gani haifanani na nyingine?"
+      }
+    },
+    {
+      "base_id": "pg081_n0003",
+      "normal": {
+        "expected_old": "Tamka sauti za herufi zinazounda silabi na maneno.",
+        "expected_new": "Tamka sauti au bainisha herufi za herufi zinazounda silabi na maneno."
+      },
+      "easy_read": {
+        "text_id": "pg081_n0003_easy_read",
+        "expected_old": "Tamka sauti za herufi.\nSauti hizi zinaunda silabi na maneno.",
+        "expected_new": "Tamka sauti au bainisha herufi za herufi.\nSauti hizi zinaunda silabi na maneno."
+      }
+    },
+    {
+      "base_id": "pg082_n0006",
+      "normal": {
+        "expected_old": "Tamka sauti ya mwanzo ya neno ulilolitaja.",
+        "expected_new": "Tamka sauti au bainisha herufi ya mwanzo ya neno ulilolitaja."
+      },
+      "easy_read": {
+        "text_id": "pg082_n0006_easy_read",
+        "expected_old": "Sema sauti ya mwanzo ya neno ulilotaja.",
+        "expected_new": "Sema sauti au bainisha herufi ya mwanzo ya neno ulilotaja."
+      }
+    },
+    {
+      "base_id": "pg082_n0008",
+      "normal": {
+        "expected_old": "Taja maneno mengine yanayoanza na sauti hiyo.",
+        "expected_new": "Taja maneno mengine yanayoanza na sauti au herufi hiyo."
+      },
+      "easy_read": {
+        "text_id": "pg082_n0008_easy_read",
+        "expected_old": "Taja maneno mengine ambayo yanaanza na sauti hiyo.",
+        "expected_new": "Taja maneno mengine ambayo yanaanza na sauti au herufi hiyo."
+      }
+    },
+    {
+      "base_id": "pg082_n0012",
+      "normal": {
+        "expected_old": "Taja sauti za mwanzo za majina ya picha hizi.",
+        "expected_new": "Tamka sauti au bainisha herufi za mwanzo za majina ya picha hizi."
+      },
+      "easy_read": {
+        "text_id": "pg082_n0012_easy_read",
+        "expected_old": "Taja sauti za mwanzo za majina ya picha hizi.",
+        "expected_new": "Tamka sauti au bainisha herufi za mwanzo za majina ya picha hizi."
+      }
+    },
+    {
+      "base_id": "pg082_n0014",
+      "normal": {
+        "expected_old": "Sauti za mwanzo za majina yapi zinafanana?",
+        "expected_new": "sauti au herufi za mwanzo za majina yapi zinafanana?"
+      },
+      "easy_read": {
+        "text_id": "pg082_n0014_easy_read",
+        "expected_old": "Sauti za mwanzo za majina yapi zinafanana?",
+        "expected_new": "sauti au herufi za mwanzo za majina yapi zinafanana?"
+      }
+    },
+    {
+      "base_id": "pg082_n0016",
+      "normal": {
+        "expected_old": "Sauti ya mwanzo ya jina lipi haifanani na mengine?",
+        "expected_new": "sauti au herufi ya mwanzo ya jina lipi haifanani na mengine?"
+      },
+      "easy_read": {
+        "text_id": "pg082_n0016_easy_read",
+        "expected_old": "Sauti ya mwanzo ya jina gani haifanani na mengine?",
+        "expected_new": "sauti au herufi ya mwanzo ya jina gani haifanani na mengine?"
+      }
+    },
+    {
+      "base_id": "pg083_n0021",
+      "normal": {
+        "expected_old": "Tamka sauti za herufi zinazounda silabi na maneno.",
+        "expected_new": "Tamka sauti au bainisha herufi za herufi zinazounda silabi na maneno."
+      },
+      "easy_read": {
+        "text_id": "pg083_n0021_easy_read",
+        "expected_old": "Tamka sauti za herufi zinazounda silabi na maneno.",
+        "expected_new": "Tamka sauti au bainisha herufi za herufi zinazounda silabi na maneno."
+      }
+    },
+    {
+      "base_id": "pg090_n0035",
+      "normal": {
+        "expected_old": "2. Tamka silabi za mwisho zinazounda maneno hayo.",
+        "expected_new": "2. Tamka au bainisha silabi za mwisho zinazounda maneno hayo."
+      },
+      "easy_read": {
+        "text_id": "pg090_n0035_easy_read",
+        "expected_old": "2. Tamka silabi za mwisho za maneno hayo.",
+        "expected_new": "2. Tamka au bainisha silabi za mwisho za maneno hayo."
+      }
+    },
+    {
+      "base_id": "pg090_n0037",
+      "normal": {
+        "expected_old": "Zitamke.",
+        "expected_new": "Zitamke na zisome."
+      },
+      "easy_read": {
+        "text_id": "pg090_n0037_easy_read",
+        "expected_old": "Zitamke.",
+        "expected_new": "Zitamke na zisome."
+      }
+    }
+  ]
+}
