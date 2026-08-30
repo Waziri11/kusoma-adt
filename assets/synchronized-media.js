@@ -36,6 +36,8 @@
     video.defaultMuted = true;
     video.muted = true;
     video.volume = 0;
+    video.defaultPlaybackRate = 1;
+    video.playbackRate = 1;
   };
 
   const clearFinalTrackTimer = () => {
@@ -74,7 +76,6 @@
       } catch (_) {}
       sessionStarted = true;
     }
-    video.playbackRate = audio.playbackRate || 1;
     const playback = nativePlay.call(video);
     if (playback && typeof playback.catch === "function") playback.catch(() => {});
   };
@@ -115,10 +116,6 @@
     audio.addEventListener("pause", () => pauseTogether(audio));
     audio.addEventListener("ended", () => scheduleCompletedSession(audio));
     audio.addEventListener("emptied", () => stopTogether(audio));
-    audio.addEventListener("ratechange", () => {
-      const video = signVideo();
-      if (video && audio === narration) video.playbackRate = audio.playbackRate || 1;
-    });
   };
 
   function SynchronizedAudio(...args) {
@@ -169,6 +166,23 @@
     true,
   );
 
+  // Sign-language delivery must remain at its recorded, natural speed even
+  // when the learner changes narration speed or another script changes media.
+  window.addEventListener(
+    "ratechange",
+    (event) => {
+      if (!isSignVideo(event.target)) return;
+      if (
+        event.target.defaultPlaybackRate !== 1 ||
+        event.target.playbackRate !== 1
+      ) {
+        event.target.defaultPlaybackRate = 1;
+        event.target.playbackRate = 1;
+      }
+    },
+    true,
+  );
+
   const prepareDynamicVideo = () => {
     const video = signVideo();
     if (!video) return;
@@ -183,7 +197,7 @@
   });
 
   window.__adtSynchronizedMedia = {
-    version: "49",
+    version: "50",
     getState: () => {
       const video = signVideo();
       return {
