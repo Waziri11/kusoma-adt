@@ -9,6 +9,7 @@
   const NativeAudio = window.Audio;
   const nativePlay = HTMLMediaElement.prototype.play;
   const nativePause = HTMLMediaElement.prototype.pause;
+  const nativeSetAttribute = Element.prototype.setAttribute;
   const FINAL_TRACK_GRACE_MS = 250;
 
   let narration = null;
@@ -16,10 +17,14 @@
   let sessionStarted = false;
   let finalTrackTimer = null;
 
+  const isSignSource = (source) =>
+    String(source || "").includes("/content/i18n/") &&
+    String(source || "").includes("/video/");
+
   const isSignVideo = (media) => {
     if (!(media instanceof HTMLVideoElement)) return false;
     const source = media.currentSrc || media.getAttribute("src") || "";
-    return source.includes("/content/i18n/") && source.includes("/video/");
+    return isSignSource(source);
   };
 
   const signVideo = () =>
@@ -33,11 +38,36 @@
 
   const muteSignVideo = (video) => {
     if (!video) return;
+    nativeSetAttribute.call(video, "muted", "");
+    nativeSetAttribute.call(video, "playsinline", "");
+    nativeSetAttribute.call(video, "webkit-playsinline", "");
     video.defaultMuted = true;
     video.muted = true;
     video.volume = 0;
+    video.preload = "auto";
     video.defaultPlaybackRate = 1;
     video.playbackRate = 1;
+  };
+
+  // React applies the video src before its autoplay attributes. Prime mapped
+  // sign videos before that src is attached so Safari/Chromium evaluate the
+  // autoplay request as muted even when the MP4 is already cached.
+  Element.prototype.setAttribute = function synchronizedSetAttribute(name, value) {
+    if (
+      this instanceof HTMLVideoElement &&
+      String(name).toLowerCase() === "src" &&
+      isSignSource(value)
+    ) {
+      muteSignVideo(this);
+    }
+    return nativeSetAttribute.call(this, name, value);
+  };
+
+  const attemptVideoPlayback = (video) => {
+    if (!isSignVideo(video) || !video.autoplay || video.ended) return;
+    muteSignVideo(video);
+    const playback = nativePlay.call(video);
+    if (playback && typeof playback.catch === "function") playback.catch(() => {});
   };
 
   const clearFinalTrackTimer = () => {
@@ -187,8 +217,20 @@
     const video = signVideo();
     if (!video) return;
     muteSignVideo(video);
-    if (narrationPlaying && narration) playTogether(narration);
+    if (narrationPlaying && narration) {
+      playTogether(narration);
+      return;
+    }
+    attemptVideoPlayback(video);
   };
+
+  for (const eventName of ["loadedmetadata", "canplay"]) {
+    window.addEventListener(
+      eventName,
+      (event) => attemptVideoPlayback(event.target),
+      true,
+    );
+  }
 
   // The runtime creates the sign video only after its control is enabled.
   new MutationObserver(prepareDynamicVideo).observe(document.documentElement, {
@@ -197,7 +239,7 @@
   });
 
   window.__adtSynchronizedMedia = {
-    version: "50",
+    version: "51",
     getState: () => {
       const video = signVideo();
       return {
