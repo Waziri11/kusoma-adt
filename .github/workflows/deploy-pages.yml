@@ -24,6 +24,60 @@ jobs:
       - name: Check out the book
         uses: actions/checkout@v4
 
+      - name: Validate reader and media references
+        run: |
+          python3 - <<'PY'
+          import json
+          from pathlib import Path
+          from html.parser import HTMLParser
+          from urllib.parse import unquote, urlsplit
+
+          root = Path('.')
+          locale = root / 'content/i18n/sw-TZ'
+          def load(path):
+              return json.loads(path.read_text(encoding='utf-8'))
+          pages = load(root / 'content/pages.json')
+          texts = load(locale / 'texts.json')
+          audios = load(locale / 'audios.json')
+          videos = load(locale / 'videos.json')
+          glossary = load(locale / 'glossary.json')
+          version = load(root / 'assets/config.json')['bundleVersion']
+          assert version == load(root / 'assets/release.json')['bundleVersion']
+          assert len(pages) == 106
+
+          class Page(HTMLParser):
+              def __init__(self):
+                  super().__init__()
+                  self.meta = {}
+              def handle_starttag(self, tag, attrs):
+                  attrs = dict(attrs)
+                  if tag == 'meta':
+                      self.meta[attrs.get('name')] = attrs.get('content')
+                  for key in ('src', 'href'):
+                      value = urlsplit(attrs.get(key, ''))
+                      if value.path and not value.scheme and not value.netloc:
+                          assert (root / unquote(value.path)).is_file(), value.path
+                  if 'data-id' in attrs:
+                      assert attrs['data-id'] in texts, attrs['data-id']
+
+          for number, entry in enumerate(pages, 1):
+              page = Page()
+              page.feed((root / entry['href']).read_text(encoding='utf-8'))
+              assert page.meta['title-id'] == entry['section_id']
+              assert page.meta['page-section-id'] == str(number)
+              assert entry['page_number'] == number
+              assert urlsplit(videos[f'video-{number}']).path == f'page_{number}.mp4'
+              assert any(entry['section_id'] in term['pages'] for term in glossary.values())
+          for folder, mappings in [('audio', audios), ('video', videos)]:
+              for filename in mappings.values():
+                  asset = locale / folder / urlsplit(filename).path
+                  assert asset.is_file() and asset.stat().st_size > 0, asset
+          assert not any(root.rglob('*.py'))
+          assert not any(root.rglob('*.md'))
+          assert not (root / '.gitignore').exists()
+          print(f'Validated {len(pages)} pages, {len(videos)} videos and {len(audios)} audio mappings.')
+          PY
+
       - name: Configure GitHub Pages
         uses: actions/configure-pages@v5
         with:

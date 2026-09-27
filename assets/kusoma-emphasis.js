@@ -1,11 +1,11 @@
 /* Preserve the source-book bold words through i18n and Easy Read rewrites. */
 (function () {
   var targets = {
-    pg085_n0018: ["bidhaa"],
-    pg086_n0004: ["bidhaa"],
-    pg086_n0005: ["bidhaa", "thamani"],
-    pg086_n0007: ["Thamani"],
-    pg086_n0009: ["kuving’arisha", "kuving'arisha"]
+    pg086_n0018: ["bidhaa"],
+    pg087_n0004: ["bidhaa"],
+    pg087_n0005: ["bidhaa", "thamani"],
+    pg087_n0007: ["Thamani"],
+    pg087_n0009: ["kuving’arisha", "kuving'arisha"]
   };
 
   function escaped(value) {

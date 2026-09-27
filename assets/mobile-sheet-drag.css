@@ -1,0 +1,45 @@
+/* Touch-safe drag handle for native mobile reader bottom sheets. */
+@media (max-width: 767.98px) {
+  [data-mobile-sheet-draggable] {
+    will-change: transform, opacity;
+  }
+
+  [data-mobile-sheet-drag-handle] {
+    position: relative !important;
+    display: block !important;
+    flex: 0 0 44px !important;
+    align-self: stretch !important;
+    width: 100% !important;
+    height: 44px !important;
+    margin: 0 !important;
+    border-radius: 0 !important;
+    background: transparent !important;
+    cursor: grab !important;
+    touch-action: none !important;
+    -webkit-user-select: none !important;
+    user-select: none !important;
+  }
+
+  [data-mobile-sheet-drag-handle]::after {
+    content: "";
+    position: absolute;
+    top: 11px;
+    left: 50%;
+    width: 40px;
+    height: 6px;
+    border-radius: 999px;
+    background: color-mix(in oklab, currentColor 25%, transparent);
+    transform: translateX(-50%);
+    pointer-events: none;
+  }
+
+  [data-mobile-sheet-dragging] [data-mobile-sheet-drag-handle] {
+    cursor: grabbing !important;
+  }
+}
+
+@media (max-width: 767.98px) and (prefers-reduced-motion: reduce) {
+  [data-mobile-sheet-draggable] {
+    transition-duration: 0.01ms !important;
+  }
+}

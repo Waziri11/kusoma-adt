@@ -5,7 +5,10 @@
     "variations": [
       "kwa adabu"
     ],
-    "emoji": "🙏🙂"
+    "emoji": "🙏🙂",
+    "pages": [
+      "pg010_sec001"
+    ]
   },
   "aibu": {
     "word": "aibu",
@@ -13,7 +16,10 @@
     "variations": [
       "aibu"
     ],
-    "emoji": "😳🙈"
+    "emoji": "😳🙈",
+    "pages": [
+      "pg020_sec001"
+    ]
   },
   "alama za milia": {
     "word": "alama za milia",
@@ -22,7 +28,11 @@
       "alama za milia",
       "milia"
     ],
-    "emoji": "⚪🛣️"
+    "emoji": "⚪🛣️",
+    "pages": [
+      "pg097_sec001",
+      "pg098_sec001"
+    ]
   },
   "alama za uandishi": {
     "word": "alama za uandishi",
@@ -31,7 +41,10 @@
       "alama ya uandishi",
       "alama za uandishi"
     ],
-    "emoji": "✍️❗❓"
+    "emoji": "✍️❗❓",
+    "pages": [
+      "pg094_sec001"
+    ]
   },
   "andazi": {
     "word": "andazi",
@@ -40,7 +53,13 @@
       "andazi",
       "maandazi"
     ],
-    "emoji": "🍩🥟"
+    "emoji": "🍩🥟",
+    "pages": [
+      "pg012_sec001",
+      "pg014_sec001",
+      "pg015_sec001",
+      "pg017_sec001"
+    ]
   },
   "anga": {
     "word": "anga",
@@ -48,7 +67,11 @@
     "variations": [
       "anga"
     ],
-    "emoji": "☁️🌤️"
+    "emoji": "☁️🌤️",
+    "pages": [
+      "pg014_sec001",
+      "pg079_sec001"
+    ]
   },
   "anza": {
     "word": "anza",
@@ -57,7 +80,11 @@
       "anza",
       "kuanza"
     ],
-    "emoji": "▶️🚦"
+    "emoji": "▶️🚦",
+    "pages": [
+      "pg014_sec001",
+      "pg087_sec001"
+    ]
   },
   "asali": {
     "word": "asali",
@@ -65,7 +92,10 @@
     "variations": [
       "asali"
     ],
-    "emoji": "🍯🐝"
+    "emoji": "🍯🐝",
+    "pages": [
+      "pg077_sec001"
+    ]
   },
   "askari": {
     "word": "askari",
@@ -74,7 +104,16 @@
       "askari",
       "maaskari"
     ],
-    "emoji": "👮🛡️"
+    "emoji": "👮🛡️",
+    "pages": [
+      "pg012_sec001",
+      "pg014_sec001",
+      "pg015_sec001",
+      "pg017_sec001",
+      "pg085_sec001",
+      "pg097_sec001",
+      "pg098_sec001"
+    ]
   },
   "baba": {
     "word": "baba",
@@ -83,7 +122,22 @@
       "baba",
       "baba yake"
     ],
-    "emoji": "👨🏠"
+    "emoji": "👨🏠",
+    "pages": [
+      "pg020_sec001",
+      "pg035_sec001",
+      "pg044_sec001",
+      "pg051_sec001",
+      "pg055_sec001",
+      "pg070_sec001",
+      "pg072_sec001",
+      "pg080_sec001",
+      "pg086_sec001",
+      "pg089_sec001",
+      "pg090_sec001",
+      "pg091_sec001",
+      "pg100_sec001"
+    ]
   },
   "babu": {
     "word": "babu",
@@ -92,7 +146,14 @@
       "babu",
       "mababu"
     ],
-    "emoji": "👴❤️"
+    "emoji": "👴❤️",
+    "pages": [
+      "pg019_sec001",
+      "pg020_sec001",
+      "pg029_sec001",
+      "pg051_sec001",
+      "pg072_sec001"
+    ]
   },
   "bahari": {
     "word": "bahari",
@@ -100,7 +161,10 @@
     "variations": [
       "bahari"
     ],
-    "emoji": "🌊🐟"
+    "emoji": "🌊🐟",
+    "pages": [
+      "pg058_sec001"
+    ]
   },
   "bamia": {
     "word": "bamia",
@@ -108,7 +172,11 @@
     "variations": [
       "bamia"
     ],
-    "emoji": "🥬🍲"
+    "emoji": "🥬🍲",
+    "pages": [
+      "pg021_sec001",
+      "pg022_sec001"
+    ]
   },
   "bata": {
     "word": "bata",
@@ -117,7 +185,12 @@
       "bata",
       "mabata"
     ],
-    "emoji": "🦆💧"
+    "emoji": "🦆💧",
+    "pages": [
+      "pg035_sec001",
+      "pg056_sec001",
+      "pg100_sec001"
+    ]
   },
   "beba": {
     "word": "beba",
@@ -126,7 +199,12 @@
       "beba",
       "kubeba"
     ],
-    "emoji": "🎒👐"
+    "emoji": "🎒👐",
+    "pages": [
+      "pg019_sec001",
+      "pg020_sec001",
+      "pg096_sec001"
+    ]
   },
   "bibi": {
     "word": "bibi",
@@ -135,7 +213,16 @@
       "bibi",
       "mabibi"
     ],
-    "emoji": "👵❤️"
+    "emoji": "👵❤️",
+    "pages": [
+      "pg018_sec001",
+      "pg020_sec001",
+      "pg029_sec001",
+      "pg072_sec001",
+      "pg095_sec001",
+      "pg096_sec001",
+      "pg100_sec001"
+    ]
   },
   "bidhaa": {
     "word": "bidhaa",
@@ -144,7 +231,15 @@
       "bidhaa",
       "bidhaa za"
     ],
-    "emoji": "📦🛒"
+    "emoji": "📦🛒",
+    "pages": [
+      "pg086_sec001",
+      "pg087_sec001",
+      "pg088_sec001",
+      "pg089_sec001",
+      "pg090_sec001",
+      "pg091_sec001"
+    ]
   },
   "bidii": {
     "word": "bidii",
@@ -153,7 +248,11 @@
       "aliongeza bidii",
       "kwa bidii"
     ],
-    "emoji": "💪📘"
+    "emoji": "💪📘",
+    "pages": [
+      "pg095_sec001",
+      "pg104_sec001"
+    ]
   },
   "binadamu": {
     "word": "binadamu",
@@ -162,7 +261,10 @@
       "binadamu",
       "wanadamu"
     ],
-    "emoji": "👤🙂"
+    "emoji": "👤🙂",
+    "pages": [
+      "pg103_sec001"
+    ]
   },
   "boga": {
     "word": "boga",
@@ -171,7 +273,11 @@
       "boga",
       "maboga"
     ],
-    "emoji": "🎃🥬"
+    "emoji": "🎃🥬",
+    "pages": [
+      "pg044_sec001",
+      "pg045_sec001"
+    ]
   },
   "boma": {
     "word": "boma",
@@ -180,7 +286,12 @@
       "boma",
       "maboma"
     ],
-    "emoji": "🏘️🪵"
+    "emoji": "🏘️🪵",
+    "pages": [
+      "pg021_sec001",
+      "pg022_sec001",
+      "pg100_sec001"
+    ]
   },
   "bomoa": {
     "word": "bomoa",
@@ -189,7 +300,11 @@
       "bomoa",
       "kubomoa"
     ],
-    "emoji": "🏚️🔨"
+    "emoji": "🏚️🔨",
+    "pages": [
+      "pg021_sec001",
+      "pg022_sec001"
+    ]
   },
   "bomu": {
     "word": "bomu",
@@ -198,7 +313,10 @@
       "bomu",
       "mabomu"
     ],
-    "emoji": "💣⚠️"
+    "emoji": "💣⚠️",
+    "pages": [
+      "pg021_sec001"
+    ]
   },
   "boya": {
     "word": "boya",
@@ -207,7 +325,10 @@
       "boya",
       "maboya"
     ],
-    "emoji": "🛟🌊"
+    "emoji": "🛟🌊",
+    "pages": [
+      "pg048_sec001"
+    ]
   },
   "bustani": {
     "word": "bustani",
@@ -216,7 +337,10 @@
       "bustani",
       "bustani ya maua"
     ],
-    "emoji": "🌷🌿"
+    "emoji": "🌷🌿",
+    "pages": [
+      "pg101_sec001"
+    ]
   },
   "chati": {
     "word": "chati",
@@ -225,7 +349,11 @@
       "chati",
       "chati za"
     ],
-    "emoji": "📊📋"
+    "emoji": "📊📋",
+    "pages": [
+      "pg067_sec001",
+      "pg085_sec001"
+    ]
   },
   "chuma": {
     "word": "chuma",
@@ -234,7 +362,10 @@
       "chuma",
       "vyuma"
     ],
-    "emoji": "🔩⚙️"
+    "emoji": "🔩⚙️",
+    "pages": [
+      "pg067_sec001"
+    ]
   },
   "chungwa": {
     "word": "chungwa",
@@ -243,7 +374,14 @@
       "chungwa",
       "machungwa"
     ],
-    "emoji": "🍊"
+    "emoji": "🍊",
+    "pages": [
+      "pg010_sec001",
+      "pg039_sec001",
+      "pg066_sec001",
+      "pg086_sec001",
+      "pg093_sec001"
+    ]
   },
   "dada": {
     "word": "dada",
@@ -252,7 +390,13 @@
       "dada",
       "madada"
     ],
-    "emoji": "👧"
+    "emoji": "👧",
+    "pages": [
+      "pg026_sec001",
+      "pg035_sec001",
+      "pg038_sec001",
+      "pg044_sec001"
+    ]
   },
   "damu": {
     "word": "damu",
@@ -260,7 +404,11 @@
     "variations": [
       "damu"
     ],
-    "emoji": "🩸"
+    "emoji": "🩸",
+    "pages": [
+      "pg025_sec001",
+      "pg026_sec001"
+    ]
   },
   "darasani": {
     "word": "darasani",
@@ -269,7 +417,15 @@
       "darasa",
       "madarasani"
     ],
-    "emoji": "🏫👩‍🏫"
+    "emoji": "🏫👩‍🏫",
+    "pages": [
+      "pg006_sec001",
+      "pg007_sec001",
+      "pg010_sec001",
+      "pg097_sec001",
+      "pg104_sec001",
+      "pg105_sec001"
+    ]
   },
   "dari": {
     "word": "dari",
@@ -277,7 +433,10 @@
     "variations": [
       "dari"
     ],
-    "emoji": "🏠⬆️"
+    "emoji": "🏠⬆️",
+    "pages": [
+      "pg058_sec001"
+    ]
   },
   "debe": {
     "word": "debe",
@@ -286,7 +445,12 @@
       "debe",
       "madebe"
     ],
-    "emoji": "🪣"
+    "emoji": "🪣",
+    "pages": [
+      "pg026_sec001",
+      "pg044_sec001",
+      "pg100_sec001"
+    ]
   },
   "deki": {
     "word": "deki",
@@ -295,7 +459,10 @@
       "deki",
       "madeki"
     ],
-    "emoji": "🧹🧼"
+    "emoji": "🧹🧼",
+    "pages": [
+      "pg026_sec001"
+    ]
   },
   "dhahabu": {
     "word": "dhahabu",
@@ -303,7 +470,10 @@
     "variations": [
       "dhahabu"
     ],
-    "emoji": "🥇💛"
+    "emoji": "🥇💛",
+    "pages": [
+      "pg088_sec001"
+    ]
   },
   "dhaifu": {
     "word": "dhaifu",
@@ -311,7 +481,10 @@
     "variations": [
       "dhaifu"
     ],
-    "emoji": "😓🪶"
+    "emoji": "😓🪶",
+    "pages": [
+      "pg088_sec001"
+    ]
   },
   "dobi": {
     "word": "dobi",
@@ -320,7 +493,10 @@
       "dobi",
       "madobi"
     ],
-    "emoji": "🧺👕"
+    "emoji": "🧺👕",
+    "pages": [
+      "pg026_sec001"
+    ]
   },
   "dogo": {
     "word": "dogo",
@@ -330,7 +506,13 @@
       "ndogo",
       "mdogo"
     ],
-    "emoji": "🤏📏"
+    "emoji": "🤏📏",
+    "pages": [
+      "pg031_sec001",
+      "pg044_sec001",
+      "pg081_sec001",
+      "pg082_sec001"
+    ]
   },
   "duka": {
     "word": "duka",
@@ -339,7 +521,15 @@
       "duka",
       "maduka"
     ],
-    "emoji": "🏪"
+    "emoji": "🏪",
+    "pages": [
+      "pg025_sec001",
+      "pg026_sec001",
+      "pg029_sec001",
+      "pg090_sec001",
+      "pg091_sec001",
+      "pg100_sec001"
+    ]
   },
   "duma": {
     "word": "duma",
@@ -348,7 +538,10 @@
       "duma",
       "maduma"
     ],
-    "emoji": "🐆"
+    "emoji": "🐆",
+    "pages": [
+      "pg026_sec001"
+    ]
   },
   "elfu": {
     "word": "elfu",
@@ -356,7 +549,13 @@
     "variations": [
       "elfu"
     ],
-    "emoji": "🔢1️⃣0️⃣0️⃣0️⃣"
+    "emoji": "🔢1️⃣0️⃣0️⃣0️⃣",
+    "pages": [
+      "pg014_sec001",
+      "pg015_sec001",
+      "pg017_sec001",
+      "pg041_sec001"
+    ]
   },
   "elimu": {
     "word": "elimu",
@@ -365,7 +564,17 @@
       "kupatiwa elimu",
       "masomo"
     ],
-    "emoji": "📚🏫"
+    "emoji": "📚🏫",
+    "pages": [
+      "pg001_sec001",
+      "pg002_sec001",
+      "pg003_sec001",
+      "pg006_sec001",
+      "pg007_sec001",
+      "pg017_sec001",
+      "pg104_sec001",
+      "pg106_sec001"
+    ]
   },
   "embe": {
     "word": "embe",
@@ -374,7 +583,15 @@
       "embe",
       "maembe"
     ],
-    "emoji": "🥭🍃"
+    "emoji": "🥭🍃",
+    "pages": [
+      "pg012_sec001",
+      "pg014_sec001",
+      "pg015_sec001",
+      "pg016_sec001",
+      "pg017_sec001",
+      "pg072_sec001"
+    ]
   },
   "endesha": {
     "word": "endesha",
@@ -383,7 +600,10 @@
       "endesha",
       "kuendesha"
     ],
-    "emoji": "🚗🛣️"
+    "emoji": "🚗🛣️",
+    "pages": [
+      "pg014_sec001"
+    ]
   },
   "fedha": {
     "word": "fedha",
@@ -391,7 +611,8 @@
     "variations": [
       "fedha"
     ],
-    "emoji": "💵💰"
+    "emoji": "💵💰",
+    "pages": []
   },
   "fuga": {
     "word": "fuga",
@@ -401,7 +622,10 @@
       "kufuga",
       "amefuga"
     ],
-    "emoji": "🐔🐐"
+    "emoji": "🐔🐐",
+    "pages": [
+      "pg044_sec001"
+    ]
   },
   "furaha": {
     "word": "furaha",
@@ -409,7 +633,11 @@
     "variations": [
       "furaha"
     ],
-    "emoji": "😄🎉"
+    "emoji": "😄🎉",
+    "pages": [
+      "pg058_sec001",
+      "pg102_sec001"
+    ]
   },
   "gauni": {
     "word": "gauni",
@@ -418,7 +646,12 @@
       "gauni",
       "magauni"
     ],
-    "emoji": "👗"
+    "emoji": "👗",
+    "pages": [
+      "pg042_sec001",
+      "pg044_sec001",
+      "pg045_sec001"
+    ]
   },
   "gogo": {
     "word": "gogo",
@@ -427,7 +660,11 @@
       "gogo",
       "magogo"
     ],
-    "emoji": "🪵🌳"
+    "emoji": "🪵🌳",
+    "pages": [
+      "pg044_sec001",
+      "pg045_sec001"
+    ]
   },
   "goli": {
     "word": "goli",
@@ -436,7 +673,11 @@
       "goli",
       "magoli"
     ],
-    "emoji": "⚽🥅"
+    "emoji": "⚽🥅",
+    "pages": [
+      "pg043_sec001",
+      "pg044_sec001"
+    ]
   },
   "gololi": {
     "word": "gololi",
@@ -445,7 +686,11 @@
       "gololi",
       "magololi"
     ],
-    "emoji": "🔵🎲"
+    "emoji": "🔵🎲",
+    "pages": [
+      "pg044_sec001",
+      "pg045_sec001"
+    ]
   },
   "gunia": {
     "word": "gunia",
@@ -454,7 +699,11 @@
       "gunia",
       "magunia"
     ],
-    "emoji": "🧺📦"
+    "emoji": "🧺📦",
+    "pages": [
+      "pg044_sec001",
+      "pg045_sec001"
+    ]
   },
   "hadithi": {
     "word": "hadithi",
@@ -462,7 +711,16 @@
     "variations": [
       "hadithi"
     ],
-    "emoji": "📖🗨️"
+    "emoji": "📖🗨️",
+    "pages": [
+      "pg007_sec001",
+      "pg071_sec001",
+      "pg072_sec001",
+      "pg095_sec001",
+      "pg096_sec001",
+      "pg099_sec001",
+      "pg105_sec001"
+    ]
   },
   "haki": {
     "word": "haki",
@@ -472,7 +730,14 @@
       "haki ya kupendwa",
       "haki ya elimu"
     ],
-    "emoji": "⚖️🤝"
+    "emoji": "⚖️🤝",
+    "pages": [
+      "pg003_sec001",
+      "pg007_sec001",
+      "pg054_sec001",
+      "pg104_sec001",
+      "pg105_sec001"
+    ]
   },
   "hamu": {
     "word": "hamu",
@@ -480,7 +745,10 @@
     "variations": [
       "hamu"
     ],
-    "emoji": "🙂✨"
+    "emoji": "🙂✨",
+    "pages": [
+      "pg054_sec001"
+    ]
   },
   "hela": {
     "word": "hela",
@@ -489,7 +757,12 @@
       "hela",
       "pesa"
     ],
-    "emoji": "💰🪙"
+    "emoji": "💰🪙",
+    "pages": [
+      "pg040_sec001",
+      "pg041_sec001",
+      "pg055_sec001"
+    ]
   },
   "hema": {
     "word": "hema",
@@ -498,7 +771,12 @@
       "hema",
       "mahema"
     ],
-    "emoji": "⛺🏕️"
+    "emoji": "⛺🏕️",
+    "pages": [
+      "pg052_sec001",
+      "pg054_sec001",
+      "pg055_sec001"
+    ]
   },
   "herufi": {
     "word": "herufi",
@@ -507,7 +785,80 @@
       "herufi za irabu",
       "herufi"
     ],
-    "emoji": "🔤✏️"
+    "emoji": "🔤✏️",
+    "pages": [
+      "pg004_sec001",
+      "pg005_sec001",
+      "pg012_sec001",
+      "pg013_sec001",
+      "pg014_sec001",
+      "pg015_sec001",
+      "pg016_sec001",
+      "pg017_sec001",
+      "pg018_sec001",
+      "pg019_sec001",
+      "pg020_sec001",
+      "pg021_sec001",
+      "pg022_sec001",
+      "pg023_sec001",
+      "pg024_sec001",
+      "pg025_sec001",
+      "pg026_sec001",
+      "pg027_sec001",
+      "pg028_sec001",
+      "pg031_sec001",
+      "pg032_sec001",
+      "pg033_sec001",
+      "pg034_sec001",
+      "pg036_sec001",
+      "pg037_sec001",
+      "pg039_sec001",
+      "pg040_sec001",
+      "pg042_sec001",
+      "pg043_sec001",
+      "pg044_sec001",
+      "pg046_sec001",
+      "pg047_sec001",
+      "pg048_sec001",
+      "pg049_sec001",
+      "pg050_sec001",
+      "pg051_sec001",
+      "pg052_sec001",
+      "pg053_sec001",
+      "pg054_sec001",
+      "pg056_sec001",
+      "pg057_sec001",
+      "pg058_sec001",
+      "pg059_sec001",
+      "pg060_sec001",
+      "pg061_sec001",
+      "pg062_sec001",
+      "pg063_sec001",
+      "pg064_sec001",
+      "pg066_sec001",
+      "pg067_sec001",
+      "pg068_sec001",
+      "pg069_sec001",
+      "pg070_sec001",
+      "pg071_sec001",
+      "pg072_sec001",
+      "pg073_sec001",
+      "pg075_sec001",
+      "pg076_sec001",
+      "pg078_sec001",
+      "pg079_sec001",
+      "pg080_sec001",
+      "pg081_sec001",
+      "pg082_sec001",
+      "pg083_sec001",
+      "pg084_sec001",
+      "pg085_sec001",
+      "pg086_sec001",
+      "pg087_sec001",
+      "pg090_sec001",
+      "pg092_sec001",
+      "pg099_sec001"
+    ]
   },
   "hesabu": {
     "word": "hesabu",
@@ -517,7 +868,15 @@
       "kuhesabu",
       "amehesabu"
     ],
-    "emoji": "🔢➕"
+    "emoji": "🔢➕",
+    "pages": [
+      "pg006_sec001",
+      "pg007_sec001",
+      "pg054_sec001",
+      "pg055_sec001",
+      "pg091_sec001",
+      "pg106_sec001"
+    ]
   },
   "hodi": {
     "word": "hodi",
@@ -525,7 +884,10 @@
     "variations": [
       "hodi"
     ],
-    "emoji": "🚪👋"
+    "emoji": "🚪👋",
+    "pages": [
+      "pg054_sec001"
+    ]
   },
   "hofu": {
     "word": "hofu",
@@ -535,7 +897,11 @@
       "kuhofu",
       "ana hofu"
     ],
-    "emoji": "😨⚠️"
+    "emoji": "😨⚠️",
+    "pages": [
+      "pg054_sec001",
+      "pg055_sec001"
+    ]
   },
   "homa": {
     "word": "homa",
@@ -543,7 +909,10 @@
     "variations": [
       "homa"
     ],
-    "emoji": "🤒🌡️"
+    "emoji": "🤒🌡️",
+    "pages": [
+      "pg055_sec001"
+    ]
   },
   "huduma": {
     "word": "huduma",
@@ -552,7 +921,10 @@
       "huduma",
       "huduma za jamii"
     ],
-    "emoji": "🤝🩺"
+    "emoji": "🤝🩺",
+    "pages": [
+      "pg055_sec001"
+    ]
   },
   "huzuni": {
     "word": "huzuni",
@@ -561,7 +933,10 @@
       "huzuni",
       "mwenye huzuni"
     ],
-    "emoji": "😢💔"
+    "emoji": "😢💔",
+    "pages": [
+      "pg095_sec001"
+    ]
   },
   "idadi": {
     "word": "idadi",
@@ -569,7 +944,10 @@
     "variations": [
       "idadi"
     ],
-    "emoji": "🔢📊"
+    "emoji": "🔢📊",
+    "pages": [
+      "pg091_sec001"
+    ]
   },
   "imba": {
     "word": "imba",
@@ -578,7 +956,12 @@
       "imba",
       "kuimba"
     ],
-    "emoji": "🎵🎤"
+    "emoji": "🎵🎤",
+    "pages": [
+      "pg015_sec001",
+      "pg017_sec001",
+      "pg074_sec001"
+    ]
   },
   "inua": {
     "word": "inua",
@@ -587,7 +970,12 @@
       "inua",
       "kuinua"
     ],
-    "emoji": "⬆️🖐️"
+    "emoji": "⬆️🖐️",
+    "pages": [
+      "pg009_sec001",
+      "pg015_sec001",
+      "pg016_sec001"
+    ]
   },
   "irabu": {
     "word": "irabu",
@@ -596,7 +984,10 @@
       "herufi za irabu",
       "irabu"
     ],
-    "emoji": "🔠🗣️"
+    "emoji": "🔠🗣️",
+    "pages": [
+      "pg012_sec001"
+    ]
   },
   "ishi": {
     "word": "ishi",
@@ -605,7 +996,11 @@
       "ishi",
       "kuishi"
     ],
-    "emoji": "🌱🏠"
+    "emoji": "🌱🏠",
+    "pages": [
+      "pg015_sec001",
+      "pg104_sec001"
+    ]
   },
   "ita": {
     "word": "ita",
@@ -614,7 +1009,11 @@
       "ita",
       "kuita"
     ],
-    "emoji": "📣🗣️"
+    "emoji": "📣🗣️",
+    "pages": [
+      "pg015_sec001",
+      "pg017_sec001"
+    ]
   },
   "jagi": {
     "word": "jagi",
@@ -623,7 +1022,10 @@
       "jagi",
       "majagi"
     ],
-    "emoji": "🏺💧"
+    "emoji": "🏺💧",
+    "pages": [
+      "pg044_sec001"
+    ]
   },
   "kamba": {
     "word": "kamba",
@@ -632,7 +1034,12 @@
       "kamba",
       "kamba za kufungia"
     ],
-    "emoji": "🪢"
+    "emoji": "🪢",
+    "pages": [
+      "pg052_sec001",
+      "pg074_sec001",
+      "pg095_sec001"
+    ]
   },
   "kesho": {
     "word": "kesho",
@@ -640,7 +1047,11 @@
     "variations": [
       "kesho"
     ],
-    "emoji": "📅⏭️"
+    "emoji": "📅⏭️",
+    "pages": [
+      "pg069_sec001",
+      "pg070_sec001"
+    ]
   },
   "kijiji": {
     "word": "kijiji",
@@ -649,7 +1060,10 @@
       "kijiji",
       "vijiji"
     ],
-    "emoji": "🏘️🌿"
+    "emoji": "🏘️🌿",
+    "pages": [
+      "pg086_sec001"
+    ]
   },
   "kinga": {
     "word": "kinga",
@@ -657,7 +1071,10 @@
     "variations": [
       "kinga"
     ],
-    "emoji": "🛡️"
+    "emoji": "🛡️",
+    "pages": [
+      "pg080_sec001"
+    ]
   },
   "kinu": {
     "word": "kinu",
@@ -666,7 +1083,12 @@
       "kinu",
       "vinu"
     ],
-    "emoji": "🌾🥣"
+    "emoji": "🌾🥣",
+    "pages": [
+      "pg028_sec001",
+      "pg064_sec001",
+      "pg065_sec001"
+    ]
   },
   "kitabu": {
     "word": "kitabu",
@@ -675,7 +1097,16 @@
       "vitabu",
       "kitabu cha kiada"
     ],
-    "emoji": "📖📚"
+    "emoji": "📖📚",
+    "pages": [
+      "pg001_sec001",
+      "pg002_sec001",
+      "pg003_sec001",
+      "pg006_sec001",
+      "pg007_sec001",
+      "pg009_sec001",
+      "pg106_sec001"
+    ]
   },
   "kobe": {
     "word": "kobe",
@@ -684,7 +1115,13 @@
       "kobe",
       "makobe"
     ],
-    "emoji": "🐢"
+    "emoji": "🐢",
+    "pages": [
+      "pg022_sec001",
+      "pg023_sec001",
+      "pg024_sec001",
+      "pg100_sec001"
+    ]
   },
   "kokwa": {
     "word": "kokwa",
@@ -693,7 +1130,11 @@
       "kokwa",
       "kokwa za"
     ],
-    "emoji": "🌰🍑"
+    "emoji": "🌰🍑",
+    "pages": [
+      "pg084_sec001",
+      "pg085_sec001"
+    ]
   },
   "konsonanti": {
     "word": "konsonanti",
@@ -702,7 +1143,14 @@
       "konsonanti",
       "konsonanti hizo"
     ],
-    "emoji": "🔠🗣️"
+    "emoji": "🔠🗣️",
+    "pages": [
+      "pg018_sec001",
+      "pg031_sec001",
+      "pg042_sec001",
+      "pg056_sec001",
+      "pg068_sec001"
+    ]
   },
   "kope": {
     "word": "kope",
@@ -712,7 +1160,10 @@
       "kope la",
       "makope"
     ],
-    "emoji": "👁️"
+    "emoji": "👁️",
+    "pages": [
+      "pg038_sec001"
+    ]
   },
   "kopo": {
     "word": "kopo",
@@ -721,7 +1172,10 @@
       "kopo",
       "makopo"
     ],
-    "emoji": "🥫"
+    "emoji": "🥫",
+    "pages": [
+      "pg038_sec001"
+    ]
   },
   "kovu": {
     "word": "kovu",
@@ -730,7 +1184,11 @@
       "kovu",
       "makovu"
     ],
-    "emoji": "🩹"
+    "emoji": "🩹",
+    "pages": [
+      "pg064_sec001",
+      "pg065_sec001"
+    ]
   },
   "kuagana": {
     "word": "kuagana",
@@ -739,7 +1197,11 @@
       "agana",
       "kuagana"
     ],
-    "emoji": "👋🌅"
+    "emoji": "👋🌅",
+    "pages": [
+      "pg008_sec001",
+      "pg009_sec001"
+    ]
   },
   "kubashiri": {
     "word": "kubashiri",
@@ -749,7 +1211,10 @@
       "bashiri",
       "kubashiria"
     ],
-    "emoji": "🤔🔮"
+    "emoji": "🤔🔮",
+    "pages": [
+      "pg094_sec001"
+    ]
   },
   "kufahamu": {
     "word": "kufahamu",
@@ -758,7 +1223,12 @@
       "ufahamu",
       "kufahamu"
     ],
-    "emoji": "💡🧠"
+    "emoji": "💡🧠",
+    "pages": [
+      "pg005_sec001",
+      "pg091_sec001",
+      "pg094_sec001"
+    ]
   },
   "kujali": {
     "word": "kujali",
@@ -767,7 +1237,10 @@
       "wananijali",
       "jali"
     ],
-    "emoji": "❤️🤗"
+    "emoji": "❤️🤗",
+    "pages": [
+      "pg104_sec001"
+    ]
   },
   "kujitambulisha": {
     "word": "kujitambulisha",
@@ -776,7 +1249,10 @@
       "jitambulisha",
       "kujitambulisha"
     ],
-    "emoji": "🙋🗣️"
+    "emoji": "🙋🗣️",
+    "pages": [
+      "pg008_sec001"
+    ]
   },
   "kuku": {
     "word": "kuku",
@@ -785,7 +1261,13 @@
       "kuku",
       "makuku"
     ],
-    "emoji": "🐔"
+    "emoji": "🐔",
+    "pages": [
+      "pg022_sec001",
+      "pg024_sec001",
+      "pg029_sec001",
+      "pg048_sec001"
+    ]
   },
   "kumbukumbu": {
     "word": "kumbukumbu",
@@ -794,7 +1276,10 @@
       "kumbukumbu",
       "za kumbukumbu"
     ],
-    "emoji": "📸📝"
+    "emoji": "📸📝",
+    "pages": [
+      "pg102_sec001"
+    ]
   },
   "kumi": {
     "word": "kumi",
@@ -802,7 +1287,16 @@
     "variations": [
       "kumi"
     ],
-    "emoji": "🔟🔢"
+    "emoji": "🔟🔢",
+    "pages": [
+      "pg005_sec001",
+      "pg007_sec001",
+      "pg023_sec001",
+      "pg024_sec001",
+      "pg041_sec001",
+      "pg094_sec001",
+      "pg099_sec001"
+    ]
   },
   "kumtenga": {
     "word": "kumtenga",
@@ -812,7 +1306,10 @@
       "kutenga",
       "hatupaswi kumtenga"
     ],
-    "emoji": "🚫😔"
+    "emoji": "🚫😔",
+    "pages": [
+      "pg103_sec001"
+    ]
   },
   "kumwagilia": {
     "word": "kumwagilia",
@@ -822,7 +1319,10 @@
       "humwagilia",
       "kumwagilia maua"
     ],
-    "emoji": "💧🪴"
+    "emoji": "💧🪴",
+    "pages": [
+      "pg101_sec001"
+    ]
   },
   "kuni": {
     "word": "kuni",
@@ -830,7 +1330,13 @@
     "variations": [
       "kuni"
     ],
-    "emoji": "🪵🔥"
+    "emoji": "🪵🔥",
+    "pages": [
+      "pg020_sec001",
+      "pg028_sec001",
+      "pg095_sec001",
+      "pg096_sec001"
+    ]
   },
   "kunielekeza": {
     "word": "kunielekeza",
@@ -839,7 +1345,11 @@
       "kuelekeza",
       "maelekezo"
     ],
-    "emoji": "👉🧭"
+    "emoji": "👉🧭",
+    "pages": [
+      "pg091_sec001",
+      "pg104_sec001"
+    ]
   },
   "kusaidiana": {
     "word": "kusaidiana",
@@ -849,7 +1359,11 @@
       "kusaidia",
       "msaada"
     ],
-    "emoji": "🤝💛"
+    "emoji": "🤝💛",
+    "pages": [
+      "pg096_sec001",
+      "pg097_sec001"
+    ]
   },
   "kusalimiana": {
     "word": "kusalimiana",
@@ -858,7 +1372,11 @@
       "salamu",
       "kusalimiana"
     ],
-    "emoji": "👋😊"
+    "emoji": "👋😊",
+    "pages": [
+      "pg008_sec001",
+      "pg095_sec001"
+    ]
   },
   "kushirikiana": {
     "word": "kushirikiana",
@@ -867,7 +1385,10 @@
       "shirikiana",
       "ushirikiano"
     ],
-    "emoji": "🤝👫"
+    "emoji": "🤝👫",
+    "pages": [
+      "pg104_sec001"
+    ]
   },
   "kutamka": {
     "word": "kutamka",
@@ -877,7 +1398,12 @@
       "kutamkwa",
       "alitamka"
     ],
-    "emoji": "🗣️🔊"
+    "emoji": "🗣️🔊",
+    "pages": [
+      "pg091_sec001",
+      "pg099_sec001",
+      "pg102_sec001"
+    ]
   },
   "kwako": {
     "word": "kwako",
@@ -885,7 +1411,12 @@
     "variations": [
       "kwako"
     ],
-    "emoji": "👉🏠"
+    "emoji": "👉🏠",
+    "pages": [
+      "pg007_sec001",
+      "pg084_sec001",
+      "pg085_sec001"
+    ]
   },
   "kwangu": {
     "word": "kwangu",
@@ -893,7 +1424,10 @@
     "variations": [
       "kwangu"
     ],
-    "emoji": "🙋🏠"
+    "emoji": "🙋🏠",
+    "pages": [
+      "pg085_sec001"
+    ]
   },
   "kwao": {
     "word": "kwao",
@@ -901,7 +1435,13 @@
     "variations": [
       "kwao"
     ],
-    "emoji": "🏡👥"
+    "emoji": "🏡👥",
+    "pages": [
+      "pg084_sec001",
+      "pg085_sec001",
+      "pg091_sec001",
+      "pg101_sec001"
+    ]
   },
   "kwea": {
     "word": "kwea",
@@ -910,7 +1450,11 @@
       "kwea",
       "anakwea"
     ],
-    "emoji": "🌳⬆️"
+    "emoji": "🌳⬆️",
+    "pages": [
+      "pg084_sec001",
+      "pg085_sec001"
+    ]
   },
   "kwenda": {
     "word": "kwenda",
@@ -920,7 +1464,15 @@
       "ninakwenda",
       "alikwenda"
     ],
-    "emoji": "🚶➡️"
+    "emoji": "🚶➡️",
+    "pages": [
+      "pg084_sec001",
+      "pg085_sec001",
+      "pg086_sec001",
+      "pg095_sec001",
+      "pg096_sec001",
+      "pg102_sec001"
+    ]
   },
   "kwenu": {
     "word": "kwenu",
@@ -928,7 +1480,10 @@
     "variations": [
       "kwenu"
     ],
-    "emoji": "🏠👨‍👩‍👧‍👦"
+    "emoji": "🏠👨‍👩‍👧‍👦",
+    "pages": [
+      "pg085_sec001"
+    ]
   },
   "kwetu": {
     "word": "kwetu",
@@ -936,7 +1491,11 @@
     "variations": [
       "kwetu"
     ],
-    "emoji": "🏠👨‍👩‍👧"
+    "emoji": "🏠👨‍👩‍👧",
+    "pages": [
+      "pg084_sec001",
+      "pg085_sec001"
+    ]
   },
   "kwikwi": {
     "word": "kwikwi",
@@ -944,7 +1503,10 @@
     "variations": [
       "kwikwi"
     ],
-    "emoji": "😮‍💨🫁"
+    "emoji": "😮‍💨🫁",
+    "pages": [
+      "pg085_sec001"
+    ]
   },
   "lango": {
     "word": "lango",
@@ -953,7 +1515,10 @@
       "lango",
       "malango"
     ],
-    "emoji": "🚪"
+    "emoji": "🚪",
+    "pages": [
+      "pg080_sec001"
+    ]
   },
   "leso": {
     "word": "leso",
@@ -962,7 +1527,11 @@
       "leso",
       "leso za"
     ],
-    "emoji": "🧻"
+    "emoji": "🧻",
+    "pages": [
+      "pg040_sec001",
+      "pg041_sec001"
+    ]
   },
   "lori": {
     "word": "lori",
@@ -971,7 +1540,11 @@
       "lori",
       "malori"
     ],
-    "emoji": "🚛📦"
+    "emoji": "🚛📦",
+    "pages": [
+      "pg031_sec001",
+      "pg058_sec001"
+    ]
   },
   "lugha": {
     "word": "lugha",
@@ -979,7 +1552,10 @@
     "variations": [
       "lugha ya mazungumzo"
     ],
-    "emoji": "🗣️💬"
+    "emoji": "🗣️💬",
+    "pages": [
+      "pg008_sec001"
+    ]
   },
   "mabua": {
     "word": "mabua",
@@ -988,7 +1564,13 @@
       "mabua",
       "bua"
     ],
-    "emoji": "🌾🌿"
+    "emoji": "🌾🌿",
+    "pages": [
+      "pg020_sec001",
+      "pg021_sec001",
+      "pg022_sec001",
+      "pg100_sec001"
+    ]
   },
   "madoadoa": {
     "word": "madoadoa",
@@ -997,7 +1579,13 @@
       "doa",
       "madoadoa"
     ],
-    "emoji": "⚫🟤"
+    "emoji": "⚫🟤",
+    "pages": [
+      "pg026_sec001",
+      "pg030_sec001",
+      "pg042_sec001",
+      "pg100_sec001"
+    ]
   },
   "majina": {
     "word": "majina",
@@ -1006,7 +1594,50 @@
       "jina",
       "majina"
     ],
-    "emoji": "🏷️📝"
+    "emoji": "🏷️📝",
+    "pages": [
+      "pg002_sec001",
+      "pg009_sec001",
+      "pg012_sec001",
+      "pg018_sec001",
+      "pg020_sec001",
+      "pg022_sec001",
+      "pg024_sec001",
+      "pg025_sec001",
+      "pg027_sec001",
+      "pg031_sec001",
+      "pg034_sec001",
+      "pg035_sec001",
+      "pg036_sec001",
+      "pg037_sec001",
+      "pg038_sec001",
+      "pg039_sec001",
+      "pg041_sec001",
+      "pg042_sec001",
+      "pg045_sec001",
+      "pg046_sec001",
+      "pg049_sec001",
+      "pg051_sec001",
+      "pg053_sec001",
+      "pg055_sec001",
+      "pg056_sec001",
+      "pg059_sec001",
+      "pg060_sec001",
+      "pg062_sec001",
+      "pg063_sec001",
+      "pg065_sec001",
+      "pg066_sec001",
+      "pg068_sec001",
+      "pg072_sec001",
+      "pg073_sec001",
+      "pg074_sec001",
+      "pg075_sec001",
+      "pg077_sec001",
+      "pg078_sec001",
+      "pg081_sec001",
+      "pg083_sec001",
+      "pg095_sec001"
+    ]
   },
   "makini": {
     "word": "makini",
@@ -1015,7 +1646,11 @@
       "makini",
       "kuwa makini"
     ],
-    "emoji": "👀⚠️"
+    "emoji": "👀⚠️",
+    "pages": [
+      "pg097_sec001",
+      "pg098_sec001"
+    ]
   },
   "makundi": {
     "word": "makundi",
@@ -1024,7 +1659,10 @@
       "kundi",
       "makundi"
     ],
-    "emoji": "👥📚"
+    "emoji": "👥📚",
+    "pages": [
+      "pg091_sec001"
+    ]
   },
   "mali": {
     "word": "mali",
@@ -1032,7 +1670,13 @@
     "variations": [
       "mali"
     ],
-    "emoji": "🏠💰"
+    "emoji": "🏠💰",
+    "pages": [
+      "pg001_sec001",
+      "pg062_sec001",
+      "pg098_sec001",
+      "pg106_sec001"
+    ]
   },
   "mama": {
     "word": "mama",
@@ -1041,7 +1685,23 @@
       "mama",
       "mamake"
     ],
-    "emoji": "👩"
+    "emoji": "👩",
+    "pages": [
+      "pg010_sec001",
+      "pg021_sec001",
+      "pg022_sec001",
+      "pg029_sec001",
+      "pg030_sec001",
+      "pg038_sec001",
+      "pg055_sec001",
+      "pg058_sec001",
+      "pg072_sec001",
+      "pg082_sec001",
+      "pg089_sec001",
+      "pg090_sec001",
+      "pg100_sec001",
+      "pg101_sec001"
+    ]
   },
   "maswali": {
     "word": "maswali",
@@ -1050,7 +1710,20 @@
       "swali",
       "maswali"
     ],
-    "emoji": "❓🗣️"
+    "emoji": "❓🗣️",
+    "pages": [
+      "pg007_sec001",
+      "pg010_sec001",
+      "pg090_sec001",
+      "pg091_sec001",
+      "pg094_sec001",
+      "pg095_sec001",
+      "pg096_sec001",
+      "pg097_sec001",
+      "pg098_sec001",
+      "pg102_sec001",
+      "pg103_sec001"
+    ]
   },
   "matendo": {
     "word": "matendo",
@@ -1059,7 +1732,13 @@
       "tendo",
       "matendo"
     ],
-    "emoji": "🚶🙌"
+    "emoji": "🚶🙌",
+    "pages": [
+      "pg008_sec001",
+      "pg011_sec001",
+      "pg012_sec001",
+      "pg062_sec001"
+    ]
   },
   "matukio": {
     "word": "matukio",
@@ -1068,7 +1747,10 @@
       "tukio",
       "matukio"
     ],
-    "emoji": "📅✨"
+    "emoji": "📅✨",
+    "pages": [
+      "pg094_sec001"
+    ]
   },
   "mazingira": {
     "word": "mazingira",
@@ -1077,7 +1759,11 @@
       "mazingira",
       "mazingira tofauti"
     ],
-    "emoji": "🌍🏞️"
+    "emoji": "🌍🏞️",
+    "pages": [
+      "pg094_sec001",
+      "pg106_sec001"
+    ]
   },
   "maziwa": {
     "word": "maziwa",
@@ -1086,7 +1772,10 @@
       "maziwa",
       "ziwa la maziwa"
     ],
-    "emoji": "🥛"
+    "emoji": "🥛",
+    "pages": [
+      "pg077_sec001"
+    ]
   },
   "mazoezi": {
     "word": "mazoezi",
@@ -1095,7 +1784,50 @@
       "zoezi",
       "mazoezi"
     ],
-    "emoji": "✍️📄"
+    "emoji": "✍️📄",
+    "pages": [
+      "pg007_sec001",
+      "pg011_sec001",
+      "pg014_sec001",
+      "pg015_sec001",
+      "pg016_sec001",
+      "pg019_sec001",
+      "pg021_sec001",
+      "pg023_sec001",
+      "pg025_sec001",
+      "pg027_sec001",
+      "pg032_sec001",
+      "pg034_sec001",
+      "pg037_sec001",
+      "pg039_sec001",
+      "pg043_sec001",
+      "pg047_sec001",
+      "pg050_sec001",
+      "pg053_sec001",
+      "pg057_sec001",
+      "pg060_sec001",
+      "pg063_sec001",
+      "pg067_sec001",
+      "pg069_sec001",
+      "pg071_sec001",
+      "pg073_sec001",
+      "pg076_sec001",
+      "pg079_sec001",
+      "pg081_sec001",
+      "pg084_sec001",
+      "pg086_sec001",
+      "pg087_sec001",
+      "pg088_sec001",
+      "pg091_sec001",
+      "pg092_sec001",
+      "pg093_sec001",
+      "pg098_sec001",
+      "pg099_sec001",
+      "pg100_sec001",
+      "pg101_sec001",
+      "pg103_sec001",
+      "pg105_sec001"
+    ]
   },
   "mazungumzo": {
     "word": "mazungumzo",
@@ -1103,7 +1835,10 @@
     "variations": [
       "mazungumzo"
     ],
-    "emoji": "💬🗨️"
+    "emoji": "💬🗨️",
+    "pages": [
+      "pg008_sec001"
+    ]
   },
   "mbegu": {
     "word": "mbegu",
@@ -1112,7 +1847,11 @@
       "mbegu",
       "mbegu za"
     ],
-    "emoji": "🌱🫘"
+    "emoji": "🌱🫘",
+    "pages": [
+      "pg073_sec001",
+      "pg074_sec001"
+    ]
   },
   "mbuga": {
     "word": "mbuga",
@@ -1121,7 +1860,13 @@
       "mbuga",
       "mbuga za"
     ],
-    "emoji": "🌿🦓"
+    "emoji": "🌿🦓",
+    "pages": [
+      "pg073_sec001",
+      "pg074_sec001",
+      "pg102_sec001",
+      "pg103_sec001"
+    ]
   },
   "mbuni": {
     "word": "mbuni",
@@ -1130,7 +1875,12 @@
       "mbuni",
       "mbuni wengi"
     ],
-    "emoji": "🐦🏃"
+    "emoji": "🐦🏃",
+    "pages": [
+      "pg072_sec001",
+      "pg074_sec001",
+      "pg075_sec001"
+    ]
   },
   "mbuzi": {
     "word": "mbuzi",
@@ -1139,7 +1889,12 @@
       "mbuzi",
       "mbuzi wa"
     ],
-    "emoji": "🐐"
+    "emoji": "🐐",
+    "pages": [
+      "pg072_sec001",
+      "pg073_sec001",
+      "pg074_sec001"
+    ]
   },
   "mbweha": {
     "word": "mbweha",
@@ -1147,7 +1902,11 @@
     "variations": [
       "mbweha"
     ],
-    "emoji": "🦊🌿"
+    "emoji": "🦊🌿",
+    "pages": [
+      "pg092_sec001",
+      "pg093_sec001"
+    ]
   },
   "mchwa": {
     "word": "mchwa",
@@ -1156,7 +1915,12 @@
       "mchwa",
       "wachwa"
     ],
-    "emoji": "🐜🌱"
+    "emoji": "🐜🌱",
+    "pages": [
+      "pg092_sec001",
+      "pg093_sec001",
+      "pg100_sec001"
+    ]
   },
   "mema": {
     "word": "mema",
@@ -1166,7 +1930,10 @@
       "jema",
       "mazuri"
     ],
-    "emoji": "✅😊"
+    "emoji": "✅😊",
+    "pages": [
+      "pg021_sec001"
+    ]
   },
   "mende": {
     "word": "mende",
@@ -1175,7 +1942,10 @@
       "mende",
       "mende wengi"
     ],
-    "emoji": "🪳"
+    "emoji": "🪳",
+    "pages": [
+      "pg082_sec001"
+    ]
   },
   "meno": {
     "word": "meno",
@@ -1184,7 +1954,12 @@
       "jino",
       "meno"
     ],
-    "emoji": "🦷"
+    "emoji": "🦷",
+    "pages": [
+      "pg020_sec001",
+      "pg028_sec001",
+      "pg100_sec001"
+    ]
   },
   "mfanyabiashara": {
     "word": "mfanyabiashara",
@@ -1193,7 +1968,11 @@
       "mfanyabiashara",
       "wafanyabiashara"
     ],
-    "emoji": "🧑‍💼🛒"
+    "emoji": "🧑‍💼🛒",
+    "pages": [
+      "pg086_sec001",
+      "pg090_sec001"
+    ]
   },
   "miba": {
     "word": "miba",
@@ -1203,7 +1982,14 @@
       "mwiba",
       "miiba"
     ],
-    "emoji": "🌵⚠️"
+    "emoji": "🌵⚠️",
+    "pages": [
+      "pg021_sec001",
+      "pg022_sec001",
+      "pg095_sec001",
+      "pg096_sec001",
+      "pg100_sec001"
+    ]
   },
   "mimi": {
     "word": "mimi",
@@ -1211,7 +1997,14 @@
     "variations": [
       "mimi"
     ],
-    "emoji": "🙋💬"
+    "emoji": "🙋💬",
+    "pages": [
+      "pg021_sec001",
+      "pg022_sec001",
+      "pg085_sec001",
+      "pg100_sec001",
+      "pg104_sec001"
+    ]
   },
   "mjukuu": {
     "word": "mjukuu",
@@ -1220,7 +2013,10 @@
       "mjukuu",
       "wajukuu"
     ],
-    "emoji": "👵🧒"
+    "emoji": "👵🧒",
+    "pages": [
+      "pg095_sec001"
+    ]
   },
   "mkoa": {
     "word": "mkoa",
@@ -1229,7 +2025,10 @@
       "mkoa",
       "mikoa"
     ],
-    "emoji": "🗺️"
+    "emoji": "🗺️",
+    "pages": [
+      "pg102_sec001"
+    ]
   },
   "mlinzi": {
     "word": "mlinzi",
@@ -1238,7 +2037,10 @@
       "mlinzi",
       "walinzi"
     ],
-    "emoji": "🛡️🚪"
+    "emoji": "🛡️🚪",
+    "pages": [
+      "pg087_sec001"
+    ]
   },
   "mng’ao": {
     "word": "mng’ao",
@@ -1246,7 +2048,10 @@
     "variations": [
       "mng’ao"
     ],
-    "emoji": "✨💡"
+    "emoji": "✨💡",
+    "pages": [
+      "pg088_sec001"
+    ]
   },
   "moto": {
     "word": "moto",
@@ -1254,7 +2059,14 @@
     "variations": [
       "moto"
     ],
-    "emoji": "🔥🌡️"
+    "emoji": "🔥🌡️",
+    "pages": [
+      "pg020_sec001",
+      "pg035_sec001",
+      "pg046_sec001",
+      "pg051_sec001",
+      "pg100_sec001"
+    ]
   },
   "moyo": {
     "word": "moyo",
@@ -1263,7 +2075,10 @@
       "moyo",
       "mioyo"
     ],
-    "emoji": "❤️"
+    "emoji": "❤️",
+    "pages": [
+      "pg048_sec001"
+    ]
   },
   "mtego": {
     "word": "mtego",
@@ -1272,7 +2087,11 @@
       "mtego",
       "mitego"
     ],
-    "emoji": "🪤"
+    "emoji": "🪤",
+    "pages": [
+      "pg044_sec001",
+      "pg045_sec001"
+    ]
   },
   "mti": {
     "word": "mti",
@@ -1281,7 +2100,12 @@
       "mti",
       "miti"
     ],
-    "emoji": "🌳🌿"
+    "emoji": "🌳🌿",
+    "pages": [
+      "pg035_sec001",
+      "pg085_sec001",
+      "pg096_sec001"
+    ]
   },
   "mtihani": {
     "word": "mtihani",
@@ -1289,7 +2113,10 @@
     "variations": [
       "mitihani"
     ],
-    "emoji": "📝📚"
+    "emoji": "📝📚",
+    "pages": [
+      "pg104_sec001"
+    ]
   },
   "mtoto": {
     "word": "mtoto",
@@ -1297,7 +2124,25 @@
     "variations": [
       "watoto"
     ],
-    "emoji": "🧒👶"
+    "emoji": "🧒👶",
+    "pages": [
+      "pg007_sec001",
+      "pg008_sec001",
+      "pg010_sec001",
+      "pg011_sec001",
+      "pg013_sec001",
+      "pg016_sec001",
+      "pg029_sec001",
+      "pg038_sec001",
+      "pg041_sec001",
+      "pg044_sec001",
+      "pg055_sec001",
+      "pg062_sec001",
+      "pg065_sec001",
+      "pg077_sec001",
+      "pg095_sec001",
+      "pg103_sec001"
+    ]
   },
   "muda": {
     "word": "muda",
@@ -1306,7 +2151,11 @@
       "muda",
       "muda wote"
     ],
-    "emoji": "⏰"
+    "emoji": "⏰",
+    "pages": [
+      "pg026_sec001",
+      "pg100_sec001"
+    ]
   },
   "mume": {
     "word": "mume",
@@ -1315,7 +2164,10 @@
       "mume",
       "waume"
     ],
-    "emoji": "👨💍"
+    "emoji": "👨💍",
+    "pages": [
+      "pg021_sec001"
+    ]
   },
   "mwalimu": {
     "word": "mwalimu",
@@ -1323,7 +2175,16 @@
     "variations": [
       "walimu"
     ],
-    "emoji": "👩‍🏫👨‍🏫"
+    "emoji": "👩‍🏫👨‍🏫",
+    "pages": [
+      "pg006_sec001",
+      "pg007_sec001",
+      "pg009_sec001",
+      "pg061_sec001",
+      "pg102_sec001",
+      "pg103_sec001",
+      "pg104_sec001"
+    ]
   },
   "mwanafunzi": {
     "word": "mwanafunzi",
@@ -1331,7 +2192,24 @@
     "variations": [
       "wanafunzi"
     ],
-    "emoji": "🎒📘"
+    "emoji": "🎒📘",
+    "pages": [
+      "pg001_sec001",
+      "pg002_sec001",
+      "pg006_sec001",
+      "pg007_sec001",
+      "pg008_sec001",
+      "pg010_sec001",
+      "pg015_sec001",
+      "pg097_sec001",
+      "pg098_sec001",
+      "pg101_sec001",
+      "pg102_sec001",
+      "pg103_sec001",
+      "pg104_sec001",
+      "pg105_sec001",
+      "pg106_sec001"
+    ]
   },
   "mwiba": {
     "word": "mwiba",
@@ -1340,7 +2218,11 @@
       "mwiba",
       "miiba"
     ],
-    "emoji": "🌵🩹"
+    "emoji": "🌵🩹",
+    "pages": [
+      "pg095_sec001",
+      "pg096_sec001"
+    ]
   },
   "mwili": {
     "word": "mwili",
@@ -1348,7 +2230,10 @@
     "variations": [
       "mwili"
     ],
-    "emoji": "🧍💪"
+    "emoji": "🧍💪",
+    "pages": [
+      "pg093_sec001"
+    ]
   },
   "mzigo": {
     "word": "mzigo",
@@ -1357,7 +2242,11 @@
       "mzigo",
       "mizigo"
     ],
-    "emoji": "🎒📦"
+    "emoji": "🎒📦",
+    "pages": [
+      "pg031_sec001",
+      "pg051_sec001"
+    ]
   },
   "nane": {
     "word": "nane",
@@ -1365,7 +2254,12 @@
     "variations": [
       "nane"
     ],
-    "emoji": "8️⃣"
+    "emoji": "8️⃣",
+    "pages": [
+      "pg005_sec001",
+      "pg028_sec001",
+      "pg086_sec001"
+    ]
   },
   "ndama": {
     "word": "ndama",
@@ -1374,7 +2268,12 @@
       "ndama",
       "ndama wengi"
     ],
-    "emoji": "🐄"
+    "emoji": "🐄",
+    "pages": [
+      "pg081_sec001",
+      "pg082_sec001",
+      "pg085_sec001"
+    ]
   },
   "ndege": {
     "word": "ndege",
@@ -1383,7 +2282,10 @@
       "ndege",
       "ndege wengi"
     ],
-    "emoji": "🐦🕊️"
+    "emoji": "🐦🕊️",
+    "pages": [
+      "pg082_sec001"
+    ]
   },
   "ndimu": {
     "word": "ndimu",
@@ -1392,7 +2294,10 @@
       "ndimu",
       "ndimu nyingi"
     ],
-    "emoji": "🍋"
+    "emoji": "🍋",
+    "pages": [
+      "pg082_sec001"
+    ]
   },
   "ndizi": {
     "word": "ndizi",
@@ -1401,7 +2306,12 @@
       "ndizi",
       "ndizi nyingi"
     ],
-    "emoji": "🍌"
+    "emoji": "🍌",
+    "pages": [
+      "pg080_sec001",
+      "pg082_sec001",
+      "pg086_sec001"
+    ]
   },
   "ndoo": {
     "word": "ndoo",
@@ -1411,7 +2321,11 @@
       "ndoo ndogo",
       "ndoo kubwa"
     ],
-    "emoji": "🪣"
+    "emoji": "🪣",
+    "pages": [
+      "pg081_sec001",
+      "pg082_sec001"
+    ]
   },
   "ndoto": {
     "word": "ndoto",
@@ -1420,7 +2334,10 @@
       "ndoto",
       "ndoto nyingi"
     ],
-    "emoji": "💭😴"
+    "emoji": "💭😴",
+    "pages": [
+      "pg082_sec001"
+    ]
   },
   "ndugu": {
     "word": "ndugu",
@@ -1429,7 +2346,10 @@
       "ndugu",
       "ndugu zake"
     ],
-    "emoji": "👨‍👩‍👧‍👦"
+    "emoji": "👨‍👩‍👧‍👦",
+    "pages": [
+      "pg082_sec001"
+    ]
   },
   "nene": {
     "word": "nene",
@@ -1438,7 +2358,10 @@
       "nene",
       "unene"
     ],
-    "emoji": "⚪"
+    "emoji": "⚪",
+    "pages": [
+      "pg028_sec001"
+    ]
   },
   "neno": {
     "word": "neno",
@@ -1447,7 +2370,88 @@
       "maneno",
       "neno"
     ],
-    "emoji": "📝🔤"
+    "emoji": "📝🔤",
+    "pages": [
+      "pg012_sec001",
+      "pg013_sec001",
+      "pg014_sec001",
+      "pg015_sec001",
+      "pg016_sec001",
+      "pg017_sec001",
+      "pg018_sec001",
+      "pg019_sec001",
+      "pg020_sec001",
+      "pg021_sec001",
+      "pg022_sec001",
+      "pg023_sec001",
+      "pg024_sec001",
+      "pg025_sec001",
+      "pg026_sec001",
+      "pg027_sec001",
+      "pg028_sec001",
+      "pg031_sec001",
+      "pg032_sec001",
+      "pg033_sec001",
+      "pg034_sec001",
+      "pg035_sec001",
+      "pg036_sec001",
+      "pg037_sec001",
+      "pg038_sec001",
+      "pg039_sec001",
+      "pg040_sec001",
+      "pg042_sec001",
+      "pg043_sec001",
+      "pg044_sec001",
+      "pg046_sec001",
+      "pg047_sec001",
+      "pg048_sec001",
+      "pg049_sec001",
+      "pg050_sec001",
+      "pg051_sec001",
+      "pg052_sec001",
+      "pg054_sec001",
+      "pg055_sec001",
+      "pg056_sec001",
+      "pg057_sec001",
+      "pg058_sec001",
+      "pg059_sec001",
+      "pg061_sec001",
+      "pg063_sec001",
+      "pg064_sec001",
+      "pg065_sec001",
+      "pg066_sec001",
+      "pg067_sec001",
+      "pg068_sec001",
+      "pg069_sec001",
+      "pg070_sec001",
+      "pg071_sec001",
+      "pg072_sec001",
+      "pg073_sec001",
+      "pg074_sec001",
+      "pg075_sec001",
+      "pg076_sec001",
+      "pg077_sec001",
+      "pg078_sec001",
+      "pg079_sec001",
+      "pg080_sec001",
+      "pg081_sec001",
+      "pg082_sec001",
+      "pg083_sec001",
+      "pg084_sec001",
+      "pg085_sec001",
+      "pg086_sec001",
+      "pg087_sec001",
+      "pg088_sec001",
+      "pg089_sec001",
+      "pg090_sec001",
+      "pg091_sec001",
+      "pg092_sec001",
+      "pg093_sec001",
+      "pg098_sec001",
+      "pg099_sec001",
+      "pg100_sec001",
+      "pg102_sec001"
+    ]
   },
   "ng’arisha": {
     "word": "ng’arisha",
@@ -1457,7 +2461,12 @@
       "ameng’arisha",
       "kuving’arisha"
     ],
-    "emoji": "✨🧽"
+    "emoji": "✨🧽",
+    "pages": [
+      "pg087_sec001",
+      "pg088_sec001",
+      "pg089_sec001"
+    ]
   },
   "ngano": {
     "word": "ngano",
@@ -1465,7 +2474,10 @@
     "variations": [
       "ngano"
     ],
-    "emoji": "🌾"
+    "emoji": "🌾",
+    "pages": [
+      "pg080_sec001"
+    ]
   },
   "ngazi": {
     "word": "ngazi",
@@ -1473,7 +2485,13 @@
     "variations": [
       "ngazi"
     ],
-    "emoji": "🪜"
+    "emoji": "🪜",
+    "pages": [
+      "pg002_sec001",
+      "pg078_sec001",
+      "pg079_sec001",
+      "pg080_sec001"
+    ]
   },
   "ngoma": {
     "word": "ngoma",
@@ -1482,7 +2500,12 @@
       "ngoma",
       "ngoma za asili"
     ],
-    "emoji": "🥁🎶"
+    "emoji": "🥁🎶",
+    "pages": [
+      "pg078_sec001",
+      "pg079_sec001",
+      "pg080_sec001"
+    ]
   },
   "ngozi": {
     "word": "ngozi",
@@ -1491,7 +2514,12 @@
       "ngozi",
       "ngozi za wanyama"
     ],
-    "emoji": "🧍🐄"
+    "emoji": "🧍🐄",
+    "pages": [
+      "pg079_sec001",
+      "pg080_sec001",
+      "pg103_sec001"
+    ]
   },
   "ngumi": {
     "word": "ngumi",
@@ -1500,7 +2528,11 @@
       "ngumi",
       "ngumi za mikono"
     ],
-    "emoji": "👊"
+    "emoji": "👊",
+    "pages": [
+      "pg079_sec001",
+      "pg080_sec001"
+    ]
   },
   "nguo": {
     "word": "nguo",
@@ -1509,7 +2541,11 @@
       "nguo",
       "mavazi"
     ],
-    "emoji": "👕"
+    "emoji": "👕",
+    "pages": [
+      "pg079_sec001",
+      "pg080_sec001"
+    ]
   },
   "nguvu": {
     "word": "nguvu",
@@ -1517,7 +2553,10 @@
     "variations": [
       "nguvu"
     ],
-    "emoji": "💪"
+    "emoji": "💪",
+    "pages": [
+      "pg080_sec001"
+    ]
   },
   "nguzo": {
     "word": "nguzo",
@@ -1526,7 +2565,10 @@
       "nguzo",
       "nguzo za nyumba"
     ],
-    "emoji": "🏠"
+    "emoji": "🏠",
+    "pages": [
+      "pg080_sec001"
+    ]
   },
   "noti": {
     "word": "noti",
@@ -1535,7 +2577,12 @@
       "noti",
       "noti za"
     ],
-    "emoji": "💵💰"
+    "emoji": "💵💰",
+    "pages": [
+      "pg035_sec001",
+      "pg036_sec001",
+      "pg041_sec001"
+    ]
   },
   "nuka": {
     "word": "nuka",
@@ -1545,7 +2592,10 @@
       "kunuka",
       "inanuka"
     ],
-    "emoji": "👃😷"
+    "emoji": "👃😷",
+    "pages": [
+      "pg028_sec001"
+    ]
   },
   "nunua": {
     "word": "nunua",
@@ -1555,7 +2605,14 @@
       "kununua",
       "amenunua"
     ],
-    "emoji": "🛒💰"
+    "emoji": "🛒💰",
+    "pages": [
+      "pg028_sec001",
+      "pg058_sec001",
+      "pg072_sec001",
+      "pg082_sec001",
+      "pg089_sec001"
+    ]
   },
   "nyama": {
     "word": "nyama",
@@ -1564,7 +2621,12 @@
       "nyama",
       "nyama za wanyama"
     ],
-    "emoji": "🍖"
+    "emoji": "🍖",
+    "pages": [
+      "pg076_sec001",
+      "pg077_sec001",
+      "pg085_sec001"
+    ]
   },
   "nyani": {
     "word": "nyani",
@@ -1573,7 +2635,12 @@
       "nyani",
       "nyani wengi"
     ],
-    "emoji": "🐒"
+    "emoji": "🐒",
+    "pages": [
+      "pg075_sec001",
+      "pg077_sec001",
+      "pg078_sec001"
+    ]
   },
   "nyanya": {
     "word": "nyanya",
@@ -1582,7 +2649,10 @@
       "nyanya",
       "nyanya nyingi"
     ],
-    "emoji": "🍅"
+    "emoji": "🍅",
+    "pages": [
+      "pg077_sec001"
+    ]
   },
   "nyoka": {
     "word": "nyoka",
@@ -1591,7 +2661,11 @@
       "nyoka",
       "nyoka wengi"
     ],
-    "emoji": "🐍"
+    "emoji": "🐍",
+    "pages": [
+      "pg075_sec001",
+      "pg077_sec001"
+    ]
   },
   "nyota": {
     "word": "nyota",
@@ -1600,7 +2674,11 @@
       "nyota",
       "nyota nyingi"
     ],
-    "emoji": "⭐🌌"
+    "emoji": "⭐🌌",
+    "pages": [
+      "pg076_sec001",
+      "pg077_sec001"
+    ]
   },
   "nyuki": {
     "word": "nyuki",
@@ -1609,7 +2687,12 @@
       "nyuki",
       "nyuki wengi"
     ],
-    "emoji": "🐝🍯"
+    "emoji": "🐝🍯",
+    "pages": [
+      "pg077_sec001",
+      "pg078_sec001",
+      "pg100_sec001"
+    ]
   },
   "nywele": {
     "word": "nywele",
@@ -1617,7 +2700,12 @@
     "variations": [
       "nywele"
     ],
-    "emoji": "💇🧒"
+    "emoji": "💇🧒",
+    "pages": [
+      "pg092_sec001",
+      "pg093_sec001",
+      "pg103_sec001"
+    ]
   },
   "oga": {
     "word": "oga",
@@ -1627,7 +2715,12 @@
       "anaoga",
       "kuoga"
     ],
-    "emoji": "🛁💧"
+    "emoji": "🛁💧",
+    "pages": [
+      "pg016_sec001",
+      "pg017_sec001",
+      "pg044_sec001"
+    ]
   },
   "omba": {
     "word": "omba",
@@ -1636,7 +2729,11 @@
       "omba",
       "kuomba"
     ],
-    "emoji": "🙏🗣️"
+    "emoji": "🙏🗣️",
+    "pages": [
+      "pg016_sec001",
+      "pg074_sec001"
+    ]
   },
   "ona": {
     "word": "ona",
@@ -1645,7 +2742,15 @@
       "ona",
       "kuona"
     ],
-    "emoji": "👀🔍"
+    "emoji": "👀🔍",
+    "pages": [
+      "pg016_sec001",
+      "pg017_sec001",
+      "pg028_sec001",
+      "pg097_sec001",
+      "pg100_sec001",
+      "pg102_sec001"
+    ]
   },
   "osha": {
     "word": "osha",
@@ -1655,7 +2760,11 @@
       "kuosha",
       "ameosha"
     ],
-    "emoji": "🧼💧"
+    "emoji": "🧼💧",
+    "pages": [
+      "pg069_sec001",
+      "pg070_sec001"
+    ]
   },
   "paka": {
     "word": "paka",
@@ -1664,7 +2773,14 @@
       "paka",
       "paka wa"
     ],
-    "emoji": "🐱"
+    "emoji": "🐱",
+    "pages": [
+      "pg036_sec001",
+      "pg037_sec001",
+      "pg048_sec001",
+      "pg058_sec001",
+      "pg077_sec001"
+    ]
   },
   "panya": {
     "word": "panya",
@@ -1673,7 +2789,10 @@
       "panya",
       "panya wengi"
     ],
-    "emoji": "🐭"
+    "emoji": "🐭",
+    "pages": [
+      "pg077_sec001"
+    ]
   },
   "papai": {
     "word": "papai",
@@ -1682,7 +2801,11 @@
       "papai",
       "mapapai"
     ],
-    "emoji": "🍈🥭"
+    "emoji": "🍈🥭",
+    "pages": [
+      "pg036_sec001",
+      "pg038_sec001"
+    ]
   },
   "pembe": {
     "word": "pembe",
@@ -1691,7 +2814,10 @@
       "pembe",
       "mapembe"
     ],
-    "emoji": "🦌"
+    "emoji": "🦌",
+    "pages": [
+      "pg074_sec001"
+    ]
   },
   "pesa": {
     "word": "pesa",
@@ -1699,7 +2825,11 @@
     "variations": [
       "pesa"
     ],
-    "emoji": "💰🪙"
+    "emoji": "💰🪙",
+    "pages": [
+      "pg040_sec001",
+      "pg041_sec001"
+    ]
   },
   "picha": {
     "word": "picha",
@@ -1707,7 +2837,61 @@
     "variations": [
       "picha hizi"
     ],
-    "emoji": "🖼️👀"
+    "emoji": "🖼️👀",
+    "pages": [
+      "pg007_sec001",
+      "pg010_sec001",
+      "pg011_sec001",
+      "pg012_sec001",
+      "pg014_sec001",
+      "pg015_sec001",
+      "pg016_sec001",
+      "pg017_sec001",
+      "pg018_sec001",
+      "pg020_sec001",
+      "pg022_sec001",
+      "pg024_sec001",
+      "pg025_sec001",
+      "pg026_sec001",
+      "pg027_sec001",
+      "pg028_sec001",
+      "pg030_sec001",
+      "pg031_sec001",
+      "pg033_sec001",
+      "pg034_sec001",
+      "pg035_sec001",
+      "pg036_sec001",
+      "pg038_sec001",
+      "pg039_sec001",
+      "pg041_sec001",
+      "pg042_sec001",
+      "pg045_sec001",
+      "pg046_sec001",
+      "pg049_sec001",
+      "pg051_sec001",
+      "pg052_sec001",
+      "pg053_sec001",
+      "pg055_sec001",
+      "pg056_sec001",
+      "pg059_sec001",
+      "pg060_sec001",
+      "pg062_sec001",
+      "pg063_sec001",
+      "pg065_sec001",
+      "pg066_sec001",
+      "pg068_sec001",
+      "pg072_sec001",
+      "pg073_sec001",
+      "pg074_sec001",
+      "pg075_sec001",
+      "pg077_sec001",
+      "pg078_sec001",
+      "pg080_sec001",
+      "pg081_sec001",
+      "pg083_sec001",
+      "pg094_sec001",
+      "pg102_sec001"
+    ]
   },
   "piga": {
     "word": "piga",
@@ -1717,7 +2901,13 @@
       "anapiga",
       "kupiga"
     ],
-    "emoji": "👋🥁"
+    "emoji": "👋🥁",
+    "pages": [
+      "pg010_sec001",
+      "pg033_sec001",
+      "pg044_sec001",
+      "pg051_sec001"
+    ]
   },
   "pilau": {
     "word": "pilau",
@@ -1725,7 +2915,10 @@
     "variations": [
       "pilau"
     ],
-    "emoji": "🍚🍽️"
+    "emoji": "🍚🍽️",
+    "pages": [
+      "pg038_sec001"
+    ]
   },
   "pilipili": {
     "word": "pilipili",
@@ -1734,7 +2927,10 @@
       "pilipili",
       "pilipili za"
     ],
-    "emoji": "🌶️"
+    "emoji": "🌶️",
+    "pages": [
+      "pg038_sec001"
+    ]
   },
   "pipi": {
     "word": "pipi",
@@ -1743,7 +2939,11 @@
       "pipi",
       "pipi za"
     ],
-    "emoji": "🍬🍭"
+    "emoji": "🍬🍭",
+    "pages": [
+      "pg014_sec001",
+      "pg038_sec001"
+    ]
   },
   "popo": {
     "word": "popo",
@@ -1752,7 +2952,13 @@
       "popo",
       "popo wa"
     ],
-    "emoji": "🦇🌙"
+    "emoji": "🦇🌙",
+    "pages": [
+      "pg036_sec001",
+      "pg037_sec001",
+      "pg038_sec001",
+      "pg039_sec001"
+    ]
   },
   "porini": {
     "word": "porini",
@@ -1761,7 +2967,12 @@
       "pori",
       "porini"
     ],
-    "emoji": "🌳🦓"
+    "emoji": "🌳🦓",
+    "pages": [
+      "pg093_sec001",
+      "pg095_sec001",
+      "pg096_sec001"
+    ]
   },
   "pua": {
     "word": "pua",
@@ -1769,7 +2980,11 @@
     "variations": [
       "pua"
     ],
-    "emoji": "👃"
+    "emoji": "👃",
+    "pages": [
+      "pg037_sec001",
+      "pg038_sec001"
+    ]
   },
   "punda": {
     "word": "punda",
@@ -1778,7 +2993,11 @@
       "punda",
       "mapunda"
     ],
-    "emoji": "🫏"
+    "emoji": "🫏",
+    "pages": [
+      "pg082_sec001",
+      "pg097_sec001"
+    ]
   },
   "pundamilia": {
     "word": "pundamilia",
@@ -1787,7 +3006,11 @@
       "pundamilia",
       "mapundamilia"
     ],
-    "emoji": "🦓"
+    "emoji": "🦓",
+    "pages": [
+      "pg097_sec001",
+      "pg102_sec001"
+    ]
   },
   "raha": {
     "word": "raha",
@@ -1796,7 +3019,11 @@
       "raha",
       "furaha"
     ],
-    "emoji": "😌😊"
+    "emoji": "😌😊",
+    "pages": [
+      "pg058_sec001",
+      "pg102_sec001"
+    ]
   },
   "ramani": {
     "word": "ramani",
@@ -1805,7 +3032,11 @@
       "ramani",
       "ramani za"
     ],
-    "emoji": "🗺️📍"
+    "emoji": "🗺️📍",
+    "pages": [
+      "pg057_sec001",
+      "pg058_sec001"
+    ]
   },
   "rangi": {
     "word": "rangi",
@@ -1814,7 +3045,14 @@
       "rangi",
       "rangi ya"
     ],
-    "emoji": "🎨🌈"
+    "emoji": "🎨🌈",
+    "pages": [
+      "pg022_sec001",
+      "pg039_sec001",
+      "pg062_sec001",
+      "pg087_sec001",
+      "pg103_sec001"
+    ]
   },
   "redio": {
     "word": "redio",
@@ -1822,7 +3060,11 @@
     "variations": [
       "redio"
     ],
-    "emoji": "📻🎶"
+    "emoji": "📻🎶",
+    "pages": [
+      "pg056_sec001",
+      "pg058_sec001"
+    ]
   },
   "reli": {
     "word": "reli",
@@ -1830,7 +3072,11 @@
     "variations": [
       "reli"
     ],
-    "emoji": "🛤️🚆"
+    "emoji": "🛤️🚆",
+    "pages": [
+      "pg058_sec001",
+      "pg059_sec001"
+    ]
   },
   "roho": {
     "word": "roho",
@@ -1838,7 +3084,10 @@
     "variations": [
       "roho"
     ],
-    "emoji": "💫❤️"
+    "emoji": "💫❤️",
+    "pages": [
+      "pg058_sec001"
+    ]
   },
   "rudi": {
     "word": "rudi",
@@ -1848,7 +3097,11 @@
       "kurudi",
       "amerudi"
     ],
-    "emoji": "↩️🚶"
+    "emoji": "↩️🚶",
+    "pages": [
+      "pg057_sec001",
+      "pg058_sec001"
+    ]
   },
   "ruka": {
     "word": "ruka",
@@ -1858,7 +3111,11 @@
       "kuruka",
       "aliruka"
     ],
-    "emoji": "🦘⬆️"
+    "emoji": "🦘⬆️",
+    "pages": [
+      "pg058_sec001",
+      "pg059_sec001"
+    ]
   },
   "rula": {
     "word": "rula",
@@ -1867,7 +3124,13 @@
       "rula",
       "rula za"
     ],
-    "emoji": "📏✏️"
+    "emoji": "📏✏️",
+    "pages": [
+      "pg056_sec001",
+      "pg058_sec001",
+      "pg059_sec001",
+      "pg100_sec001"
+    ]
   },
   "saa": {
     "word": "saa",
@@ -1875,7 +3138,13 @@
     "variations": [
       "saa"
     ],
-    "emoji": "🕒⌚"
+    "emoji": "🕒⌚",
+    "pages": [
+      "pg039_sec001",
+      "pg040_sec001",
+      "pg041_sec001",
+      "pg100_sec001"
+    ]
   },
   "saba": {
     "word": "saba",
@@ -1883,7 +3152,14 @@
     "variations": [
       "saba"
     ],
-    "emoji": "7️⃣"
+    "emoji": "7️⃣",
+    "pages": [
+      "pg002_sec001",
+      "pg004_sec001",
+      "pg040_sec001",
+      "pg068_sec001",
+      "pg091_sec001"
+    ]
   },
   "salamu": {
     "word": "salamu",
@@ -1893,7 +3169,10 @@
       "kusalimia",
       "alisalimia"
     ],
-    "emoji": "👋🙂"
+    "emoji": "👋🙂",
+    "pages": [
+      "pg095_sec001"
+    ]
   },
   "samaki": {
     "word": "samaki",
@@ -1901,7 +3180,12 @@
     "variations": [
       "samaki"
     ],
-    "emoji": "🐟🌊"
+    "emoji": "🐟🌊",
+    "pages": [
+      "pg039_sec001",
+      "pg040_sec001",
+      "pg041_sec001"
+    ]
   },
   "sauti": {
     "word": "sauti",
@@ -1910,7 +3194,80 @@
       "sauti za herufi",
       "sauti ya mwanzo"
     ],
-    "emoji": "🔊👂"
+    "emoji": "🔊👂",
+    "pages": [
+      "pg004_sec001",
+      "pg005_sec001",
+      "pg012_sec001",
+      "pg013_sec001",
+      "pg014_sec001",
+      "pg015_sec001",
+      "pg016_sec001",
+      "pg018_sec001",
+      "pg019_sec001",
+      "pg020_sec001",
+      "pg021_sec001",
+      "pg022_sec001",
+      "pg023_sec001",
+      "pg024_sec001",
+      "pg025_sec001",
+      "pg026_sec001",
+      "pg027_sec001",
+      "pg028_sec001",
+      "pg031_sec001",
+      "pg032_sec001",
+      "pg033_sec001",
+      "pg034_sec001",
+      "pg036_sec001",
+      "pg037_sec001",
+      "pg039_sec001",
+      "pg040_sec001",
+      "pg042_sec001",
+      "pg043_sec001",
+      "pg044_sec001",
+      "pg046_sec001",
+      "pg047_sec001",
+      "pg048_sec001",
+      "pg049_sec001",
+      "pg050_sec001",
+      "pg051_sec001",
+      "pg052_sec001",
+      "pg053_sec001",
+      "pg054_sec001",
+      "pg056_sec001",
+      "pg057_sec001",
+      "pg058_sec001",
+      "pg059_sec001",
+      "pg060_sec001",
+      "pg061_sec001",
+      "pg062_sec001",
+      "pg063_sec001",
+      "pg064_sec001",
+      "pg066_sec001",
+      "pg067_sec001",
+      "pg068_sec001",
+      "pg069_sec001",
+      "pg070_sec001",
+      "pg071_sec001",
+      "pg072_sec001",
+      "pg073_sec001",
+      "pg075_sec001",
+      "pg076_sec001",
+      "pg078_sec001",
+      "pg079_sec001",
+      "pg080_sec001",
+      "pg081_sec001",
+      "pg082_sec001",
+      "pg083_sec001",
+      "pg084_sec001",
+      "pg086_sec001",
+      "pg087_sec001",
+      "pg088_sec001",
+      "pg090_sec001",
+      "pg091_sec001",
+      "pg092_sec001",
+      "pg102_sec001"
+    ]
   },
   "sentensi": {
     "word": "sentensi",
@@ -1919,7 +3276,43 @@
       "sentensi",
       "sentensi za"
     ],
-    "emoji": "📘✍️"
+    "emoji": "📘✍️",
+    "pages": [
+      "pg020_sec001",
+      "pg022_sec001",
+      "pg024_sec001",
+      "pg026_sec001",
+      "pg028_sec001",
+      "pg030_sec001",
+      "pg033_sec001",
+      "pg035_sec001",
+      "pg038_sec001",
+      "pg040_sec001",
+      "pg041_sec001",
+      "pg044_sec001",
+      "pg045_sec001",
+      "pg048_sec001",
+      "pg051_sec001",
+      "pg055_sec001",
+      "pg058_sec001",
+      "pg059_sec001",
+      "pg061_sec001",
+      "pg062_sec001",
+      "pg065_sec001",
+      "pg070_sec001",
+      "pg072_sec001",
+      "pg074_sec001",
+      "pg077_sec001",
+      "pg080_sec001",
+      "pg082_sec001",
+      "pg085_sec001",
+      "pg086_sec001",
+      "pg089_sec001",
+      "pg093_sec001",
+      "pg099_sec001",
+      "pg101_sec001",
+      "pg105_sec001"
+    ]
   },
   "sherehe": {
     "word": "sherehe",
@@ -1928,7 +3321,10 @@
       "sherehe",
       "sherehe za"
     ],
-    "emoji": "🎉🥳"
+    "emoji": "🎉🥳",
+    "pages": [
+      "pg070_sec001"
+    ]
   },
   "shibe": {
     "word": "shibe",
@@ -1938,7 +3334,11 @@
       "ameshiba",
       "shiba"
     ],
-    "emoji": "🍽️😊"
+    "emoji": "🍽️😊",
+    "pages": [
+      "pg069_sec001",
+      "pg070_sec001"
+    ]
   },
   "shida": {
     "word": "shida",
@@ -1947,7 +3347,10 @@
       "shida",
       "matatizo"
     ],
-    "emoji": "😟⚠️"
+    "emoji": "😟⚠️",
+    "pages": [
+      "pg070_sec001"
+    ]
   },
   "shimo": {
     "word": "shimo",
@@ -1956,7 +3359,11 @@
       "shimo",
       "mashimo"
     ],
-    "emoji": "🕳️"
+    "emoji": "🕳️",
+    "pages": [
+      "pg068_sec001",
+      "pg070_sec001"
+    ]
   },
   "shingo": {
     "word": "shingo",
@@ -1965,7 +3372,10 @@
       "shingo",
       "mishingo"
     ],
-    "emoji": "🧍"
+    "emoji": "🧍",
+    "pages": [
+      "pg074_sec001"
+    ]
   },
   "shoka": {
     "word": "shoka",
@@ -1974,7 +3384,13 @@
       "shoka",
       "mashoka"
     ],
-    "emoji": "🪓"
+    "emoji": "🪓",
+    "pages": [
+      "pg068_sec001",
+      "pg070_sec001",
+      "pg081_sec001",
+      "pg096_sec001"
+    ]
   },
   "shuka": {
     "word": "shuka",
@@ -1983,7 +3399,11 @@
       "shuka",
       "mashuka"
     ],
-    "emoji": "🛏️🧺"
+    "emoji": "🛏️🧺",
+    "pages": [
+      "pg069_sec001",
+      "pg070_sec001"
+    ]
   },
   "shule": {
     "word": "shule",
@@ -1992,7 +3412,22 @@
       "shule",
       "shuleni"
     ],
-    "emoji": "🏫📚"
+    "emoji": "🏫📚",
+    "pages": [
+      "pg006_sec001",
+      "pg009_sec001",
+      "pg024_sec001",
+      "pg069_sec001",
+      "pg070_sec001",
+      "pg085_sec001",
+      "pg090_sec001",
+      "pg091_sec001",
+      "pg097_sec001",
+      "pg098_sec001",
+      "pg101_sec001",
+      "pg102_sec001",
+      "pg103_sec001"
+    ]
   },
   "silabi": {
     "word": "silabi",
@@ -2001,7 +3436,59 @@
       "silabi",
       "silabi za"
     ],
-    "emoji": "🔡"
+    "emoji": "🔡",
+    "pages": [
+      "pg018_sec001",
+      "pg019_sec001",
+      "pg020_sec001",
+      "pg021_sec001",
+      "pg023_sec001",
+      "pg024_sec001",
+      "pg025_sec001",
+      "pg026_sec001",
+      "pg027_sec001",
+      "pg028_sec001",
+      "pg031_sec001",
+      "pg032_sec001",
+      "pg033_sec001",
+      "pg034_sec001",
+      "pg035_sec001",
+      "pg037_sec001",
+      "pg039_sec001",
+      "pg040_sec001",
+      "pg042_sec001",
+      "pg043_sec001",
+      "pg044_sec001",
+      "pg047_sec001",
+      "pg048_sec001",
+      "pg050_sec001",
+      "pg051_sec001",
+      "pg054_sec001",
+      "pg056_sec001",
+      "pg057_sec001",
+      "pg058_sec001",
+      "pg060_sec001",
+      "pg061_sec001",
+      "pg064_sec001",
+      "pg067_sec001",
+      "pg068_sec001",
+      "pg069_sec001",
+      "pg071_sec001",
+      "pg073_sec001",
+      "pg074_sec001",
+      "pg076_sec001",
+      "pg079_sec001",
+      "pg081_sec001",
+      "pg082_sec001",
+      "pg084_sec001",
+      "pg087_sec001",
+      "pg088_sec001",
+      "pg091_sec001",
+      "pg092_sec001",
+      "pg093_sec001",
+      "pg099_sec001",
+      "pg100_sec001"
+    ]
   },
   "simba": {
     "word": "simba",
@@ -2010,7 +3497,11 @@
       "simba",
       "masimba"
     ],
-    "emoji": "🦁"
+    "emoji": "🦁",
+    "pages": [
+      "pg074_sec001",
+      "pg085_sec001"
+    ]
   },
   "simu": {
     "word": "simu",
@@ -2019,7 +3510,12 @@
       "simu",
       "simu za"
     ],
-    "emoji": "📱☎️"
+    "emoji": "📱☎️",
+    "pages": [
+      "pg003_sec001",
+      "pg039_sec001",
+      "pg041_sec001"
+    ]
   },
   "soda": {
     "word": "soda",
@@ -2028,7 +3524,10 @@
       "soda",
       "soda za"
     ],
-    "emoji": "🥤"
+    "emoji": "🥤",
+    "pages": [
+      "pg040_sec001"
+    ]
   },
   "soko": {
     "word": "soko",
@@ -2038,7 +3537,13 @@
       "sokoni",
       "masoko"
     ],
-    "emoji": "🛒🏪"
+    "emoji": "🛒🏪",
+    "pages": [
+      "pg040_sec001",
+      "pg041_sec001",
+      "pg086_sec001",
+      "pg087_sec001"
+    ]
   },
   "sokoni": {
     "word": "sokoni",
@@ -2047,7 +3552,13 @@
       "sokoni",
       "soko"
     ],
-    "emoji": "🏪🛍️"
+    "emoji": "🏪🛍️",
+    "pages": [
+      "pg040_sec001",
+      "pg041_sec001",
+      "pg086_sec001",
+      "pg087_sec001"
+    ]
   },
   "soma": {
     "word": "soma",
@@ -2056,7 +3567,92 @@
       "soma",
       "kusoma"
     ],
-    "emoji": "📖👓"
+    "emoji": "📖👓",
+    "pages": [
+      "pg001_sec001",
+      "pg002_sec001",
+      "pg003_sec001",
+      "pg004_sec001",
+      "pg005_sec001",
+      "pg006_sec001",
+      "pg007_sec001",
+      "pg012_sec001",
+      "pg013_sec001",
+      "pg015_sec001",
+      "pg018_sec001",
+      "pg019_sec001",
+      "pg020_sec001",
+      "pg021_sec001",
+      "pg023_sec001",
+      "pg024_sec001",
+      "pg025_sec001",
+      "pg026_sec001",
+      "pg027_sec001",
+      "pg028_sec001",
+      "pg031_sec001",
+      "pg032_sec001",
+      "pg033_sec001",
+      "pg034_sec001",
+      "pg035_sec001",
+      "pg036_sec001",
+      "pg037_sec001",
+      "pg038_sec001",
+      "pg039_sec001",
+      "pg040_sec001",
+      "pg041_sec001",
+      "pg042_sec001",
+      "pg043_sec001",
+      "pg044_sec001",
+      "pg046_sec001",
+      "pg047_sec001",
+      "pg048_sec001",
+      "pg050_sec001",
+      "pg051_sec001",
+      "pg052_sec001",
+      "pg054_sec001",
+      "pg055_sec001",
+      "pg056_sec001",
+      "pg057_sec001",
+      "pg058_sec001",
+      "pg061_sec001",
+      "pg062_sec001",
+      "pg063_sec001",
+      "pg064_sec001",
+      "pg065_sec001",
+      "pg067_sec001",
+      "pg068_sec001",
+      "pg069_sec001",
+      "pg070_sec001",
+      "pg071_sec001",
+      "pg072_sec001",
+      "pg073_sec001",
+      "pg074_sec001",
+      "pg076_sec001",
+      "pg077_sec001",
+      "pg079_sec001",
+      "pg080_sec001",
+      "pg081_sec001",
+      "pg082_sec001",
+      "pg084_sec001",
+      "pg085_sec001",
+      "pg086_sec001",
+      "pg087_sec001",
+      "pg088_sec001",
+      "pg090_sec001",
+      "pg091_sec001",
+      "pg092_sec001",
+      "pg093_sec001",
+      "pg094_sec001",
+      "pg095_sec001",
+      "pg097_sec001",
+      "pg098_sec001",
+      "pg099_sec001",
+      "pg100_sec001",
+      "pg101_sec001",
+      "pg102_sec001",
+      "pg103_sec001",
+      "pg104_sec001"
+    ]
   },
   "soya": {
     "word": "soya",
@@ -2064,7 +3660,10 @@
     "variations": [
       "soya"
     ],
-    "emoji": "🌱🫘"
+    "emoji": "🌱🫘",
+    "pages": [
+      "pg048_sec001"
+    ]
   },
   "sumu": {
     "word": "sumu",
@@ -2072,7 +3671,11 @@
     "variations": [
       "sumu"
     ],
-    "emoji": "☠️⚠️"
+    "emoji": "☠️⚠️",
+    "pages": [
+      "pg040_sec001",
+      "pg041_sec001"
+    ]
   },
   "supu": {
     "word": "supu",
@@ -2080,7 +3683,10 @@
     "variations": [
       "supu"
     ],
-    "emoji": "🥣"
+    "emoji": "🥣",
+    "pages": [
+      "pg040_sec001"
+    ]
   },
   "sura": {
     "word": "sura",
@@ -2090,7 +3696,23 @@
       "sura ya pili",
       "sura hizo"
     ],
-    "emoji": "📘🔢"
+    "emoji": "📘🔢",
+    "pages": [
+      "pg004_sec001",
+      "pg005_sec001",
+      "pg007_sec001",
+      "pg008_sec001",
+      "pg012_sec001",
+      "pg018_sec001",
+      "pg031_sec001",
+      "pg042_sec001",
+      "pg056_sec001",
+      "pg068_sec001",
+      "pg086_sec001",
+      "pg090_sec001",
+      "pg094_sec001",
+      "pg099_sec001"
+    ]
   },
   "tabia njema": {
     "word": "tabia njema",
@@ -2099,7 +3721,11 @@
       "tabia",
       "matendo ya tabia njema"
     ],
-    "emoji": "💖👍"
+    "emoji": "💖👍",
+    "pages": [
+      "pg008_sec001",
+      "pg096_sec001"
+    ]
   },
   "tai": {
     "word": "tai",
@@ -2108,7 +3734,13 @@
       "tai",
       "tai za"
     ],
-    "emoji": "👔"
+    "emoji": "👔",
+    "pages": [
+      "pg035_sec001",
+      "pg036_sec001",
+      "pg081_sec001",
+      "pg100_sec001"
+    ]
   },
   "tamka": {
     "word": "tamka",
@@ -2118,7 +3750,73 @@
       "kutamka",
       "zitamka"
     ],
-    "emoji": "🗣️👄"
+    "emoji": "🗣️👄",
+    "pages": [
+      "pg013_sec001",
+      "pg014_sec001",
+      "pg015_sec001",
+      "pg016_sec001",
+      "pg017_sec001",
+      "pg018_sec001",
+      "pg019_sec001",
+      "pg020_sec001",
+      "pg021_sec001",
+      "pg022_sec001",
+      "pg023_sec001",
+      "pg024_sec001",
+      "pg025_sec001",
+      "pg026_sec001",
+      "pg027_sec001",
+      "pg028_sec001",
+      "pg031_sec001",
+      "pg032_sec001",
+      "pg033_sec001",
+      "pg034_sec001",
+      "pg036_sec001",
+      "pg037_sec001",
+      "pg039_sec001",
+      "pg040_sec001",
+      "pg042_sec001",
+      "pg043_sec001",
+      "pg044_sec001",
+      "pg046_sec001",
+      "pg047_sec001",
+      "pg048_sec001",
+      "pg049_sec001",
+      "pg050_sec001",
+      "pg051_sec001",
+      "pg052_sec001",
+      "pg053_sec001",
+      "pg054_sec001",
+      "pg056_sec001",
+      "pg057_sec001",
+      "pg058_sec001",
+      "pg059_sec001",
+      "pg060_sec001",
+      "pg061_sec001",
+      "pg063_sec001",
+      "pg064_sec001",
+      "pg066_sec001",
+      "pg067_sec001",
+      "pg068_sec001",
+      "pg069_sec001",
+      "pg070_sec001",
+      "pg071_sec001",
+      "pg072_sec001",
+      "pg073_sec001",
+      "pg075_sec001",
+      "pg076_sec001",
+      "pg078_sec001",
+      "pg079_sec001",
+      "pg080_sec001",
+      "pg081_sec001",
+      "pg082_sec001",
+      "pg083_sec001",
+      "pg084_sec001",
+      "pg091_sec001",
+      "pg099_sec001",
+      "pg102_sec001"
+    ]
   },
   "taya": {
     "word": "taya",
@@ -2127,7 +3825,10 @@
       "taya",
       "mataya"
     ],
-    "emoji": "🦷🙂"
+    "emoji": "🦷🙂",
+    "pages": [
+      "pg048_sec001"
+    ]
   },
   "tembo": {
     "word": "tembo",
@@ -2136,7 +3837,13 @@
       "tembo",
       "ndovu"
     ],
-    "emoji": "🐘"
+    "emoji": "🐘",
+    "pages": [
+      "pg033_sec001",
+      "pg074_sec001",
+      "pg075_sec001",
+      "pg102_sec001"
+    ]
   },
   "tenganisha": {
     "word": "tenganisha",
@@ -2145,7 +3852,38 @@
       "tenganisha",
       "kutenganisha"
     ],
-    "emoji": "↔️✂️"
+    "emoji": "↔️✂️",
+    "pages": [
+      "pg019_sec001",
+      "pg021_sec001",
+      "pg023_sec001",
+      "pg025_sec001",
+      "pg028_sec001",
+      "pg032_sec001",
+      "pg034_sec001",
+      "pg037_sec001",
+      "pg040_sec001",
+      "pg044_sec001",
+      "pg048_sec001",
+      "pg051_sec001",
+      "pg054_sec001",
+      "pg058_sec001",
+      "pg061_sec001",
+      "pg064_sec001",
+      "pg067_sec001",
+      "pg069_sec001",
+      "pg071_sec001",
+      "pg073_sec001",
+      "pg076_sec001",
+      "pg079_sec001",
+      "pg082_sec001",
+      "pg084_sec001",
+      "pg086_sec001",
+      "pg087_sec001",
+      "pg088_sec001",
+      "pg089_sec001",
+      "pg092_sec001"
+    ]
   },
   "thamani": {
     "word": "thamani",
@@ -2154,7 +3892,14 @@
       "thamani",
       "thamani ya"
     ],
-    "emoji": "💰⭐"
+    "emoji": "💰⭐",
+    "pages": [
+      "pg071_sec001",
+      "pg072_sec001",
+      "pg087_sec001",
+      "pg088_sec001",
+      "pg089_sec001"
+    ]
   },
   "thaminiwa": {
     "word": "thaminiwa",
@@ -2163,7 +3908,15 @@
       "kuthaminiwa",
       "thamani"
     ],
-    "emoji": "💖⭐"
+    "emoji": "💖⭐",
+    "pages": [
+      "pg071_sec001",
+      "pg072_sec001",
+      "pg087_sec001",
+      "pg088_sec001",
+      "pg089_sec001",
+      "pg105_sec001"
+    ]
   },
   "thelathini": {
     "word": "thelathini",
@@ -2171,7 +3924,11 @@
     "variations": [
       "thelathini"
     ],
-    "emoji": "3️⃣0️⃣"
+    "emoji": "3️⃣0️⃣",
+    "pages": [
+      "pg071_sec001",
+      "pg072_sec001"
+    ]
   },
   "themanini": {
     "word": "themanini",
@@ -2179,7 +3936,11 @@
     "variations": [
       "themanini"
     ],
-    "emoji": "8️⃣0️⃣"
+    "emoji": "8️⃣0️⃣",
+    "pages": [
+      "pg071_sec001",
+      "pg072_sec001"
+    ]
   },
   "thumni": {
     "word": "thumni",
@@ -2187,7 +3948,11 @@
     "variations": [
       "thumni"
     ],
-    "emoji": "8️⃣"
+    "emoji": "8️⃣",
+    "pages": [
+      "pg071_sec001",
+      "pg072_sec001"
+    ]
   },
   "tope": {
     "word": "tope",
@@ -2195,7 +3960,10 @@
     "variations": [
       "tope"
     ],
-    "emoji": "🟤💧"
+    "emoji": "🟤💧",
+    "pages": [
+      "pg038_sec001"
+    ]
   },
   "tunga": {
     "word": "tunga",
@@ -2204,7 +3972,39 @@
       "tunga",
       "kutunga"
     ],
-    "emoji": "✍️📝"
+    "emoji": "✍️📝",
+    "pages": [
+      "pg020_sec001",
+      "pg022_sec001",
+      "pg024_sec001",
+      "pg026_sec001",
+      "pg028_sec001",
+      "pg033_sec001",
+      "pg035_sec001",
+      "pg038_sec001",
+      "pg040_sec001",
+      "pg041_sec001",
+      "pg044_sec001",
+      "pg045_sec001",
+      "pg048_sec001",
+      "pg051_sec001",
+      "pg055_sec001",
+      "pg058_sec001",
+      "pg059_sec001",
+      "pg061_sec001",
+      "pg062_sec001",
+      "pg065_sec001",
+      "pg070_sec001",
+      "pg072_sec001",
+      "pg074_sec001",
+      "pg077_sec001",
+      "pg080_sec001",
+      "pg082_sec001",
+      "pg085_sec001",
+      "pg086_sec001",
+      "pg089_sec001",
+      "pg093_sec001"
+    ]
   },
   "ua": {
     "word": "ua",
@@ -2214,7 +4014,14 @@
       "yadi",
       "maua"
     ],
-    "emoji": "🏡🌸"
+    "emoji": "🏡🌸",
+    "pages": [
+      "pg013_sec001",
+      "pg016_sec001",
+      "pg017_sec001",
+      "pg029_sec001",
+      "pg101_sec001"
+    ]
   },
   "ualbino": {
     "word": "ualbino",
@@ -2223,7 +4030,11 @@
       "albino",
       "watu wenye ualbino"
     ],
-    "emoji": "🧑🏻👀"
+    "emoji": "🧑🏻👀",
+    "pages": [
+      "pg103_sec001",
+      "pg105_sec001"
+    ]
   },
   "ufahamu": {
     "word": "ufahamu",
@@ -2233,7 +4044,12 @@
       "fahamu",
       "kufahamu"
     ],
-    "emoji": "🧠📖"
+    "emoji": "🧠📖",
+    "pages": [
+      "pg005_sec001",
+      "pg091_sec001",
+      "pg094_sec001"
+    ]
   },
   "ufasaha": {
     "word": "ufasaha",
@@ -2242,7 +4058,12 @@
       "kusoma kwa ufasaha",
       "ufasaha"
     ],
-    "emoji": "📖🗣️✨"
+    "emoji": "📖🗣️✨",
+    "pages": [
+      "pg005_sec001",
+      "pg090_sec001",
+      "pg099_sec001"
+    ]
   },
   "uhai": {
     "word": "uhai",
@@ -2252,7 +4073,10 @@
       "maisha",
       "hai"
     ],
-    "emoji": "🌱❤️"
+    "emoji": "🌱❤️",
+    "pages": [
+      "pg054_sec001"
+    ]
   },
   "ujuzi": {
     "word": "ujuzi",
@@ -2260,7 +4084,10 @@
     "variations": [
       "ujuzi"
     ],
-    "emoji": "🧠🛠️"
+    "emoji": "🧠🛠️",
+    "pages": [
+      "pg091_sec001"
+    ]
   },
   "ukuta": {
     "word": "ukuta",
@@ -2269,7 +4096,12 @@
       "ukuta",
       "kuta"
     ],
-    "emoji": "🧱🏠"
+    "emoji": "🧱🏠",
+    "pages": [
+      "pg016_sec001",
+      "pg017_sec001",
+      "pg100_sec001"
+    ]
   },
   "ulemavu": {
     "word": "ulemavu",
@@ -2279,7 +4111,12 @@
       "ulemavu wa kutoona",
       "walemavu"
     ],
-    "emoji": "♿🧠"
+    "emoji": "♿🧠",
+    "pages": [
+      "pg103_sec001",
+      "pg104_sec001",
+      "pg105_sec001"
+    ]
   },
   "unda": {
     "word": "unda",
@@ -2289,7 +4126,41 @@
       "kuunda",
       "ulizounda"
     ],
-    "emoji": "🛠️🧩"
+    "emoji": "🛠️🧩",
+    "pages": [
+      "pg018_sec001",
+      "pg019_sec001",
+      "pg021_sec001",
+      "pg023_sec001",
+      "pg025_sec001",
+      "pg027_sec001",
+      "pg031_sec001",
+      "pg032_sec001",
+      "pg034_sec001",
+      "pg037_sec001",
+      "pg039_sec001",
+      "pg042_sec001",
+      "pg043_sec001",
+      "pg047_sec001",
+      "pg050_sec001",
+      "pg054_sec001",
+      "pg056_sec001",
+      "pg057_sec001",
+      "pg060_sec001",
+      "pg061_sec001",
+      "pg064_sec001",
+      "pg067_sec001",
+      "pg068_sec001",
+      "pg069_sec001",
+      "pg071_sec001",
+      "pg073_sec001",
+      "pg076_sec001",
+      "pg079_sec001",
+      "pg081_sec001",
+      "pg084_sec001",
+      "pg087_sec001",
+      "pg092_sec001"
+    ]
   },
   "unga": {
     "word": "unga",
@@ -2297,7 +4168,13 @@
     "variations": [
       "unga"
     ],
-    "emoji": "🌾🥣"
+    "emoji": "🌾🥣",
+    "pages": [
+      "pg016_sec001",
+      "pg017_sec001",
+      "pg079_sec001",
+      "pg080_sec001"
+    ]
   },
   "unganisha": {
     "word": "unganisha",
@@ -2306,7 +4183,37 @@
       "unganisha",
       "kuunganisha"
     ],
-    "emoji": "🔗🤝"
+    "emoji": "🔗🤝",
+    "pages": [
+      "pg007_sec001",
+      "pg019_sec001",
+      "pg021_sec001",
+      "pg023_sec001",
+      "pg025_sec001",
+      "pg027_sec001",
+      "pg032_sec001",
+      "pg034_sec001",
+      "pg037_sec001",
+      "pg039_sec001",
+      "pg043_sec001",
+      "pg047_sec001",
+      "pg050_sec001",
+      "pg054_sec001",
+      "pg057_sec001",
+      "pg060_sec001",
+      "pg061_sec001",
+      "pg064_sec001",
+      "pg067_sec001",
+      "pg069_sec001",
+      "pg071_sec001",
+      "pg073_sec001",
+      "pg076_sec001",
+      "pg079_sec001",
+      "pg081_sec001",
+      "pg084_sec001",
+      "pg087_sec001",
+      "pg092_sec001"
+    ]
   },
   "ungo": {
     "word": "ungo",
@@ -2314,7 +4221,11 @@
     "variations": [
       "ungo"
     ],
-    "emoji": "🧺"
+    "emoji": "🧺",
+    "pages": [
+      "pg016_sec001",
+      "pg080_sec001"
+    ]
   },
   "unyoya": {
     "word": "unyoya",
@@ -2323,7 +4234,11 @@
       "unyoya",
       "manyoya"
     ],
-    "emoji": "🪶"
+    "emoji": "🪶",
+    "pages": [
+      "pg028_sec001",
+      "pg077_sec001"
+    ]
   },
   "upepo": {
     "word": "upepo",
@@ -2331,7 +4246,11 @@
     "variations": [
       "upepo"
     ],
-    "emoji": "💨🍃"
+    "emoji": "💨🍃",
+    "pages": [
+      "pg038_sec001",
+      "pg094_sec001"
+    ]
   },
   "usahihi": {
     "word": "usahihi",
@@ -2341,7 +4260,15 @@
       "kwa usahihi",
       "sahihi"
     ],
-    "emoji": "✅🎯"
+    "emoji": "✅🎯",
+    "pages": [
+      "pg089_sec001",
+      "pg093_sec001",
+      "pg098_sec001",
+      "pg099_sec001",
+      "pg100_sec001",
+      "pg101_sec001"
+    ]
   },
   "usalama barabarani": {
     "word": "usalama barabarani",
@@ -2350,7 +4277,11 @@
       "usalama barabarani",
       "usalama"
     ],
-    "emoji": "🛣️🚸"
+    "emoji": "🛣️🚸",
+    "pages": [
+      "pg097_sec001",
+      "pg098_sec001"
+    ]
   },
   "uzi": {
     "word": "uzi",
@@ -2359,7 +4290,13 @@
       "uzi",
       "nyuzi"
     ],
-    "emoji": "🧵"
+    "emoji": "🧵",
+    "pages": [
+      "pg016_sec001",
+      "pg017_sec001",
+      "pg051_sec001",
+      "pg100_sec001"
+    ]
   },
   "uziwi": {
     "word": "uziwi",
@@ -2368,7 +4305,10 @@
       "uziwi",
       "kiziwi"
     ],
-    "emoji": "🦻🔇"
+    "emoji": "🦻🔇",
+    "pages": [
+      "pg103_sec001"
+    ]
   },
   "viatu": {
     "word": "viatu",
@@ -2377,7 +4317,15 @@
       "kiatu",
       "viatu"
     ],
-    "emoji": "👟👣"
+    "emoji": "👟👣",
+    "pages": [
+      "pg062_sec001",
+      "pg064_sec001",
+      "pg065_sec001",
+      "pg087_sec001",
+      "pg088_sec001",
+      "pg089_sec001"
+    ]
   },
   "viazi": {
     "word": "viazi",
@@ -2386,7 +4334,10 @@
       "kiazi",
       "viazi"
     ],
-    "emoji": "🥔"
+    "emoji": "🥔",
+    "pages": [
+      "pg065_sec001"
+    ]
   },
   "vinu": {
     "word": "vinu",
@@ -2395,7 +4346,12 @@
       "kinu",
       "vinu"
     ],
-    "emoji": "🌾🪵"
+    "emoji": "🌾🪵",
+    "pages": [
+      "pg028_sec001",
+      "pg064_sec001",
+      "pg065_sec001"
+    ]
   },
   "visu": {
     "word": "visu",
@@ -2404,7 +4360,11 @@
       "kisu",
       "visu"
     ],
-    "emoji": "🔪"
+    "emoji": "🔪",
+    "pages": [
+      "pg064_sec001",
+      "pg065_sec001"
+    ]
   },
   "viti": {
     "word": "viti",
@@ -2413,7 +4373,13 @@
       "kiti",
       "viti"
     ],
-    "emoji": "🪑"
+    "emoji": "🪑",
+    "pages": [
+      "pg035_sec001",
+      "pg064_sec001",
+      "pg065_sec001",
+      "pg078_sec001"
+    ]
   },
   "viungo": {
     "word": "viungo",
@@ -2422,7 +4388,10 @@
       "kiungo",
       "viungo"
     ],
-    "emoji": "💪🦵"
+    "emoji": "💪🦵",
+    "pages": [
+      "pg103_sec001"
+    ]
   },
   "vua": {
     "word": "vua",
@@ -2432,7 +4401,11 @@
       "kuvua",
       "amevua"
     ],
-    "emoji": "👕↘️"
+    "emoji": "👕↘️",
+    "pages": [
+      "pg064_sec001",
+      "pg065_sec001"
+    ]
   },
   "vuta": {
     "word": "vuta",
@@ -2442,7 +4415,11 @@
       "kuvuta",
       "anavuta"
     ],
-    "emoji": "↩️💪"
+    "emoji": "↩️💪",
+    "pages": [
+      "pg064_sec001",
+      "pg065_sec001"
+    ]
   },
   "vutia": {
     "word": "vutia",
@@ -2452,7 +4429,11 @@
       "kuvutia",
       "vinavutia"
     ],
-    "emoji": "✨😍"
+    "emoji": "✨😍",
+    "pages": [
+      "pg064_sec001",
+      "pg065_sec001"
+    ]
   },
   "walimu": {
     "word": "walimu",
@@ -2461,7 +4442,16 @@
       "mwalimu",
       "walimu"
     ],
-    "emoji": "👩‍🏫📚"
+    "emoji": "👩‍🏫📚",
+    "pages": [
+      "pg006_sec001",
+      "pg007_sec001",
+      "pg009_sec001",
+      "pg061_sec001",
+      "pg102_sec001",
+      "pg103_sec001",
+      "pg104_sec001"
+    ]
   },
   "wanunuzi": {
     "word": "wanunuzi",
@@ -2470,7 +4460,10 @@
       "mnunuzi",
       "wanunuzi"
     ],
-    "emoji": "🛍️👥"
+    "emoji": "🛍️👥",
+    "pages": [
+      "pg091_sec001"
+    ]
   },
   "watoto": {
     "word": "watoto",
@@ -2479,7 +4472,25 @@
       "mtoto",
       "watoto"
     ],
-    "emoji": "🧒👧"
+    "emoji": "🧒👧",
+    "pages": [
+      "pg007_sec001",
+      "pg008_sec001",
+      "pg010_sec001",
+      "pg011_sec001",
+      "pg013_sec001",
+      "pg016_sec001",
+      "pg029_sec001",
+      "pg038_sec001",
+      "pg041_sec001",
+      "pg044_sec001",
+      "pg055_sec001",
+      "pg062_sec001",
+      "pg065_sec001",
+      "pg077_sec001",
+      "pg095_sec001",
+      "pg103_sec001"
+    ]
   },
   "waya": {
     "word": "waya",
@@ -2488,7 +4499,11 @@
       "waya",
       "waya za"
     ],
-    "emoji": "🔌🧵"
+    "emoji": "🔌🧵",
+    "pages": [
+      "pg061_sec001",
+      "pg062_sec001"
+    ]
   },
   "wazazi": {
     "word": "wazazi",
@@ -2497,7 +4512,13 @@
       "mzazi",
       "wazazi"
     ],
-    "emoji": "👨‍👩‍👧❤️"
+    "emoji": "👨‍👩‍👧❤️",
+    "pages": [
+      "pg062_sec001",
+      "pg086_sec001",
+      "pg090_sec001",
+      "pg091_sec001"
+    ]
   },
   "wazo": {
     "word": "wazo",
@@ -2506,7 +4527,10 @@
       "wazo",
       "mawazo"
     ],
-    "emoji": "💡🧠"
+    "emoji": "💡🧠",
+    "pages": [
+      "pg061_sec001"
+    ]
   },
   "wazuri": {
     "word": "wazuri",
@@ -2516,7 +4540,12 @@
       "wazuri",
       "uzuri"
     ],
-    "emoji": "✨😊"
+    "emoji": "✨😊",
+    "pages": [
+      "pg061_sec001",
+      "pg091_sec001",
+      "pg096_sec001"
+    ]
   },
   "wema": {
     "word": "wema",
@@ -2525,7 +4554,11 @@
       "wema",
       "mwema"
     ],
-    "emoji": "🤝💖"
+    "emoji": "🤝💖",
+    "pages": [
+      "pg061_sec001",
+      "pg062_sec001"
+    ]
   },
   "wenzangu": {
     "word": "wenzangu",
@@ -2535,7 +4568,12 @@
       "wenzetu",
       "wenzako"
     ],
-    "emoji": "👫🧑‍🤝‍🧑"
+    "emoji": "👫🧑‍🤝‍🧑",
+    "pages": [
+      "pg010_sec001",
+      "pg096_sec001",
+      "pg104_sec001"
+    ]
   },
   "wezi": {
     "word": "wezi",
@@ -2544,7 +4582,10 @@
       "mwizi",
       "wezi"
     ],
-    "emoji": "🕵️ चोरी"
+    "emoji": "🕵️ चोरी",
+    "pages": [
+      "pg061_sec001"
+    ]
   },
   "wima": {
     "word": "wima",
@@ -2552,7 +4593,11 @@
     "variations": [
       "wima"
     ],
-    "emoji": "📏⬆️"
+    "emoji": "📏⬆️",
+    "pages": [
+      "pg061_sec001",
+      "pg062_sec001"
+    ]
   },
   "wimbo": {
     "word": "wimbo",
@@ -2561,7 +4606,13 @@
       "nyimbo",
       "wimbo"
     ],
-    "emoji": "🎵🎶"
+    "emoji": "🎵🎶",
+    "pages": [
+      "pg007_sec001",
+      "pg009_sec001",
+      "pg077_sec001",
+      "pg102_sec001"
+    ]
   },
   "woga": {
     "word": "woga",
@@ -2570,7 +4621,10 @@
       "woga",
       "kuogopa"
     ],
-    "emoji": "😟⚠️"
+    "emoji": "😟⚠️",
+    "pages": [
+      "pg061_sec001"
+    ]
   },
   "yai": {
     "word": "yai",
@@ -2579,7 +4633,12 @@
       "yai",
       "mayai"
     ],
-    "emoji": "🥚🐔"
+    "emoji": "🥚🐔",
+    "pages": [
+      "pg046_sec001",
+      "pg048_sec001",
+      "pg100_sec001"
+    ]
   },
   "yaya": {
     "word": "yaya",
@@ -2588,7 +4647,10 @@
       "yaya",
       "mayaya"
     ],
-    "emoji": "👶🧑‍🍼"
+    "emoji": "👶🧑‍🍼",
+    "pages": [
+      "pg048_sec001"
+    ]
   },
   "zabibu": {
     "word": "zabibu",
@@ -2597,7 +4659,13 @@
       "zabibu",
       "zabibu nyingi"
     ],
-    "emoji": "🍇"
+    "emoji": "🍇",
+    "pages": [
+      "pg049_sec001",
+      "pg050_sec001",
+      "pg051_sec001",
+      "pg052_sec001"
+    ]
   },
   "zawadi": {
     "word": "zawadi",
@@ -2606,7 +4674,12 @@
       "zawadi",
       "zawadi za"
     ],
-    "emoji": "🎁🎉"
+    "emoji": "🎁🎉",
+    "pages": [
+      "pg062_sec001",
+      "pg091_sec001",
+      "pg102_sec001"
+    ]
   },
   "zeze": {
     "word": "zeze",
@@ -2615,7 +4688,11 @@
       "zeze",
       "mazeze"
     ],
-    "emoji": "🎻🎶"
+    "emoji": "🎻🎶",
+    "pages": [
+      "pg051_sec001",
+      "pg100_sec001"
+    ]
   },
   "zima": {
     "word": "zima",
@@ -2625,7 +4702,11 @@
       "amezima",
       "kuzima"
     ],
-    "emoji": "🕯️❌"
+    "emoji": "🕯️❌",
+    "pages": [
+      "pg051_sec001",
+      "pg100_sec001"
+    ]
   },
   "zipu": {
     "word": "zipu",
@@ -2634,7 +4715,13 @@
       "zipu",
       "zipu za nguo"
     ],
-    "emoji": "🧥🪡"
+    "emoji": "🧥🪡",
+    "pages": [
+      "pg049_sec001",
+      "pg050_sec001",
+      "pg051_sec001",
+      "pg052_sec001"
+    ]
   },
   "zulia": {
     "word": "zulia",
@@ -2643,6 +4730,353 @@
       "zulia",
       "mazulia"
     ],
-    "emoji": "🧶🏠"
+    "emoji": "🧶🏠",
+    "pages": [
+      "pg051_sec001"
+    ]
+  },
+  "kusoma": {
+    "word": "kusoma",
+    "definition": "Kutambua herufi na maneno yaliyoandikwa na kuelewa maana yake.",
+    "variations": [
+      "kusoma",
+      "soma"
+    ],
+    "emoji": "📖",
+    "pages": [
+      "pg001_sec001",
+      "pg002_sec001",
+      "pg003_sec001",
+      "pg004_sec001",
+      "pg005_sec001",
+      "pg006_sec001",
+      "pg007_sec001",
+      "pg012_sec001",
+      "pg013_sec001",
+      "pg015_sec001",
+      "pg018_sec001",
+      "pg019_sec001",
+      "pg020_sec001",
+      "pg021_sec001",
+      "pg023_sec001",
+      "pg024_sec001",
+      "pg025_sec001",
+      "pg026_sec001",
+      "pg027_sec001",
+      "pg028_sec001",
+      "pg031_sec001",
+      "pg032_sec001",
+      "pg033_sec001",
+      "pg034_sec001",
+      "pg035_sec001",
+      "pg036_sec001",
+      "pg037_sec001",
+      "pg038_sec001",
+      "pg039_sec001",
+      "pg040_sec001",
+      "pg041_sec001",
+      "pg042_sec001",
+      "pg043_sec001",
+      "pg044_sec001",
+      "pg046_sec001",
+      "pg047_sec001",
+      "pg048_sec001",
+      "pg050_sec001",
+      "pg051_sec001",
+      "pg052_sec001",
+      "pg054_sec001",
+      "pg055_sec001",
+      "pg056_sec001",
+      "pg057_sec001",
+      "pg058_sec001",
+      "pg061_sec001",
+      "pg062_sec001",
+      "pg063_sec001",
+      "pg064_sec001",
+      "pg065_sec001",
+      "pg067_sec001",
+      "pg068_sec001",
+      "pg069_sec001",
+      "pg070_sec001",
+      "pg071_sec001",
+      "pg072_sec001",
+      "pg073_sec001",
+      "pg074_sec001",
+      "pg076_sec001",
+      "pg077_sec001",
+      "pg079_sec001",
+      "pg080_sec001",
+      "pg081_sec001",
+      "pg082_sec001",
+      "pg084_sec001",
+      "pg085_sec001",
+      "pg086_sec001",
+      "pg087_sec001",
+      "pg088_sec001",
+      "pg090_sec001",
+      "pg091_sec001",
+      "pg092_sec001",
+      "pg093_sec001",
+      "pg094_sec001",
+      "pg095_sec001",
+      "pg097_sec001",
+      "pg098_sec001",
+      "pg099_sec001",
+      "pg100_sec001",
+      "pg101_sec001",
+      "pg102_sec001",
+      "pg103_sec001",
+      "pg104_sec001"
+    ]
+  },
+  "kundirika": {
+    "word": "kundirika",
+    "definition": "Kundi la wanafunzi wanaojifunza katika ngazi moja.",
+    "variations": [
+      "kundirika"
+    ],
+    "emoji": "👥",
+    "pages": [
+      "pg001_sec001",
+      "pg002_sec001",
+      "pg003_sec001",
+      "pg004_sec001",
+      "pg006_sec001",
+      "pg007_sec001",
+      "pg013_sec001",
+      "pg015_sec001",
+      "pg018_sec001",
+      "pg019_sec001",
+      "pg020_sec001",
+      "pg023_sec001",
+      "pg024_sec001",
+      "pg025_sec001",
+      "pg027_sec001",
+      "pg028_sec001",
+      "pg033_sec001",
+      "pg034_sec001",
+      "pg036_sec001",
+      "pg037_sec001",
+      "pg039_sec001",
+      "pg040_sec001",
+      "pg042_sec001",
+      "pg046_sec001",
+      "pg050_sec001",
+      "pg052_sec001",
+      "pg054_sec001",
+      "pg057_sec001",
+      "pg058_sec001",
+      "pg062_sec001",
+      "pg063_sec001",
+      "pg064_sec001",
+      "pg068_sec001",
+      "pg069_sec001",
+      "pg071_sec001",
+      "pg072_sec001",
+      "pg073_sec001",
+      "pg076_sec001",
+      "pg077_sec001",
+      "pg079_sec001",
+      "pg080_sec001",
+      "pg081_sec001",
+      "pg084_sec001",
+      "pg085_sec001",
+      "pg086_sec001",
+      "pg088_sec001",
+      "pg090_sec001",
+      "pg094_sec001",
+      "pg095_sec001",
+      "pg098_sec001",
+      "pg101_sec001",
+      "pg102_sec001",
+      "pg103_sec001",
+      "pg106_sec001"
+    ]
+  },
+  "mwaka": {
+    "word": "mwaka",
+    "definition": "Kipindi cha miezi kumi na miwili.",
+    "variations": [
+      "mwaka",
+      "miaka"
+    ],
+    "emoji": "📅",
+    "pages": [
+      "pg001_sec001",
+      "pg002_sec001",
+      "pg003_sec001",
+      "pg004_sec001",
+      "pg006_sec001",
+      "pg007_sec001",
+      "pg013_sec001",
+      "pg015_sec001",
+      "pg018_sec001",
+      "pg019_sec001",
+      "pg020_sec001",
+      "pg023_sec001",
+      "pg024_sec001",
+      "pg025_sec001",
+      "pg027_sec001",
+      "pg028_sec001",
+      "pg033_sec001",
+      "pg034_sec001",
+      "pg036_sec001",
+      "pg037_sec001",
+      "pg039_sec001",
+      "pg040_sec001",
+      "pg042_sec001",
+      "pg046_sec001",
+      "pg050_sec001",
+      "pg052_sec001",
+      "pg054_sec001",
+      "pg057_sec001",
+      "pg058_sec001",
+      "pg062_sec001",
+      "pg063_sec001",
+      "pg064_sec001",
+      "pg068_sec001",
+      "pg069_sec001",
+      "pg071_sec001",
+      "pg072_sec001",
+      "pg073_sec001",
+      "pg076_sec001",
+      "pg077_sec001",
+      "pg079_sec001",
+      "pg080_sec001",
+      "pg081_sec001",
+      "pg084_sec001",
+      "pg085_sec001",
+      "pg086_sec001",
+      "pg088_sec001",
+      "pg090_sec001",
+      "pg094_sec001",
+      "pg095_sec001",
+      "pg098_sec001",
+      "pg100_sec001",
+      "pg101_sec001",
+      "pg102_sec001",
+      "pg103_sec001",
+      "pg104_sec001",
+      "pg106_sec001"
+    ]
+  },
+  "taasisi": {
+    "word": "taasisi",
+    "definition": "Shirika linalofanya kazi maalumu, kama kuandaa vitabu vya elimu.",
+    "variations": [
+      "taasisi"
+    ],
+    "emoji": "🏫",
+    "pages": [
+      "pg001_sec001",
+      "pg002_sec001",
+      "pg003_sec001",
+      "pg006_sec001",
+      "pg007_sec001",
+      "pg106_sec001"
+    ]
+  },
+  "serikali": {
+    "word": "serikali",
+    "definition": "Chombo kinachoongoza na kusimamia shughuli za nchi.",
+    "variations": [
+      "serikali"
+    ],
+    "emoji": "🇹🇿",
+    "pages": [
+      "pg001_sec001",
+      "pg106_sec001"
+    ]
+  },
+  "hakiuzwi": {
+    "word": "hakiuzwi",
+    "definition": "Kitabu hakitolewi kwa malipo ya fedha.",
+    "variations": [
+      "hakiuzwi",
+      "haiuzwi"
+    ],
+    "emoji": "📚",
+    "pages": [
+      "pg001_sec001",
+      "pg106_sec001"
+    ]
+  },
+  "kuhesabu": {
+    "word": "kuhesabu",
+    "definition": "Kutaja namba ili kujua idadi ya vitu.",
+    "variations": [
+      "kuhesabu"
+    ],
+    "emoji": "🔢",
+    "pages": [
+      "pg006_sec001",
+      "pg007_sec001",
+      "pg091_sec001",
+      "pg106_sec001"
+    ]
+  },
+  "afya": {
+    "word": "afya",
+    "definition": "Hali ya kuwa mzima wa mwili na akili.",
+    "variations": [
+      "afya"
+    ],
+    "emoji": "💚",
+    "pages": [
+      "pg106_sec001"
+    ]
+  },
+  "michezo": {
+    "word": "michezo",
+    "definition": "Shughuli za kujiburudisha na kuimarisha mwili au akili.",
+    "variations": [
+      "michezo",
+      "mchezo"
+    ],
+    "emoji": "⚽",
+    "pages": [
+      "pg070_sec001",
+      "pg106_sec001"
+    ]
+  },
+  "sanaa": {
+    "word": "sanaa",
+    "definition": "Kazi za ubunifu kama kuchora, kuimba na kuigiza.",
+    "variations": [
+      "sanaa"
+    ],
+    "emoji": "🎨",
+    "pages": [
+      "pg106_sec001"
+    ]
+  },
+  "kuandika": {
+    "word": "kuandika",
+    "definition": "Kutumia herufi na alama kuweka mawazo katika maandishi.",
+    "variations": [
+      "kuandika",
+      "andika"
+    ],
+    "emoji": "✍️",
+    "pages": [
+      "pg006_sec001",
+      "pg007_sec001",
+      "pg028_sec001",
+      "pg098_sec001",
+      "pg106_sec001"
+    ]
+  },
+  "dashi": {
+    "word": "dashi",
+    "definition": "Alama ya mstari mfupi. Katika zoezi, huonesha nafasi ya kujaza herufi au neno.",
+    "variations": [
+      "dashi"
+    ],
+    "emoji": "✏️",
+    "pages": [
+      "pg029_sec001",
+      "pg030_sec001",
+      "pg087_sec001"
+    ]
   }
 }
