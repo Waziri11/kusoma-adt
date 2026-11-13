@@ -66,8 +66,14 @@ jobs:
               assert page.meta['title-id'] == entry['section_id']
               assert page.meta['page-section-id'] == str(number)
               assert entry['page_number'] == number
-              assert urlsplit(videos[f'video-{number}']).path == f'page_{number}.mp4'
+              video = videos.get(f'video-{number}')
+              if video is not None:
+                  assert urlsplit(video).path == f'page_{number}.mp4'
               assert any(entry['section_id'] in term['pages'] for term in glossary.values())
+          assert set(videos) <= {f'video-{number}' for number in range(1, len(pages) + 1)}
+          assert {p.name for p in (locale / 'video').glob('*.mp4')} == {
+              urlsplit(filename).path for filename in videos.values()
+          }
           for folder, mappings in [('audio', audios), ('video', videos)]:
               for filename in mappings.values():
                   asset = locale / folder / urlsplit(filename).path
